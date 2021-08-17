@@ -3,7 +3,7 @@ name: Deploy
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy-gh-pages:
@@ -33,7 +33,7 @@ jobs:
 
       - name: Build and zip
         run: |
-          yarn run build
+          yarn build
           zip -r tribe.zip dist
         env:
           LEANCLOUD_APP_ID: ${{ secrets.LEANCLOUD_APP_ID }} # 评论系统的ID
