@@ -1,4 +1,3 @@
-#!/bin/sh
 @echo off
  
 title GIT一键提交
