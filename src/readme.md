@@ -1,23 +1,17 @@
 ---
 home: true
-title: 七七部落 | 主页
-heroImage: /images/index/kaisi.png
-heroText: 七七部落 | 主页
+title: 柒柒博客 | 主页
+# heroImage: /images/index/kaisi.png
+heroText: 柒柒博客 | 主页
 tagline: Actions speak louder than words
 # 不显示主页的图标、描述
 hero: false
 action:
-- text: 博客
+- text: 我的博客
   link: /blog
   
-- text: 文档
-  link: /docs/
-  
-- text: 电子书
-  link: /ebook/
-
-- text: 算法
-  link: http://alg.dreamagain.top/
+- text: 开源项目
+  link: /open/
   
   
 features:
@@ -30,12 +24,12 @@ features:
     link: /docs/
 
   - title: 阅览室
-    details: 电子书阅读推荐
+    details: 读万里书，行万里路
     link: /ebook/
 
   - title: 算法
     details: leetcode & nowcoder，每日一题，夯实基础
-    link: http://alg.dreamagain.top/
+    link: /algorithm/
     
   - title: 
     details: 

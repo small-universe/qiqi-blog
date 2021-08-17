@@ -7,22 +7,22 @@ const sidebar = require("./config/sidebar");
 const common_plugin = require("./common-plugin")
 
 module.exports = config({
-  title: "七七部落",
+  title: "柒柒博客",
   description: "Actions speak louder than words.",
   port: 8090, //本地测试端口
   head: [
     // 增加一个自定义的 favicon(网页标签的图标)
     // 这里的 '/' 指向 docs/.vuepress/public 文件目录
     // 即 src/.vuepress/public/
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/favicon.png' }],
   ],
 
   // 生成 <link rel="prefetch"> 资源提示
   shouldPrefetch: (filename) => !filename.includes("page-"),
 
   themeConfig: {
-    logo: "/logo.png",
-    author: "南辞",
+    logo: "/favicon-2.png",
+    author: "羽子柒",
     hostname: "http://qiqi.dreamagain.top",
     backToTop: false, // 回到顶部（用小喵代替）
     editLinks: false, // 显示编辑本页链接（全局不显示）
@@ -42,7 +42,7 @@ module.exports = config({
     blog: {
       intro: "/about/intro.html",//个人介绍地址
       sidebarDisplay: "mobile",
-      blogger: "南辞", //博主名
+      blogger: "羽子柒", //博主名
       avatar: "/avatar.jpg",//头像
       links: {
         Zhihu: "https://zhihu.com/people/qiqiblog",
@@ -87,10 +87,9 @@ module.exports = config({
     // 页脚
     footer: {
       display: true,
-      content:"七七部落 " +
-          "| <a href='http://icp.chinaz.com/%E6%BB%87ICP%E5%A4%8720004889%E5%8F%B7-1' target='_blank'>滇ICP备20004889号-1 </a>" +
-          "| <a href='http://www.dreamagain.top' target='_blank'>七七博客</a>"+" -『基于Nuxt.js』",
-      copyright: "<a href='https://github.com/small-universe/qiqi-tribe/blob/main/LICENSE' target='_blank'>License MIT</a> | Copyright © 2021 Mr·Yang『nanci』",
+      content:"柒柒博客 " +
+          "| <a href='http://icp.chinaz.com/%E6%BB%87ICP%E5%A4%8720004889%E5%8F%B7-1' target='_blank'>滇ICP备20004889号-1 </a>",
+      copyright: "<a href='https://github.com/small-universe/vuepress-blog/blob/main/LICENSE' target='_blank'>License MIT</a> | Copyright © 2021 Mr·Yang『nanci』",
     },
 
     // 搜索配置
@@ -106,7 +105,7 @@ module.exports = config({
     },
 
     pwa: {
-      favicon: "/favicon.ico",
+      favicon: "/favicon.png",
       themeColor: "#5c92d1",
       apple: {
         icon: "/assets/icon/apple-icon-152.png",
@@ -117,9 +116,9 @@ module.exports = config({
         color: "#ffffff",
       },
       manifest: {
-        name: "七七部落",
+        name: "柒柒博客",
         short_name: "QiQi Tribe",
-        description: "南辞 个人博客",
+        description: "羽子柒的个人博客",
         theme_color: "#5c92d1",
         icons: [
           {

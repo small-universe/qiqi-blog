@@ -179,7 +179,7 @@ dev、build是vuepress中的相关命令，更多命令参考：[命令行接口
 ```md
 ---
 home: true
-heroImage: /logo.png
+heroImage: /favicon.png
 heroText: 七七算法
 tagline: welcome
 actionText: 了解更多 →
@@ -288,7 +288,7 @@ module.exports = {
       ['link', { rel: 'icon', href: '/favicon.ico' }], // 增加一个自定义的 favicon(网页标签的图标)
     ],
     themeConfig: {
-      logo: '/logo.png',  // 左上角logo
+      logo: '/favicon.png',  // 左上角logo
       nav:[ // 导航栏配置
         {text: '首页', link: '/' },
         {text: '侧边栏测试', link: '/sidebar' },
