@@ -1,0 +1,92 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy-gh-pages:
+    runs-on: ubuntu-latest
+    steps:
+      # 获取 main分支的源码
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
+          submodules: true
+          fetch-depth: 0
+
+      - uses: actions/cache@v2
+        id: node-modules
+        with:
+          path: node_modules/
+          key: ${{ runner.os }}-node-modules-${{ hashFiles('yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-node-modules-
+
+      - name: Install Deps
+        if: steps.node-modules.outputs.cache-hit != 'true'
+        run: yarn install
+        # run: yarn install --frozen-lockfile
+
+      - name: Build and zip
+        run: |
+          yarn build
+          zip -r tribe.zip dist
+        env:
+          LEANCLOUD_APP_ID: ${{ secrets.LEANCLOUD_APP_ID }} # 评论系统的ID
+          LEANCLOUD_APP_KEY: ${{ secrets.LEANCLOUD_APP_KEY }} # 评论系统的KEY
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: dist
+
+      # # Scp脚本拷贝tribe.zip到服务器
+      # - name: Scp file to aliyun
+      #   uses: appleboy/scp-action@master
+      #   with:
+      #     # IP地址
+      #     host: ${{ secrets.ALIYUN_SERVER_IP }}
+      #     # 用户，如：root等
+      #     username: ${{ secrets.ALIYUN_SERVER_USERNAME }}
+      #     # 密码
+      #     password: ${{ secrets.ALIYUN_SERVER_PASSWORD }}
+      #     # ssh端口，如：22
+      #     port: ${{ secrets.ALIYUN_SERVER_PORT }}
+      #     source: "tribe.zip"
+      #     # 将压缩包文件拷贝到服务器指定目录
+      #     target: "/home/tmp"
+
+      # # 备份、解压、删除
+      # - name: Backup and unzip
+      #   uses: appleboy/ssh-action@master
+      #   with:
+      #     # IP地址
+      #     host: ${{ secrets.ALIYUN_SERVER_IP }}
+      #     # 用户，如:root等
+      #     username: ${{ secrets.ALIYUN_SERVER_USERNAME }}
+      #     # 密码
+      #     password: ${{ secrets.ALIYUN_SERVER_PASSWORD }}
+      #     # ssh端口，如：22
+      #     port: ${{ secrets.ALIYUN_SERVER_PORT }}
+      #     # 先备份再解压
+      #     script: |
+      #       echo "################# files remove #################"
+      #       if [ -f "/home/web/tribe-bak" ];then
+      #         rm -rf /home/web/tribe-bak
+      #         echo "tribe-bak exists and is deleted"
+      #       fi
+      #       echo "################# files backup #################"
+      #       if [ -f "/home/web/tribe" ];then
+      #         mv /home/web/tribe /home/web/tribe-bak
+      #         echo "tribe exists and is backupe"
+      #       fi
+      #       echo "################# unzip dist.zip #################"
+      #       unzip -od  /home/web/tribe /home/tmp/tribe.zip
+
+
