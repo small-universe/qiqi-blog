@@ -1,4 +1,4 @@
-name: Deploy QiQi-Tribe
+name: Deploy
 
 on:
   push:
