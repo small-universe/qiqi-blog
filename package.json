@@ -18,12 +18,12 @@
   "license": "MIT",
   "dependencies": {
     "async-validator": "1.11.5",
-    "vuepress": "1.8.0",
-    "vuepress-theme-hope": "1.12.1"
+    "vuepress": "^1.8.2",
+    "vuepress-theme-hope": "^1.19.3"
   },
   "devDependencies": {
     "@vuepress/plugin-nprogress": "^1.8.1",
-    "element-ui": "^2.15.0",
+    "element-ui": "^2.15.5",
     "vuepress-plugin-cursor-effects": "^1.0.0",
     "vuepress-plugin-element-ui": "^1.1.0",
     "vuepress-plugin-go-top": "^1.0.4",
