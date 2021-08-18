@@ -2,7 +2,7 @@
 set -e
 
 # 生成静态文件
-yarn run build
+yarn build
 
 # 进入生成的文件夹
 cd dist
