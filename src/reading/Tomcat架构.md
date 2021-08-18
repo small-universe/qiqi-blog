@@ -26,11 +26,8 @@ Tomcat 作为一个 「`Http` 服务器 + `Servlet` 容器」，对我们屏蔽�
 
 这就是学习**优秀开源软件**能获得的「内功」，从不会过时，其中的设计思想与哲学才是根本之道。从中借鉴设计经验，合理运用设计模式封装变与不变，更能从它们的源码中汲取经验，提升自己的系统设计能力。
 
-
-
 学习 Tomcat 的原理，我发现 `Servlet` 技术是 Web 开发的原点，几乎所有的 Java Web 框架（比如 Spring）都是基于 `Servlet` 的封装，Spring 应用本身就是一个 `Servlet`（DispatchSevlet），而 Tomcat 和 Jetty 这样的 Web 容器，负责加载和运行 `Servlet`。如图所示：
 
-<img src="E:\持续学习\阅读\公众号\images\image-20210817004309407.png" alt="image-20210817004309407" style="zoom:50%;" />
 
 学习 Tomcat ，我还发现用到不少 Java 高级技术，比如 Java 多线程并发编程、Socket 网络编程以及反射等
 

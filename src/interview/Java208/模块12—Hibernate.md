@@ -171,7 +171,7 @@ Hibernate里对象有三种状态：
 2. Persistent（持久）：调用了save()、saveOrUpdate()，就变成Persistent，有id。
 3. Detached（脱管）：当session  close()完之后，变成Detached。
 
-![image-20210110165420322](C:%5CUsers%5CMr%20Yang%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210110165420322.png)
+![image-20210818110152183](./assets/image-20210818110152183.png)
 
 
 
