@@ -2,13 +2,13 @@
 set -e
 
 # 生成静态文件
-npm run build
+yarn run build
 
 # 进入生成的文件夹
 cd dist
 
 # 如果是发布到自定义域名
-echo 'qiqi.dreamagain.top' > CNAME
+echo 'www.dreamagain.top' > CNAME
 
 git init
 git add -A
@@ -18,6 +18,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:small-universe/qiqi-blog.git master:gh-pages
+git push -f git@github.com:small-universe/vuepress-blog.git master:gh-pages
 
 cd -
