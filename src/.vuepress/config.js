@@ -7,7 +7,7 @@ const sidebar = require("./config/sidebar");
 const common_plugin = require("./common-plugin")
 
 module.exports = config({
-  title: "柒柒博客",
+  title: "柒柒博客",  // 站点名
   description: "Actions speak louder than words.",
   port: 8090, //本地测试端口
   head: [
@@ -26,9 +26,10 @@ module.exports = config({
     hostname: "http://qiqi.dreamagain.top",
     backToTop: false, // 回到顶部（用小喵代替）
     editLinks: false, // 显示编辑本页链接（全局不显示）
-    nav: navbar.zh,
-    sidebar: sidebar.zh,
+    nav: navbar,
+    sidebar: sidebar,
     sidebarIcon: false,  // 侧边栏图标是否显示
+    
     // 主题语言:
     baseLang: "zh-CN",
     // locales: {
@@ -40,10 +41,11 @@ module.exports = config({
     // },
 
     blog: {
-      intro: "/about/intro.html",//个人介绍地址
+     
+      intro: "/about/intro.html", //个人介绍地址
       sidebarDisplay: "mobile",
-      blogger: "羽子柒", //博主名
-      avatar: "/avatar.jpg",//头像
+      name: "羽子柒",  // 博客名
+      avatar: "/avatar.jpg",  //头像
       links: {
         Zhihu: "https://zhihu.com/people/qiqiblog",
         Github: "https://github.com/small-universe",
@@ -51,7 +53,7 @@ module.exports = config({
         QQ:"tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1715261428",
         Gmail:"mailto:18846770224@163.com",
       },
-      timeline:"昨日不再", // 时间轴的顶部文字
+      timeline:"昨日重现", // 时间轴的顶部文字
       perPage: 10, //每页文章数量
     },
 

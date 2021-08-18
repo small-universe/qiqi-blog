@@ -1,5 +1,12 @@
 module.exports = [
-    "",
-    "language",
-    "framework",
+    {
+        title: "Java",
+        prefix: "/backend/",
+        collapsable: false,
+        children: [
+          "intro" ,
+          "install" ,
+          "markdown",
+        ],
+    }
 ];
