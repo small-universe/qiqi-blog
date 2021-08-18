@@ -2,17 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <atom:link href="http://qiqi.dreamagain.top/rss.xml" rel="self" type="application/rss+xml"/>
-    <title>七七部落</title>
+    <title>柒柒博客</title>
     <link>http://qiqi.dreamagain.top/</link>
     <description>Actions speak louder than words.</description>
-    <language>zh-CN</language>
-    <pubDate>Tue, 13 Jul 2021 12:43:03 GMT</pubDate>
-    <lastBuildDate>Tue, 13 Jul 2021 12:43:03 GMT</lastBuildDate>
+    <language>en-US</language>
+    <pubDate>Wed, 18 Aug 2021 04:40:40 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Aug 2021 04:40:40 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <copyright>&lt;a href='https://github.com/small-universe/qiqi-tribe/blob/main/LICENSE' target='_blank'&gt;License MIT&lt;/a&gt; | Copyright © 2021 Mr·Yang『nanci』</copyright>
+    <copyright>&lt;a href='https://github.com/small-universe/vuepress-blog/blob/main/LICENSE' target='_blank'&gt;License MIT&lt;/a&gt; | Copyright © 2021 Mr·Yang『nanci』</copyright>
     <category>目录</category>
-    <category>电子书</category>
     <category>使用指南</category>
     <category>面试</category>
     <category>后端框架</category>
@@ -22,6 +21,8 @@
     <category>JavaScript</category>
     <category>前端</category>
     <category>编程开发</category>
+    <category>阅读</category>
+    <category>电子书</category>
     <category>数据库</category>
     <category>软件使用</category>
     <category>在线工具</category>
@@ -30,7 +31,7 @@
       <link>http://qiqi.dreamagain.top/about/intro/</link>
       <guid>http://qiqi.dreamagain.top/about/intro/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">关于我</source>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="自我介绍"> 自我介绍</h2>
 <ul>
 <li>笔名: 南辞</li>
@@ -50,7 +51,7 @@
       <link>http://qiqi.dreamagain.top/about/site/</link>
       <guid>http://qiqi.dreamagain.top/about/site/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">关于本站</source>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="网站介绍"> 网站介绍</h2>
 <p>网站使用 <a href="https://v1.vuepress.vuejs.org/zh/guide/" target="_blank" rel="noopener noreferrer">VuePress</a> 建站工具构建，主题使用 <a href="https://github.com/Mister-Hope/vuepress-theme-hope/" target="_blank" rel="noopener noreferrer">vuepress-theme-hope</a></p>
 <h2 id="仓库链接"> 仓库链接</h2>
@@ -68,7 +69,7 @@
       <link>http://qiqi.dreamagain.top/blog/</link>
       <guid>http://qiqi.dreamagain.top/blog/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">Home</source>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
     </item>
     <item>
       <title>目录导航</title>
@@ -76,13 +77,13 @@
       <guid>http://qiqi.dreamagain.top/content/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">目录导航</source>
       <description>&amp;lt;blockquote&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E4%B8%83%E4%B8%83%E5%8D%9A%E5%AE%A2-%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/七七博客-目录导航-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/blockquote&amp;gt;
 </description>
       <category>目录</category>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p><img src="https://img.shields.io/badge/%E4%B8%83%E4%B8%83%E5%8D%9A%E5%AE%A2-%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA-blue.svg" alt="img"></p>
+<p><img src="https://img.shields.io/badge/七七博客-目录导航-blue.svg" alt="img" /></p>
 </blockquote>
 
 <h2 id="项目结构"> 项目结构</h2>
@@ -147,24 +148,16 @@
       <enclosure url="https://img.shields.io/badge/七七博客-目录导航-blue.svg" type="image/svg+xml"/>
     </item>
     <item>
-      <title>阅览室</title>
-      <link>http://qiqi.dreamagain.top/ebook/</link>
-      <guid>http://qiqi.dreamagain.top/ebook/</guid>
-      <source url="http://qiqi.dreamagain.top/rss.xml">阅览室</source>
-      <category>电子书</category>
-      <pubDate>Sat, 10 Apr 2021 04:40:33 GMT</pubDate>
-    </item>
-    <item>
       <title>element-ui插件使用文档</title>
       <link>http://qiqi.dreamagain.top/guide/element-ui-plugin/</link>
       <guid>http://qiqi.dreamagain.top/guide/element-ui-plugin/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">element-ui插件使用文档</source>
-      <description>&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.npmjs.com/package/vuepress-plugin-element-ui&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/npm/v/vuepress-plugin-element-ui.svg&amp;quot; alt=&amp;quot;Version&amp;quot;&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://www.npmjs.com/package/vuepress-plugin-element-ui&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/npm/l/vuepress-plugin-element-ui.svg&amp;quot; alt=&amp;quot;License&amp;quot;&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/thanks-element-brightgreen.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+      <description>&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.npmjs.com/package/vuepress-plugin-element-ui&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/npm/v/vuepress-plugin-element-ui.svg&amp;quot; alt=&amp;quot;Version&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://www.npmjs.com/package/vuepress-plugin-element-ui&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/npm/l/vuepress-plugin-element-ui.svg&amp;quot; alt=&amp;quot;License&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/thanks-element-brightgreen.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;Vuepress plugin - extend &amp;lt;a href=&amp;quot;https://github.com/ElemeFE/element&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;Element UI&amp;lt;/a&amp;gt; base on markdown-it-container&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
-      <content:encoded><![CDATA[<p><a href="https://www.npmjs.com/package/vuepress-plugin-element-ui" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/npm/v/vuepress-plugin-element-ui.svg" alt="Version"></a> <a href="https://www.npmjs.com/package/vuepress-plugin-element-ui" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/npm/l/vuepress-plugin-element-ui.svg" alt="License"></a> <img src="https://img.shields.io/badge/thanks-element-brightgreen.svg" alt="img"></p>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
+      <content:encoded><![CDATA[<p><a href="https://www.npmjs.com/package/vuepress-plugin-element-ui" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/npm/v/vuepress-plugin-element-ui.svg" alt="Version" /></a> <a href="https://www.npmjs.com/package/vuepress-plugin-element-ui" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/npm/l/vuepress-plugin-element-ui.svg" alt="License" /></a> <img src="https://img.shields.io/badge/thanks-element-brightgreen.svg" alt="img" /></p>
 <p>Vuepress plugin - extend <a href="https://github.com/ElemeFE/element" target="_blank" rel="noopener noreferrer">Element UI</a> base on markdown-it-container</p>
 
 <h2 id="一、安装"> 一、安装</h2>
@@ -193,9 +186,9 @@ module.exports <span>=</span> <span>{</span>
 :::
 ::: el-tab-pane label=javascript
 <span><span>```</span><span> javascript</span>
-<span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>(</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>)</span><span>&lt;</span><span>/</span>span<span>></span> <span>&lt;</span>span <span>class</span><span>=</span><span>"token operator"</span><span>>=</span><span>></span><span>&lt;</span><span>/</span>span<span>></span> <span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>{</span><span>&lt;</span><span>/</span>span<span>></span>
-  console<span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>.</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token function"</span><span>></span>log<span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>(</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token string"</span><span>></span><span>'Javascript code example'</span><span>&lt;</span><span>/</span>span<span>></span><span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>)</span><span>&lt;</span><span>/</span>span<span>></span>
-<span>&lt;</span>span <span>class</span><span>=</span><span>"token punctuation"</span><span>></span><span>}</span><span>&lt;</span><span>/</span>span<span>></span></span>
+<span><span>(</span><span>)</span> <span>=></span> <span>{</span>
+  console<span>.</span><span>log</span><span>(</span><span>'Javascript code example'</span><span>)</span>
+<span>}</span></span>
 <span>```</span></span>
 :::
 ::::
@@ -223,7 +216,7 @@ module.exports <span>=</span> <span>{</span>
   console<span>.</span><span>log</span><span>(</span><span>'Javascript code example'</span><span>)</span>
 <span>}</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><div><p>注意</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><div><p>Note</p>
 <p>这里左右两侧图标有轻微遮挡，影响美观，应该需要在源码中调整z-index 属性。但不影响使用，这里暂且不对源码动刀了</p>
 </div>
 </el-tab-pane>
@@ -318,11 +311,11 @@ module.exports <span>=</span> <span>{</span>
   &#39;el-avatar&#39;,              &#39;el-drawer&#39;,          &#39;el-popconfirm&#39;
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br></div></div><p>当然，你可以直接在Markdown中使用element标签，因为 vuepress是使用vue-loader来编译markdown的</p>
-<div><pre><code>&lt;el-tag&gt;标签一&lt;/el-tag&gt;
-&lt;el-tag type=&quot;success&quot;&gt;标签二&lt;/el-tag&gt;
-&lt;el-tag type=&quot;info&quot;&gt;标签三&lt;/el-tag&gt;
-&lt;el-tag type=&quot;warning&quot;&gt;标签四&lt;/el-tag&gt;
-&lt;el-tag type=&quot;danger&quot;&gt;标签五&lt;/el-tag&gt;
+<div><pre><code>&amp;lt;el-tag&gt;标签一&amp;lt;/el-tag&gt;
+&amp;lt;el-tag type=&quot;success&quot;&gt;标签二&amp;lt;/el-tag&gt;
+&amp;lt;el-tag type=&quot;info&quot;&gt;标签三&amp;lt;/el-tag&gt;
+&amp;lt;el-tag type=&quot;warning&quot;&gt;标签四&amp;lt;/el-tag&gt;
+&amp;lt;el-tag type=&quot;danger&quot;&gt;标签五&amp;lt;/el-tag&gt;
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><el-tag>标签一</el-tag>
 <el-tag type="success">标签二</el-tag>
@@ -342,7 +335,7 @@ module.exports <span>=</span> <span>{</span>
 &amp;lt;/blockquote&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
 <p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-md-enhance.mrhope.site" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 </blockquote>
@@ -407,7 +400,14 @@ module.exports <span>=</span> <span>{</span>
 <li><a href="https://vuepress-theme.mrhope.site/zh/guide/feature/markdown/mark/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
 </ul>
 <h3 id="流程图"> 流程图</h3>
-<i>Not supported content</i><details><summary>代码</summary>
+<p>@flowstart
+cond=&gt;condition: Process?
+process=&gt;operation: Process
+e=&gt;end: End</p>
+<p>cond(yes)-&gt;process-&gt;e
+cond(no)-&gt;e
+@flowend</p>
+<details><summary>代码</summary>
 <div><pre><code>@flowstart
 cond=>condition: Process?
 process=>operation: Process
@@ -479,9 +479,9 @@ document.querySelector("#very").addEventListener("click", () => {
 <span>```</span></span>
 
 <span><span>```</span><span>css</span>
-<span><span>&lt;span>span&lt;/span> &lt;span></span><span>{</span>&lt;/span>
-  &lt;span class=<span>"token property"</span>>color&lt;/span>&lt;span class=<span>"token punctuation"</span>><span>:</span>&lt;/span> red&lt;span class=<span>"token punctuation"</span>><span>;</span>&lt;/span>
-&lt;span class=<span>"token punctuation"</span>><span>}</span>&lt;/span></span>
+<span><span>span</span> <span>{</span>
+  <span>color</span><span>:</span> red<span>;</span>
+<span>}</span></span>
 <span>```</span></span>
 
 :::
@@ -501,18 +501,18 @@ export default class App extends React.Component {
   }
   render() {
     return (
-      <span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>&lt;<span><span><span>&lt;/</span>span</span><span>></span></span>div<span><span><span>&lt;/</span>span</span><span>></span></span> <span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token attr-name<span>"</span></span><span>></span></span>className<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token attr-value<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation attr-equals<span>"</span></span><span>></span></span>=<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>"<span><span><span>&lt;/</span>span</span><span>></span></span>box-react<span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>"<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span>
-        Mr.Hope <span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>&lt;<span><span><span>&lt;/</span>span</span><span>></span></span>span<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span>{this.state.message}<span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>&lt;/<span><span><span>&lt;/</span>span</span><span>></span></span>span<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span>
-      <span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token tag<span>"</span></span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>&lt;/<span><span><span>&lt;/</span>span</span><span>></span></span>div<span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>class</span><span><span>=</span><span>"</span>token punctuation<span>"</span></span><span>></span></span>><span><span><span>&lt;/</span>span</span><span>></span></span><span><span><span>&lt;/</span>span</span><span>></span></span>
+      <span><span><span>&lt;</span>div</span> <span>className</span><span><span>=</span><span>"</span>box-react<span>"</span></span><span>></span></span>
+        Mr.Hope <span><span><span>&lt;</span>span</span><span>></span></span>{this.state.message}<span><span><span>&lt;/</span>span</span><span>></span></span>
+      <span><span><span>&lt;/</span>div</span><span>></span></span>
     );
   }
 }</span>
 <span>```</span></span>
 
 <span><span>```</span><span>css</span>
-<span><span>&lt;span>.box-react span&lt;/span> &lt;span></span><span>{</span>&lt;/span>
-  &lt;span class=<span>"token property"</span>>color&lt;/span>&lt;span class=<span>"token punctuation"</span>><span>:</span>&lt;/span> red&lt;span class=<span>"token punctuation"</span>><span>;</span>&lt;/span>
-&lt;span class=<span>"token punctuation"</span>><span>}</span>&lt;/span></span>
+<span><span>.box-react span</span> <span>{</span>
+  <span>color</span><span>:</span> red<span>;</span>
+<span>}</span></span>
 <span>```</span></span>
 
 :::
@@ -635,13 +635,13 @@ document.querySelector("h1").innerHTML = message;</span>
 <span>```</span></span>
 
 <span><span>```</span><span>scss</span>
-<span><span>&lt;span>h1 &lt;/span>&lt;span></span><span>{</span>&lt;/span>
-  &lt;span class=<span>"token property"</span>>font-style&lt;/span>&lt;span class=<span>"token punctuation"</span>><span>:</span>&lt;/span> italic&lt;span class=<span>"token punctuation"</span>><span>;</span><span>&lt;/span>
+<span><span>h1 </span><span>{</span>
+  <span>font-style</span><span>:</span> italic<span>;</span>
 
-  &lt;span>+ p &lt;/span>&lt;span></span><span>{</span>&lt;/span>
-    &lt;span class=<span>"token property"</span>>color&lt;/span>&lt;span class=<span>"token punctuation"</span>><span>:</span>&lt;/span> red&lt;span class=<span>"token punctuation"</span>><span>;</span>&lt;/span>
-  &lt;span class=<span>"token punctuation"</span>><span>}</span>&lt;/span>
-&lt;span class=<span>"token punctuation"</span>><span>}</span>&lt;/span></span>
+  <span>+ p </span><span>{</span>
+    <span>color</span><span>:</span> red<span>;</span>
+  <span>}</span>
+<span>}</span></span>
 <span>```</span></span>
 
 :::
@@ -728,7 +728,7 @@ $$
 <hr>
 <section>
 <ol>
-<li id="fn1"><p>这是脚注内容 </p>
+<li id="footnote1"><p>这是脚注内容 </p>
 </li>
 </ol>
 </section>
@@ -740,7 +740,7 @@ $$
       <guid>http://qiqi.dreamagain.top/guide/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">指南</source>
       <category>使用指南</category>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="目录"> 目录</h2>
 <ul>
 <li><a href="./markdown.html">Markdown指南</a></li>
@@ -820,14 +820,14 @@ pageInfo<span>:</span><span>[</span><span>'author'</span><span>,</span> <span>'v
       <guid>http://qiqi.dreamagain.top/guide/vuepress/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">VuePresss入坑指南</source>
       <description>&amp;lt;blockquote&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/vuepress-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/vuepress--theme--reco-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/vuepress-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/vuepress--theme--reco-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;没有问题演示的教程都不是好教程&amp;lt;/p&amp;gt;
 &amp;lt;/blockquote&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p><img src="https://img.shields.io/badge/vuepress-blue.svg" alt=""> <img src="https://img.shields.io/badge/vuepress--theme--reco-blue.svg" alt=""></p>
+<p><img src="https://img.shields.io/badge/vuepress-blue.svg" alt="" /> <img src="https://img.shields.io/badge/vuepress--theme--reco-blue.svg" alt="" /></p>
 <p>没有问题演示的教程都不是好教程</p>
 </blockquote>
 
@@ -892,7 +892,7 @@ pageInfo<span>:</span><span>[</span><span>'author'</span><span>,</span> <span>'v
 <span>npm</span> init
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>可以一直回车，不用填任何信息</p>
-<p><img src="./assets/vuepress01.png" alt=""></p>
+<p><img src="./assets/vuepress01.png" alt="" /></p>
 <p>执行结束后项目下会生成<code>package.json</code>文件</p>
 <div><pre><code><span>{</span>
   <span>"name"</span><span>:</span> <span>"`qiqi-algorithm`"</span><span>,</span>
@@ -901,7 +901,7 @@ pageInfo<span>:</span><span>[</span><span>'author'</span><span>,</span> <span>'v
   <span>"license"</span><span>:</span> <span>"MIT"</span>
 <span>}</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><div><p>提示</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><div><p>Tips</p>
 <p>npm 和 yarn都是包管理工具，在使用之前需要安装node.js</p>
 <p>如果你还没有安装过node.js、npm、yarn这些基础环境可以参考<a href="/software/nvm/">windows下安装多版本Node.js</a></p>
 </div>
@@ -950,7 +950,7 @@ pageInfo<span>:</span><span>[</span><span>'author'</span><span>,</span> <span>'v
 <p>在src目录下创建readme.md文件并在开头插入<a href="https://vuepress.vuejs.org/zh/guide/frontmatter.html" target="_blank" rel="noopener noreferrer">Front Matter</a>内容</p>
 <div><pre><code><span><span>---</span>
 <span><span>home</span><span>:</span> <span>true</span>
-<span>heroImage</span><span>:</span> /logo.png
+<span>heroImage</span><span>:</span> /favicon.png
 <span>heroText</span><span>:</span> 七七算法
 <span>tagline</span><span>:</span> welcome
 <span>actionText</span><span>:</span> 了解更多 →
@@ -994,11 +994,11 @@ pageInfo<span>:</span><span>[</span><span>'author'</span><span>,</span> <span>'v
 <span>}</span>
 
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div><div><p>提示</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div><div><p>Tips</p>
 <p>不按照官网主要是为了更直观看到那些地方可以自定义</p>
 </div>
 <p>运行结果：</p>
-<p><img src="./assets/vuepress02.png" alt=""></p>
+<p><img src="./assets/vuepress02.png" alt="" /></p>
 <p>能运行出来说明配置没有出错，仔细看还有圈出来的基础地方没有显示，说明我们还要接着做一些配置</p>
 <p>官网里也详细指出我们接下来的工作了：</p>
 <img src="./assets/vuepress03.png"/>
@@ -1024,7 +1024,7 @@ pageInfo<span>:</span><span>[</span><span>'author'</span><span>,</span> <span>'v
       <span>[</span><span>'link'</span><span>,</span> <span>{</span> rel<span>:</span> <span>'icon'</span><span>,</span> href<span>:</span> <span>'/favicon.ico'</span> <span>}</span><span>]</span><span>,</span> <span>// 增加一个自定义的 favicon(网页标签的图标)</span>
     <span>]</span><span>,</span>
     themeConfig<span>:</span> <span>{</span>
-      logo<span>:</span> <span>'/logo.png'</span><span>,</span>  <span>// 左上角logo</span>
+      logo<span>:</span> <span>'/favicon.png'</span><span>,</span>  <span>// 左上角logo</span>
       nav<span>:</span><span>[</span> <span>// 导航栏配置</span>
         <span>{</span>text<span>:</span> <span>'首页'</span><span>,</span> link<span>:</span> <span>'/'</span> <span>}</span><span>,</span>
         <span>{</span>text<span>:</span> <span>'侧边栏测试'</span><span>,</span> link<span>:</span> <span>'/sidebar'</span> <span>}</span><span>,</span>
@@ -1118,9 +1118,9 @@ theme-cli init reco-demo
 <span>yarn</span> build
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><p>运行效果：</p>
-<p><img src="./assets/vuepress06.png" alt=""></p>
+<p><img src="./assets/vuepress06.png" alt="" /></p>
 <p>查看项目的目录结构和package.json文件</p>
-<p><img src="./assets/vuepress28.png" alt=""></p>
+<p><img src="./assets/vuepress28.png" alt="" /></p>
 <p>说明是把项目根目录作为 <code>targetDir</code>，如果要按照官方推荐的目录就手动改一下，不过改不改这都无伤大雅。</p>
 <div><p>官方说明</p>
 <p>vuepress官网也提供了 <a href="https://www.vuepress.cn/theme/using-a-theme.html" target="_blank" rel="noopener noreferrer">使用主题</a> 的方法</p>
@@ -1198,7 +1198,7 @@ ncu --upgrade --upgradeAll <span>&amp;&amp;</span> <span>yarn</span> upgrade
 <div><span>1</span><br><span>2</span><br></div></div><div><p>参考</p>
 <p><a href="https://blog.csdn.net/qq_37939251/article/details/107832805" target="_blank" rel="noopener noreferrer">多纤果冻</a></p>
 </div>
-<div><p>提示</p>
+<div><p>Tips</p>
 <ul>
 <li>yarn upgrade  依赖包小版本升级</li>
 <li>yarn upgrade-interactive --latest  大版本升级。忽略package.json指定的版本范围，并使用latest注册表中标记的版本。
@@ -1227,9 +1227,9 @@ ncu --upgrade --upgradeAll <span>&amp;&amp;</span> <span>yarn</span> upgrade
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div><p><strong>4、测试运行</strong></p>
 <p>发现页面空白，后台也没有任何报错信息</p>
 <p>去到github官网查看<a href="https://github.com/vuepress-reco/vuepress-theme-reco/releases" target="_blank" rel="noopener noreferrer"><code>vuepress-theme-reco</code>的发布版本</a>，当前已发布版本如下：</p>
-<p><img src="./assets/vuepress07.png" alt=""></p>
+<p><img src="./assets/vuepress07.png" alt="" /></p>
 <p>发现1.6.2、1.6.3、1.6.4 才是最近发布的，可能存在不少bug，查看<code>issue</code>，找到这样的信息</p>
-<p><img src="./assets/vuepress52.png" alt=""></p>
+<p><img src="./assets/vuepress52.png" alt="" /></p>
 <p>明确是版本的问题，我们还是还是切换回之前的1.6.1版本。</p>
 <p>测试发现，只要改用<code>&quot;vuepress-theme-reco&quot;: &quot;1.6.1&quot;</code>就能正常显示，所以在更新依赖的时候不更新<code>vuepress-theme-reco</code>就可以了</p>
 <p><strong>5、修改配置文件config.js</strong></p>
@@ -1378,12 +1378,12 @@ ncu --upgrade --upgradeAll <span>&amp;&amp;</span> <span>yarn</span> upgrade
 @import <span>'//at.alicdn.com/t/font_2372941_unkgma3bras.css'</span>
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这也是上面配置<code>config.js</code>留下的一个小坑，个人信息栏没有显示<strong>gitee</strong>，也就是默认图标库中没有<code>reco-gitee</code>这个图标</p>
-<p><img src="./assets/vuepress11.png" alt=""></p>
+<p><img src="./assets/vuepress11.png" alt="" /></p>
 <p><strong>第三步：</strong></p>
 <p>运行测试，图标可以正常显示。在其他地方扩展图标也是按照这样的步骤来就可以</p>
-<p><img src="./assets/vuepress12.png" alt=""></p>
+<p><img src="./assets/vuepress12.png" alt="" /></p>
 <h3 id="三-修改默认主题"> （三）修改默认主题</h3>
-<div><p>提示</p>
+<div><p>Tips</p>
 <ul>
 <li>学习的话可以花些时间捣鼓捣鼓</li>
 <li>使用的话可以直接跳过此节</li>
@@ -1393,13 +1393,13 @@ ncu --upgrade --upgradeAll <span>&amp;&amp;</span> <span>yarn</span> upgrade
 <div><pre><code> vuepress <span>eject</span> docs
 </code></pre>
 <div><span>1</span><br></div></div><p>你会发现，在根目录下，多了一个theme文件夹，如下：</p>
-<p><img src="./assets/vuepress13.png" alt=""></p>
+<p><img src="./assets/vuepress13.png" alt="" /></p>
 <p>上图列出了主要的布局组件，只需在其中做适量修改以满足业务需求即可。</p>
 <p>不过我们用的<code>vuepress-theme-reco</code>主题已经很强大了，没有必要花费太多精力在搭建博客上面，而是花更多的时间在内容创作上。</p>
 <h3 id="四-客户端增强"> （四）客户端增强</h3>
 <p>如果你想对自己的应用做一些优化，比如使用router做登录拦截、给Vue实例挂载全局变量或注册其他组件等，可以在.vuepress下新建文件<code>enhanceApp.js</code>：</p>
 <div><pre><code><span>export</span> <span>default</span> <span>(</span><span>{</span>
-  Vue<span>,</span> <span>// vuepress 正在使用的 Vue 构造函数</span>
+  <span>Vue</span><span>,</span> <span>// vuepress 正在使用的 Vue 构造函数</span>
   options<span>,</span> <span>// 附加到根实例的一些选项</span>
   router<span>,</span> <span>// 当前应用的路由实例</span>
   siteData <span>// 站点元数据</span>
@@ -1484,7 +1484,7 @@ ncu --upgrade --upgradeAll <span>&amp;&amp;</span> <span>yarn</span> upgrade
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br></div></div></details>
 <p>（4）运行测试</p>
 <p>页面空白，打开控制台查看报错信息</p>
-<p><img src="./assets/vuepress14.png" alt=""></p>
+<p><img src="./assets/vuepress14.png" alt="" /></p>
 <div><p>问题解决</p>
 <p>使用命令安装依赖</p>
 <div><pre><code><span>yarn</span> <span>add</span> async-validator@1.11.5 
@@ -1501,10 +1501,10 @@ ncu --upgrade --upgradeAll <span>&amp;&amp;</span> <span>yarn</span> upgrade
 </div>
 <p>再次运行，页面可以正常显示</p>
 <p>点击文章Element-UI Test，显示的效果如下</p>
-<p><img src="./assets/vuepress15.png" alt=""></p>
+<p><img src="./assets/vuepress15.png" alt="" /></p>
 <p>在npm官网中也可以找到相关的插件，我们可以免去自己集成的麻烦。经测试，插件<a href="https://superbiger.github.io/vuepress-plugin-tabs/" target="_blank" rel="noopener noreferrer">vuepress-plugin-element-ui</a>可以正常使用。使用yarn安装网站能正常使用，但如果使用npm安装就不行，页面显示是空白的，好在对应github仓库的issue中已经给出解决方法，就是版本对应的问题。</p>
 <p>不过如果你要用这个插件就使用yarn来安装，减少不必要的麻烦。</p>
-<p><img src="./assets/vuepress51.png" alt=""></p>
+<p><img src="./assets/vuepress51.png" alt="" /></p>
 <p><strong>2、尝试集成View UI组件</strong></p>
 <div><p>提示</p>
 <p>View UI原来叫做iview，<a href="">官方文档</a></p>
@@ -1676,10 +1676,10 @@ ncu --upgrade --upgradeAll <span>&amp;&amp;</span> <span>yarn</span> upgrade
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br><span>86</span><br><span>87</span><br><span>88</span><br><span>89</span><br><span>90</span><br><span>91</span><br><span>92</span><br><span>93</span><br><span>94</span><br><span>95</span><br><span>96</span><br><span>97</span><br><span>98</span><br><span>99</span><br><span>100</span><br><span>101</span><br><span>102</span><br><span>103</span><br><span>104</span><br><span>105</span><br><span>106</span><br><span>107</span><br><span>108</span><br><span>109</span><br><span>110</span><br><span>111</span><br><span>112</span><br><span>113</span><br><span>114</span><br><span>115</span><br><span>116</span><br><span>117</span><br><span>118</span><br><span>119</span><br><span>120</span><br><span>121</span><br><span>122</span><br><span>123</span><br><span>124</span><br><span>125</span><br><span>126</span><br><span>127</span><br><span>128</span><br><span>129</span><br><span>130</span><br><span>131</span><br><span>132</span><br><span>133</span><br><span>134</span><br><span>135</span><br><span>136</span><br><span>137</span><br></div></div></details>
 <p>（4）运行测试</p>
 <p>发现页面空白，控制台信息如下，所以不知道是哪里有问题</p>
-<p><img src="./assets/vuepress16.png" alt=""></p>
+<p><img src="./assets/vuepress16.png" alt="" /></p>
 <p>索性把enhanceApp.js内容全部注释，页面恢复正常。为什么会这样，原因未知，有待继续深入学习。</p>
 <p>参照view ui文档中的main.js</p>
-<p><img src="./assets/vuepress17.png" alt=""></p>
+<p><img src="./assets/vuepress17.png" alt="" /></p>
 <p>修改enhanceApp.js的内容如下：</p>
 <div><pre><code><span>// import Element from 'element-ui'</span>
 <span>// import 'element-ui/lib/theme-chalk/index.css'</span>
@@ -1696,9 +1696,9 @@ Vue<span>.</span><span>use</span><span>(</span>ViewUI<span>)</span><span>;</span
 <span>}</span>
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>查看首页面已经能够正常显示，点开View UI Test文章查看，效果也正常显示</p>
-<p><img src="./assets/vuepress18.png" alt=""></p>
+<p><img src="./assets/vuepress18.png" alt="" /></p>
 <p>以上测试了两个前端常用的组件库Element-UI和View UI，其他的组件库的使用也是类似，如果出现页面空白而后台没有报错的情况，先查看浏览器控制台报错信息，问题不明显可百度查找解决方法。</p>
-<div><p>提示</p>
+<div><p>Tips</p>
 <p><strong>修改enhanceApp.js内容后项目不用重启，直接看浏览器中是否正常显示</strong>。</p>
 </div>
 <h3 id="五-个性化组件开发"> （五）个性化组件开发</h3>
@@ -1794,7 +1794,7 @@ module.exports = {
   <span>}</span>
 <span>...</span><span>...</span>
 </code></pre><div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p><strong>3、测试</strong></p>
-<p><img src="./assets/vuepress20.png" alt=""></p>
+<p><img src="./assets/vuepress20.png" alt="" /></p>
 <div><p>问题小结</p>
 <ol>
 <li>
@@ -1802,7 +1802,7 @@ module.exports = {
 </li>
 <li>
 <p><s>点击标签，页面跳转后显示空白</s>：<mark>引入第三方组件库导致</mark></p>
-<p><img src="./assets/vuepress50.png" alt=""></p>
+<p><img src="./assets/vuepress50.png" alt="" /></p>
 </li>
 <li>
 <p><s>去除组件库后，按钮样式正常，标签和分类功能出现返回时页面404</s>： <mark>标签和分类不能是中文，不能有空格</mark></p>
@@ -1848,18 +1848,18 @@ cd -
 <div><pre><code><span>yarn</span> run deploy
 </code></pre>
 <div><span>1</span><br></div></div><p>项目构建的静态文件已经被发布到对应的github仓库的gh-pages分支</p>
-<p><img src="./assets/vuepress21.png" alt=""></p>
+<p><img src="./assets/vuepress21.png" alt="" /></p>
 <p>点开仓库的设置往下找到GitHub Pages</p>
-<p><img src="./assets/vuepress22.png" alt=""></p>
-<p><img src="./assets/vuepress23.png" alt=""></p>
+<p><img src="./assets/vuepress22.png" alt="" /></p>
+<p><img src="./assets/vuepress23.png" alt="" /></p>
 <p>访问https://small-universe.github.io/reco-demo/，结果surprise，我们的页面样式丢失了。</p>
-<p><img src="./assets/vuepress24.png" alt=""></p>
+<p><img src="./assets/vuepress24.png" alt="" /></p>
 <p><mark>更多的报错信息说是无法加载静态资源：</mark></p>
 <img src="./assets/vuepress25.png" style="zoom:80%;" />
 <p>​		仔细查看访问静态资源使用的都是'/'开头，说明默认是从根路径开始查找，但是实际上我们应该使用相对路径，接下来怎么办？</p>
 <p>​        回头再仔细看看官方文档有没有什么被我们忽略的说明。</p>
 <p>果然在<a href="https://vuepress.vuejs.org/zh/config/#base" target="_blank" rel="noopener noreferrer">基本配置</a>里有这样的说明：</p>
-<p><img src="./assets/vuepress26.png" alt=""></p>
+<p><img src="./assets/vuepress26.png" alt="" /></p>
 <p>那就在config.js中配置一下<code>base: &quot;/reco-demo/&quot;,</code></p>
 <div><pre><code>module<span>.</span>exports <span>=</span> <span>{</span>
   host<span>:</span> <span>"127.0.0.1"</span><span>,</span> <span>// 生成网页地址（本地调试使用）</span>
@@ -1871,8 +1871,8 @@ cd -
 <span>}</span>
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p>再执行一下命令<code>yarn run deploy</code>，这次正常显示了</p>
-<p><img src="./assets/vuepress27.png" alt=""></p>
-<div><p>提示</p>
+<p><img src="./assets/vuepress27.png" alt="" /></p>
+<div><p>Tips</p>
 <p>配置到此，基本的使用是没有问题了，可以开开心心写博客了。</p>
 <p>但还有下面几个步骤，推荐配置一下Github Actions自动部署，这样使用起来会更舒心一些，每次只需要push文件到远程仓库即可，使用deploy.sh部署的这种方式就可以不用了。</p>
 </div>
@@ -1927,20 +1927,20 @@ cd -
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br></div></div><p>第二步：配置<code>ACCESS_TOKEN</code></p>
 <p>1、生成Personal access tokens（ <mark>仅第一次显示</mark> ）</p>
-<p><img src="./assets/vuepress29.png" alt=""></p>
+<p><img src="./assets/vuepress29.png" alt="" /></p>
 <p>2、复制 <code>ACCESS_TOKEN</code>内容到仓库的Settings --&gt; Secrets--&gt;<code>ACCESS_TOKEN</code></p>
-<p><img src="./assets/vuepress32.png" alt=""></p>
+<p><img src="./assets/vuepress32.png" alt="" /></p>
 <p>第三步：配置<code>SSH_PRIVATE_KEY</code></p>
 <p>1、生成sshkey: 输入命令ssh-keygen -t rsa -C &quot;邮箱地址&quot; 【邮箱地址：注册github时填写的邮箱地址】</p>
 <div><pre><code>ssh-keygen -t rsa -C <span>"1715261428@qq.com"</span>
 </code></pre>
 <div><span>1</span><br></div></div><p>2、进入.ssh目录</p>
-<p><img src="./assets/vuepress30.png" alt=""></p>
+<p><img src="./assets/vuepress30.png" alt="" /></p>
 <p>3、复制 id_rsa内容到仓库的 Settings --&gt; Secrets--&gt;SSH_PRIVATE_KEY</p>
-<p><img src="./assets/vuepress31.png" alt=""></p>
+<p><img src="./assets/vuepress31.png" alt="" /></p>
 <p>第四步：测试</p>
 <p>报错如下</p>
-<p><img src="./assets/vuepress33.png" alt=""></p>
+<p><img src="./assets/vuepress33.png" alt="" /></p>
 <p>我们config.js的配置这样：</p>
 <div><pre><code><span>const</span> sidebar <span>=</span> <span>require</span><span>(</span><span>'./config/sidebar'</span><span>)</span>
 <span>const</span> nav <span>=</span> <span>require</span><span>(</span><span>'./config/navbar'</span><span>)</span>
@@ -1949,7 +1949,7 @@ cd -
 <div><pre><code><span>const</span> sidebar <span>=</span> <span>require</span><span>(</span><span>'./config/sidebar/index.js'</span><span>)</span>
 </code></pre>
 <div><span>1</span><br></div></div><p>再次提交，测试，部署成功。</p>
-<p><img src="./assets/vuepress34.png" alt=""></p>
+<p><img src="./assets/vuepress34.png" alt="" /></p>
 <p>第五步：配置域名</p>
 <div><p>设置域名dns指向（ 补充）</p>
 <p>方法有<strong>3种</strong>：</p>
@@ -1965,13 +1965,13 @@ CNMAE：如果你希望使用二级域名访问，将一个二级域名配置成
 </div>
 <p>在域名供应商处新增一个CNAME类型的域名域名解析,记录类型固定的是 ：<strong>CNAME</strong>，记录值就是你的<strong>GitHub</strong>地址</p>
 <p>这里还白嫖了百度云CDN加速</p>
-<p><img src="./assets/vuepress35.png" alt=""></p>
+<p><img src="./assets/vuepress35.png" alt="" /></p>
 <p>Github Pages添加自定义域名，点击<code>save</code>等它解析一会</p>
-<p><img src="./assets/vuepress36.png" alt=""></p>
+<p><img src="./assets/vuepress36.png" alt="" /></p>
 <p>如下图所示，你可以通过域名http://reco-demo.dreamagain.top访问了</p>
-<p><img src="./assets/vuepress37.png" alt=""></p>
+<p><img src="./assets/vuepress37.png" alt="" /></p>
 <p>访问测试，又是一个surprise！！！,就是惊喜加意外。</p>
-<p><img src="./assets/vuepress38.png" alt=""></p>
+<p><img src="./assets/vuepress38.png" alt="" /></p>
 <p>如上图中资源的访问路径应该是没有问题，那我们通过deploy.sh直接设置自定义域名试一下</p>
 <div><pre><code><span># 如果是发布到自定义域名</span>
 <span>echo</span> <span>'reco-demo.dreamagain.top'</span> <span>></span> CNAME
@@ -1979,12 +1979,12 @@ CNMAE：如果你希望使用二级域名访问，将一个二级域名配置成
 <div><span>1</span><br><span>2</span><br></div></div><p>执行命令<code>yarn run deploy</code>，运行结束后再次访问<code>reco-demo.dreamagain.top</code>，样式依旧还是没有出来</p>
 <p>两种方式下自定义域名都出现样式丢失，想到之前样式丢失的时候我们加了<code>base:&quot;/reco-demo/&quot;</code>，我们注释掉base配置尝试一下。</p>
 <p>结果发现注释之后能通过自定义域名正常访问了。</p>
-<p><img src="./assets/vuepress39.png" alt=""></p>
+<p><img src="./assets/vuepress39.png" alt="" /></p>
 <p>对比一下没有配置自定义域名的情况下如何访问到静态资源的</p>
-<p><img src="./assets/vuepress40.png" alt=""></p>
+<p><img src="./assets/vuepress40.png" alt="" /></p>
 <p>这就是说明了自定义域名<code>http://reco-demo.dreamagain.top/</code>--&gt;<code>https://small-universe.github.io/reco-demo/</code></p>
 <p>在vuepress中没有看到这样的说明，那我们就去github中看看自定义域名的相关文档，</p>
-<p><img src="./assets/vuepress41.png" alt=""></p>
+<p><img src="./assets/vuepress41.png" alt="" /></p>
 <p>与测试时得出的结论有点出入，但大体是一个意思。仓库下配置类自定义域名<code>reco-demo.dreamagain.top</code>虽然只是替换的<code>&lt;user&gt;.github.io</code>，但此时Gihub Pages服务已经默认通过域名直接访问仓库中资源，所以这时候不用在config.js中添加<code>base:&quot;/reco-demo/&quot;</code>了</p>
 <div><p>小结</p>
 <p>仓库名为<code>&lt;username&gt;.github.io</code>或者是使用自定义域名，不用在config.js中配置base字段</p>
@@ -1992,14 +1992,14 @@ CNMAE：如果你希望使用二级域名访问，将一个二级域名配置成
 </div>
 <p><strong>2、完善评论功能</strong></p>
 <p>第一步：<a href="https://console.leancloud.cn/login" target="_blank" rel="noopener noreferrer">LeanCloud</a>注册并登录</p>
-<p><img src="./assets/vuepress42.png" alt=""></p>
+<p><img src="./assets/vuepress42.png" alt="" /></p>
 <p>第二步：创建应用</p>
-<p><img src="./assets/vuepress43.png" alt=""></p>
+<p><img src="./assets/vuepress43.png" alt="" /></p>
 <p>第三步：获取AppKey和AppID</p>
-<p><img src="./assets/vuepress44.png" alt=""></p>
-<p><img src="./assets/vuepress45.png" alt=""></p>
+<p><img src="./assets/vuepress44.png" alt="" /></p>
+<p><img src="./assets/vuepress45.png" alt="" /></p>
 <p>第四步：在仓库中添加刚刚获得的Key和ID</p>
-<p><img src="./assets/vuepress46.png" alt=""></p>
+<p><img src="./assets/vuepress46.png" alt="" /></p>
 <p>第五步：在deploy.yml中添加如下内容</p>
 <div><div><br><br><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><br><br></div><pre><code><span>-</span> <span>name</span><span>:</span> Build reco<span>-</span>demo
   <span>run</span><span>:</span> yarn run build
@@ -2008,7 +2008,7 @@ CNMAE：如果你希望使用二级域名访问，将一个二级域名配置成
      <span>LEANCLOUD_APP_KEY</span><span>:</span> $<span>{</span><span>{</span> secrets.LEANCLOUD_APP_KEY <span>}</span><span>}</span> <span># 评论系统的KEY</span>
 
 </code></pre><div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>第六步：测试</p>
-<p><img src="./assets/vuepress47.png" alt=""></p>
+<p><img src="./assets/vuepress47.png" alt="" /></p>
 <h3 id="三-部署到阿里云服务器-可选"> （三）部署到阿里云服务器（可选）</h3>
 <p>实现步骤：</p>
 <ol>
@@ -2123,7 +2123,7 @@ CNMAE：如果你希望使用二级域名访问，将一个二级域名配置成
 
 
 </code></pre><div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br><span>86</span><br><span>87</span><br><span>88</span><br><span>89</span><br><span>90</span><br><span>91</span><br><span>92</span><br><span>93</span><br><span>94</span><br><span>95</span><br><span>96</span><br></div></div><p><strong>2、配置nginx</strong></p>
-<div><p>提示</p>
+<div><p>Tips</p>
 <p><a href="">Linux安装Nginx</a></p>
 <p>默认的<code>nginx.conf</code>文件会帮你将<code>.*\.(js|css)?$</code></p>
 <p>文件和 <code>.*\.(gif|jpg|jpeg|png|bmp|swf|ico)$</code>这些文件进行缓存</p>
@@ -2183,7 +2183,7 @@ http <span>{</span>
 <p>./nginx -s reload 重启nginx（重启用户基本感觉不到）</p>
 </div>
 <p>访问<code>demo.dreamagain.top</code>，页面正常显示，测试成功</p>
-<p><img src="./assets/vuepress49.png" alt=""></p>
+<p><img src="./assets/vuepress49.png" alt="" /></p>
 <h2 id="五、写在最后的话"> 五、写在最后的话</h2>
 <p>如此折腾，做一个属于自己的博客，其实也不会有几个人能看到，毕竟沧海一粟，如此平凡。</p>
 <p>这篇博客正好是自己第一次入坑vuepress的心路历程，特此复现记录在此，限于主要从事Java开发，前端学习的不是很深入，很多问题也是点到即止，有什么建议可以评论区留言，这篇博客内容将会不断的更新完善，努力做到简洁、通俗易懂。</p>
@@ -2220,7 +2220,7 @@ http <span>{</span>
 &amp;lt;p&amp;gt;提示：此份面试题在学完相关基础后食用效果最佳，可以快速查缺补漏，加深对知识的理解。切忌死记硬背，编程重在理解思想和代码编写&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;
 </description>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<div><p>声明</p>
 <p>此份面试题来自知乎<a href="https://www.zhihu.com/question/27858692/answer/787505434" target="_blank" rel="noopener noreferrer">java经验总结</a> ，原文参考答案比较浅显且部分有误，目前已对部分参考答案进行订正、补充。</p>
 <p>提示：此份面试题在学完相关基础后食用效果最佳，可以快速查缺补漏，加深对知识的理解。切忌死记硬背，编程重在理解思想和代码编写</p>
@@ -2532,7 +2532,7 @@ http <span>{</span>
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9701%E2%80%94Java%E5%9F%BA%E7%A1%80/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9701%E2%80%94Java%E5%9F%BA%E7%A1%80/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块01-Java基础</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>1.JDK和JRE有什么区别?</p>
 <p>2.==和equals的区别是什么?</p>
@@ -2871,7 +2871,7 @@ stringBuilder<span>.</span><span>append</span><span>(</span><span>"abcdefg"</spa
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9702%E2%80%94Java%E9%9B%86%E5%90%88/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9702%E2%80%94Java%E9%9B%86%E5%90%88/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块02-Java集合（容器）</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>18.java容器都有哪些?</p>
 <p>19.Collection和Collections有什么区别?</p>
@@ -2892,7 +2892,7 @@ stringBuilder<span>.</span><span>append</span><span>(</span><span>"abcdefg"</spa
 <p>34.怎么确保一个集合不能被修改？</p>
 <h2 id="答案"> 答案：</h2>
 <h3 id="_18-java容器都有哪些"> 18.java容器都有哪些?</h3>
-<p><img src="./assets/java-03.png" alt=""></p>
+<p><img src="./assets/java-03.png" alt="" /></p>
 <h3 id="_19-collection和collections有什么区别"> 19.Collection和Collections有什么区别?</h3>
 <ul>
 <li>java.util.Collection 是一个集合接口（集合类的一个顶级接口）。它提供了对集合对象进行基本操作的通用接口方法。Collection接口在Java 类库中有很多具体的实现。Collection接口的意义是为各种具体的集合提供了最大化的统一操作方式，其直接继承接口有List与Set。</li>
@@ -3013,7 +3013,7 @@ unmlist<span>.</span> <span>add</span><span>(</span><span>"B"</span><span>)</spa
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9703%E2%80%94%E5%A4%9A%E7%BA%BF%E7%A8%8B/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9703%E2%80%94%E5%A4%9A%E7%BA%BF%E7%A8%8B/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块03-Java多线程</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>35.并行和并发有什么区别?</p>
 <p>36.线程和进程的区别?</p>
@@ -3129,7 +3129,7 @@ unmlist<span>.</span> <span>add</span><span>(</span><span>"B"</span><span>)</spa
 <h3 id="_45-线程池都有哪些状态"> 45.线程池都有哪些状态?</h3>
 <p>线程池有5种状态：Running、ShutDown、Stop、Tidying、Terminated。</p>
 <p>线程池各个状态切换框架图：</p>
-<p><img src="./assets/java-01.png" alt=""></p>
+<p><img src="./assets/java-01.png" alt="" /></p>
 <h3 id="_46-线程池中-submit-和execute-方法有什么区别"> 46.线程池中 submit()和execute()方法有什么区别?</h3>
 <ul>
 <li>接收的参数不一样</li>
@@ -3147,7 +3147,7 @@ unmlist<span>.</span> <span>add</span><span>(</span><span>"B"</span><span>)</spa
 <p>在Java中，锁共有4种状态，级别从低到高依次为：无状态锁，偏向锁，轻量级锁和重量级锁状态，这几个状态会随着竞争情况逐渐升</p>
 <p>级。锁可以升级但不能降级。</p>
 <p>锁升级的图示过程：</p>
-<p><img src="./assets/java-02.png" alt=""></p>
+<p><img src="./assets/java-02.png" alt="" /></p>
 <h3 id="_49-什么是死锁"> 49.什么是死锁?</h3>
 <p>死锁是指两个或两个以上的进程在执行过程中，由于竞争资源或者由于彼此通信而造成的一种阻塞的现象，若无外力作用，它们都将无</p>
 <p>法推进下去。此时称系统处于死锁状态或系统产生了死锁，这些永远在互相等待的进程称为死锁进程。是操作系统层面的一个错误，是</p>
@@ -3219,7 +3219,7 @@ unmlist<span>.</span> <span>add</span><span>(</span><span>"B"</span><span>)</spa
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9704%E2%80%94%E5%8F%8D%E5%B0%84/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9704%E2%80%94%E5%8F%8D%E5%B0%84/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块04-Java反射</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>57.什么是反射?</p>
 <p>58.什么是java序列化?什么情况下需要序列化?</p>
@@ -3275,7 +3275,7 @@ unmlist<span>.</span> <span>add</span><span>(</span><span>"B"</span><span>)</spa
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9705%E2%80%94%E5%AF%B9%E8%B1%A1%E6%8B%B7%E8%B4%9D/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9705%E2%80%94%E5%AF%B9%E8%B1%A1%E6%8B%B7%E8%B4%9D/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块05-Java对象拷贝</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>61.为什么要使用克隆?</p>
 <p>62.如何实现对象克隆?</p>
@@ -3450,7 +3450,7 @@ unmlist<span>.</span> <span>add</span><span>(</span><span>"B"</span><span>)</spa
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9706%E2%80%94Java%20Web/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9706%E2%80%94Java%20Web/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块06—Java Web</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>64.jsp和servlet有什么区别?</p>
 <p>65.jsp有哪些内置对象?作用分别是什么?</p>
@@ -3586,7 +3586,7 @@ unmlist<span>.</span> <span>add</span><span>(</span><span>"B"</span><span>)</spa
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9707%E2%80%94%E5%BC%82%E5%B8%B8/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9707%E2%80%94%E5%BC%82%E5%B8%B8/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块07—Java异常</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>74.throw和throws 的区别?</p>
 <p>75.final、finally、finalize有什么区别?</p>
@@ -3701,7 +3701,7 @@ unmlist<span>.</span> <span>add</span><span>(</span><span>"B"</span><span>)</spa
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9708%E2%80%94%E7%BD%91%E7%BB%9C/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9708%E2%80%94%E7%BD%91%E7%BB%9C/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块08—网络</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>79.http响应码301和302代表的是什么?有什么区别?</p>
 <p>80.forward和redirect的区别?</p>
@@ -3748,12 +3748,12 @@ unmlist<span>.</span> <span>add</span><span>(</span><span>"B"</span><span>)</spa
 <p><strong>①. 发送方产生粘包</strong></p>
 <p>采用TCP协议传输数据的客户端与服务器经常是保持一个长连接的状态（一次连接发一次数据不存在粘包），双方在连接不断开的情况下，可以一直传输数据；但当发送的数据包过于小的时候，那么TCP协议默认的会启用Nagle算法，将这些较小的数据包进行合并发送（缓冲区数据发送是一个堆压的过程）；这个合并过程就是在发送缓冲区中进行的，也就是说数据发送出来它已经是粘包的状态了。</p>
 <blockquote>
-<p><img src="./assets/image-20210110112812920.png" alt=""></p>
+<p><img src="./assets/image-20210110112812920.png" alt="" /></p>
 </blockquote>
 <p><strong>②. 接收方产生粘包</strong></p>
 <p>接收方采用TCP协议接收数据时的过程是这样的：数据到底接收方，从网络模型的下方传递至传输层，传输层的TCP协议处理是将其放置接收缓冲区，然后由应用层来主动获取（C语言用recv、read等函数）；这时会出现一个问题，就是我们在程序中调用的读取数据函数不能及时的把缓冲区中的数据拿出来，而下一个数据又到来并有一部分放入的缓冲区末尾，等我们读取数据时就是一个粘包。（放数据的速度 &gt; 应用层拿数据速度）</p>
 <blockquote>
-<p><img src="./assets/image-20210110113226253.png" alt=""></p>
+<p><img src="./assets/image-20210110113226253.png" alt="" /></p>
 </blockquote>
 <h3 id="_84-osl的七层模型都有哪些"> 84.OSl的七层模型都有哪些?</h3>
 <p><strong>物联网淑慧示用</strong></p>
@@ -3949,7 +3949,7 @@ Access-Control-Max-Age: 86400
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9709%E2%80%94%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9709%E2%80%94%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块09—设计模式</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>88.说一下你熟悉的设计模式?</p>
 <p>89.简单工厂和抽象工厂有什么区别?</p>
@@ -4039,7 +4039,7 @@ Access-Control-Max-Age: 86400
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div><p><strong>总结</strong>：我个人比较喜欢静态内部类写法和饿汉式写法，其实这两种写法能够应付绝大多数情况了。其他写法也可以选择，主要还是看业务需求吧。</p>
 <h4 id="_2、观察者模式"> 2、观察者模式</h4>
 <p>对象间一对多的依赖关系，当一个对象的状态发生改变时，所有依赖于它的对象都得到通知并被自动更新。</p>
-<p><img src="./assets/image-20210110121411458.png" alt="image-20210110121411458"></p>
+<p><img src="./assets/image-20210110121411458.png" alt="image-20210110121411458" /></p>
 <p>看不懂图的人端着小板凳到这里来，给你举个栗子：假设有三个人，小美（女，22），小王和小李。小美很漂亮，小王和小李是两个程</p>
 <p>序猿，时刻关注着小美的一举一动。有一天，小美说了一句：“谁来陪我打游戏啊。”这句话被小王和小李听到了，结果乐坏了，蹭蹭</p>
 <p>蹭，没一会儿，小王就冲到小美家门口了，在这里，小美是被观察者，小王和小李是观察者，被观察者发出一条信息，然后观察者们进</p>
@@ -4190,7 +4190,7 @@ Access-Control-Max-Age: 86400
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>看到没有，一层一层封装，我们从里往外看：最里面我new了一个香肠，在香肠的外面我包裹了一层奶油，在奶油的外面我又加了一层</p>
 <p>蔬菜，最外面我放的是面包，是不是很形象，哈哈~ 这个设计模式简直跟现实生活中一摸一样，看懂了吗？ 我们看看运行结果吧</p>
-<p><img src="./assets/image-20210110122635076.png" alt="image-20210110122635076"></p>
+<p><img src="./assets/image-20210110122635076.png" alt="image-20210110122635076" /></p>
 <p>一个三明治就做好了～</p>
 <h4 id="_4、适配器模式"> 4、适配器模式</h4>
 <p>将两种完全不同的事物联系到一起，就像现实生活中的变压器。假设一个手机充电器需要的电压是20V，但是正常的电压是220V，这时</p>
@@ -4231,7 +4231,7 @@ Access-Control-Max-Age: 86400
    <span>}</span>
 <span>}</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br></div></div><p><img src="./assets/image-20210110123230431.png" alt="image-20210110123230431"></p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br></div></div><p><img src="./assets/image-20210110123230431.png" alt="image-20210110123230431" /></p>
 <h4 id="_5、工厂模式"> 5、工厂模式</h4>
 <p>**① 简单工厂模式：**一个抽象的接口，多个抽象接口的实现类，一个工厂类，用来实例化抽象的接口</p>
 <div><pre><code><span>// 抽象产品类</span>
@@ -4433,7 +4433,7 @@ Access-Control-Max-Age: 86400
     <span>}</span>
 <span>}</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p><img src="./assets/image-20210110124934337.png" alt="image-20210110124934337"></p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p><img src="./assets/image-20210110124934337.png" alt="image-20210110124934337" /></p>
 <blockquote>
 <h3 id="_89-简单工厂和抽象工厂有什么区别"> 89.简单工厂和抽象工厂有什么区别?</h3>
 </blockquote>
@@ -4446,10 +4446,10 @@ Access-Control-Max-Age: 86400
 <li>具体产品角色：工厂类所创建的对象就是此角色的实例。在java中由一个具体类实现，如例子中的Benz、Bmw类。</li>
 </ul>
 <p>用类图来清晰的表示下的它们之间的关系：</p>
-<p><img src="./assets/image-20210110125152216.png" alt="image-20210110125152216"></p>
+<p><img src="./assets/image-20210110125152216.png" alt="image-20210110125152216" /></p>
 <p><strong>抽象工厂模式：</strong></p>
 <p>先来认识下什么是产品族： 位于不同产品等级结构中，功能相关联的产品组成的家族。</p>
-<p><img src="./assets/image-20210110125238563.png" alt="image-20210110125238563"></p>
+<p><img src="./assets/image-20210110125238563.png" alt="image-20210110125238563" /></p>
 <p>图中的BmwCar和BenzCar就是两个产品树（产品层次结构）；而如图所示的BenzSportsCar和BmwSportsCar就是一个产品族。他们都可以放到跑车家族中，因此功能有所关联。同理BmwBussinessCar和BenzBusinessCar也是一个产品族。</p>
 <p><strong>可以这么说，它和工厂方法模式的区别就在于需要创建对象的复杂程度上。而且抽象工厂模式是三个里面最为抽象、最具一般性的。抽象工厂模式的用意为：给客户端提供一个接口，可以创建多个产品族中的产品对象。</strong></p>
 <p>而且使用抽象工厂模式还要满足一下条件：</p>
@@ -4471,7 +4471,7 @@ Access-Control-Max-Age: 86400
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9710%E2%80%94SpringSpring%20MVC/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9710%E2%80%94SpringSpring%20MVC/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块10—Spring/Spring MVC</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>90.为什么要使用Spring?</p>
 <p>91.解释一下什么是AOP?</p>
@@ -4523,10 +4523,10 @@ Access-Control-Max-Age: 86400
 <p>IOC是Inversion of Control的缩写，多数书籍翻译成“控制反转”。</p>
 <p>1996年，Michael Mattson在一篇有关探讨面向对象框架的文章中，首先提出了IOC 这个概念。对于面向对象设计及编程的基本思想，前面我们已经讲了很多了，不再赘述，简单来说就是把复杂系统分解成相互合作的对象，这些对象类通过封装以后，内部实现对外部是透明的，从而降低了解决问题的复杂度，而且可以灵活地被重用和扩展。</p>
 <p>IOC理论提出的观点大体是这样的：借助于“第三方”实现具有依赖关系的对象之间的解耦。如下图：</p>
-<p><img src="./assets/java-05.png" alt=""></p>
+<p><img src="./assets/java-05.png" alt="" /></p>
 <p>大家看到了吧，由于引进了中间位置的“第三方”，也就是IOC容器，使得A、B、C、D这4个对象没有了耦合关系，齿轮之间的传动全部依靠“第三方”了，全部对象的控制权全部上缴给“第三方”IOC容器，所以，IOC容器成了整个系统的关键核心，它起到了一种类似“粘合剂”的作用，把系统中的所有对象粘合在一起发挥作用，如果没有这个“粘合剂”，对象与对象之间会彼此失去联系，这就是有人把IOC容器比喻成“粘合剂”的由来。</p>
 <p>我们再来做个试验：把上图中间的IOC容器拿掉，然后再来看看这套系统：</p>
-<p><img src="./assets/java-06.png" alt=""></p>
+<p><img src="./assets/java-06.png" alt="" /></p>
 <p>我们现在看到的画面，就是我们要实现整个系统所需要完成的全部内容。这时候，A、B、C、D这4个对象之间已经没有了耦合关系，彼</p>
 <p>此毫无联系，这样的话，当你在实现A的时候，根本无须再去考虑B、C和D了，对象之间的依赖关系已经降低到了最低程度。所以，如</p>
 <p>果真能实现IOC容器，对于系统开发而言，这将是一件多么美好的事情，参与开发的每一成员只要实现自己的类就可以了，跟别人没有</p>
@@ -4538,7 +4538,7 @@ Access-Control-Max-Age: 86400
 <h3 id="_93-spring有哪些主要模块"> 93.Spring有哪些主要模块?</h3>
 <p>Spring框架至今已集成了20多个模块。这些模块主要被分如下图所示的核心容器、数据访问/集成,、Web、AOP（面向切面编程）、工</p>
 <p>具、消息和测试模块。</p>
-<p><img src="./assets/java-07.png" alt=""></p>
+<p><img src="./assets/java-07.png" alt="" /></p>
 <h3 id="_94-spring-常用的注入方式有哪些"> 94.Spring 常用的注入方式有哪些?</h3>
 <p>Spring通过DI（依赖注入）实现IOC（控制反转），常用的注入方式主要有三种：</p>
 <ol>
@@ -4584,7 +4584,7 @@ Access-Control-Max-Age: 86400
 </ul>
 <h3 id="_100-说一下spring-mvc运行流程"> 100.说一下Spring MVC运行流程?</h3>
 <p><strong>Spring MVC运行流程图：</strong></p>
-<p><img src="./assets/java-08.png" alt=""></p>
+<p><img src="./assets/java-08.png" alt="" /></p>
 <p><strong>Spring运行流程描述：</strong></p>
 <ol>
 <li>
@@ -4688,7 +4688,7 @@ Access-Control-Max-Age: 86400
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9711%E2%80%94Spring%20BootSpring%20Cloud/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9711%E2%80%94Spring%20BootSpring%20Cloud/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块11—Spring Boot/Spring Cloud</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>104.什么是Spring Boot?</p>
 <p>105.为什么要用Spring Boot?</p>
@@ -4749,7 +4749,7 @@ Access-Control-Max-Age: 86400
 <p>如图所示指令，你可以为该指令命名(此处命名为MvnSpringBootRun)）</p>
 <img src="./assets/java-09.png" style="zoom:80%;" />
 <p>点击保存将会在IDEA项目运行部位出现，点击绿色箭头运行即可</p>
-<p><img src="./assets/java-10.png" alt=""></p>
+<p><img src="./assets/java-10.png" alt="" /></p>
 <p><strong>②. 使用spring-boot-devtools</strong></p>
 <p>在项目的pom文件中添加依赖：</p>
 <div><pre><code><span>&lt;!--热部署jar--></span>
@@ -4811,7 +4811,7 @@ Access-Control-Max-Age: 86400
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9712%E2%80%94Hibernate/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9712%E2%80%94Hibernate/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块12—Hibernate</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>113.为什么要使用Hibernate?</p>
 <p>114.什么是 ORM框架?</p>
@@ -4933,7 +4933,7 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
 <li>Persistent（持久）：调用了save()、saveOrUpdate()，就变成Persistent，有id。</li>
 <li>Detached（脱管）：当session  close()完之后，变成Detached。</li>
 </ol>
-<p><img src="C:%5CUsers%5CMr%20Yang%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210110165420322.png" alt="image-20210110165420322"></p>
+<p><img src="./assets/image-20210818110152183.png" alt="image-20210818110152183" /></p>
 <h3 id="_123-在-hibernate-中-getcurrentsession和opensession的区别是什么"> 123.在 Hibernate 中 getCurrentSession和openSession的区别是什么?</h3>
 <p>openSession 从字面上可以看得出来，是打开一个新的session对象，而且每次使用都是打开一个新的session，假如连续使用多次，则获得的session不是同一个对象，并且使用完需要调用close方法关闭session。</p>
 <p>getCurrentSession ，从字面上可以看得出来，是获取当前上下文一个session对象，当第一次使用此方法时，会自动产生一个session对象，并且连续使用多次时，得到的session都是同一个对象，这就是与openSession的区别之一，简单而言，getCurrentSession 就是：如果有已经使用的，用旧的，如果没有，建新的。</p>
@@ -4948,7 +4948,7 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9713%E2%80%94MyBatis/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9713%E2%80%94MyBatis/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块13—MyBatis</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>125.MyBatis 中#{和$0的区别是什么?</p>
 <p>126.MyBatis有几种分页方式?</p>
@@ -5074,7 +5074,7 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9714%E2%80%94RabbitMQ/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9714%E2%80%94RabbitMQ/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块14—RabbitMQ</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>135.RabbitMQ的使用场景有哪些?</p>
 <p>136.RabbitMQ有哪些重要的角色?</p>
@@ -5116,7 +5116,7 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9715%E2%80%94Kafka/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9715%E2%80%94Kafka/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块15—Kafka</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>152.kafka可以脱离zookeeper单独使用吗?为什么?</p>
 <p>153.kafka有几种数据保留的策略?</p>
@@ -5136,7 +5136,7 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9716%E2%80%94Zookeeper/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9716%E2%80%94Zookeeper/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块16—Zookeeper</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>157.zookeeper是什么?</p>
 <p>158.zookeeper都有哪些功能?</p>
@@ -5160,7 +5160,7 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9717%E2%80%94MySQL/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9717%E2%80%94MySQL/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块17—MySQL</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="_1、数据库的三范式是什么"> 1、数据库的三范式是什么?</h2>
 <ul>
 <li>第一范式：强调的是列的原子性，即数据库表的每一列都是不可分割的原子数据项。</li>
@@ -5198,7 +5198,7 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
 <h3 id="_1-变量类型不同"> （1）变量类型不同</h3>
 <p>float属于单精度型浮点数据。</p>
 <p>double属于双精度型浮点数据。</p>
-<p><img src="./assets/java-11.png" alt=""></p>
+<p><img src="./assets/java-11.png" alt="" /></p>
 <p>一个浮点数由三部分组成：符号位S、指数部分E（阶码）以及尾数部分M。</p>
 <ul>
 <li>
@@ -5285,7 +5285,7 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9718%E2%80%94Redis/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9718%E2%80%94Redis/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块18—Redis</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>179.redis是什么?都有哪些使用场景?</p>
 <p>180.redis有哪些功能?</p>
@@ -5393,7 +5393,7 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
       <link>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9719%E2%80%94JVM/</link>
       <guid>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9719%E2%80%94JVM/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">模块19—JVM</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>194.说一下 jvm的主要组成部分?及其作用?</p>
 <p>195.说一下 jvm运行时数据区?</p>
@@ -5431,7 +5431,7 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
 <li>方法区</li>
 </ul>
 <p>有的区域随着虚拟机进程的启动而存在，有的区域则依赖用户进程的启动和结束而创建和销毁。</p>
-<p><img src="./assets/java-12.png" alt=""></p>
+<p><img src="./assets/java-12.png" alt="" /></p>
 <h3 id="_196-说一下堆栈的区别"> 196.说一下堆栈的区别?</h3>
 <ol>
 <li>
@@ -5549,13 +5549,13 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
       <guid>http://qiqi.dreamagain.top/interview/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">面试准备</source>
       <description>&amp;lt;blockquote&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E9%9D%A2%E8%AF%95%E7%9B%B8%E5%85%B3-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/面试相关-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/blockquote&amp;gt;
 </description>
       <category>面试</category>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p><img src="https://img.shields.io/badge/%E9%9D%A2%E8%AF%95%E7%9B%B8%E5%85%B3-blue.svg" alt="img"></p>
+<p><img src="https://img.shields.io/badge/面试相关-blue.svg" alt="img" /></p>
 </blockquote>
 
 <h2 id="网上面试题"> 网上面试题</h2>
@@ -5564,524 +5564,11 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
       <enclosure url="https://img.shields.io/badge/面试相关-blue.svg" type="image/svg+xml"/>
     </item>
     <item>
-      <title>Spring Security整合</title>
-      <link>http://qiqi.dreamagain.top/program/backend/backframe/Spring%20Security/example/</link>
-      <guid>http://qiqi.dreamagain.top/program/backend/backframe/Spring%20Security/example/</guid>
-      <source url="http://qiqi.dreamagain.top/rss.xml">Spring Security整合</source>
-      <category>后端框架</category>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="spring-security"> Spring Security</h1>
-<h1 id="spring-security整合"> Spring Security整合</h1>
-<h2 id="一、创建spring-security模块"> 一、创建spring_security模块</h2>
-<p><img src="Spring%20Security%E6%95%B4%E5%90%88.assets/423034c7-c21a-4555-8380-393ac7ebca4d.png" alt="img"></p>
-<h2 id="二、在spring-security中引入相关依赖"> 二、在spring_security中引入相关依赖</h2>
-<div><pre><code><span><span><span>&lt;</span>dependencies</span><span>></span></span>
-    <span><span><span>&lt;</span>dependency</span><span>></span></span>
-        <span><span><span>&lt;</span>groupId</span><span>></span></span>com.atguigu<span><span><span>&lt;/</span>groupId</span><span>></span></span>
-        <span><span><span>&lt;</span>artifactId</span><span>></span></span>common_utils<span><span><span>&lt;/</span>artifactId</span><span>></span></span>
-        <span><span><span>&lt;</span>version</span><span>></span></span>0.0.1-SNAPSHOT<span><span><span>&lt;/</span>version</span><span>></span></span>
-    <span><span><span>&lt;/</span>dependency</span><span>></span></span>
-    
-    <span>&lt;!-- Spring Security依赖 --></span>
-    <span><span><span>&lt;</span>dependency</span><span>></span></span>
-        <span><span><span>&lt;</span>groupId</span><span>></span></span>org.springframework.boot<span><span><span>&lt;/</span>groupId</span><span>></span></span>
-        <span><span><span>&lt;</span>artifactId</span><span>></span></span>spring-boot-starter-security<span><span><span>&lt;/</span>artifactId</span><span>></span></span>
-    <span><span><span>&lt;/</span>dependency</span><span>></span></span>
-    <span><span><span>&lt;</span>dependency</span><span>></span></span>
-        <span><span><span>&lt;</span>groupId</span><span>></span></span>io.jsonwebtoken<span><span><span>&lt;/</span>groupId</span><span>></span></span>
-        <span><span><span>&lt;</span>artifactId</span><span>></span></span>jjwt<span><span><span>&lt;/</span>artifactId</span><span>></span></span>
-    <span><span><span>&lt;/</span>dependency</span><span>></span></span>
-<span><span><span>&lt;/</span>dependencies</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br></div></div><h2 id="三、在service-acl引入spring-security依赖"> 三、在service_acl引入spring_security依赖</h2>
-<div><pre><code><span><span><span>&lt;</span>dependency</span><span>></span></span>
-    <span><span><span>&lt;</span>groupId</span><span>></span></span>com.nanci<span><span><span>&lt;/</span>groupId</span><span>></span></span>
-    <span><span><span>&lt;</span>artifactId</span><span>></span></span>spring_security<span><span><span>&lt;/</span>artifactId</span><span>></span></span>
-    <span><span><span>&lt;</span>version</span><span>></span></span>0.0.1-SNAPSHOT<span><span><span>&lt;/</span>version</span><span>></span></span>
-<span><span><span>&lt;/</span>dependency</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p><strong>1、代码结构说明：</strong></p>
-<p>**<img src="Spring%20Security%E6%95%B4%E5%90%88.assets/6aafe337-8a5d-440c-b93d-ff60d4f9cef6.png" alt="img">
-**</p>
-<p><strong>2、创建spring security核心配置类</strong></p>
-<p><em><strong>*<img src="Spring%20Security%E6%95%B4%E5%90%88.assets/553c05a4-ff6d-456c-a5f6-ee9db5e6954a.png" alt="img">*</strong></em></p>
-<p>Spring Security的核心配置就是继承WebSecurityConfigurerAdapter并注解@EnableWebSecurity的配置。</p>
-<p>这个配置指明了用户名密码的处理方式、请求路径的开合、登录登出控制等和安全相关的配置</p>
-<div><pre><code><span>import</span> <span>com<span>.</span>atguigu<span>.</span>serurity<span>.</span>filter<span>.</span></span><span>TokenAuthenticationFilter</span><span>;</span>
-<span>import</span> <span>com<span>.</span>atguigu<span>.</span>serurity<span>.</span>filter<span>.</span></span><span>TokenLoginFilter</span><span>;</span>
-<span>import</span> <span>com<span>.</span>atguigu<span>.</span>serurity<span>.</span>security<span>.</span></span><span>DefaultPasswordEncoder</span><span>;</span>
-<span>import</span> <span>com<span>.</span>atguigu<span>.</span>serurity<span>.</span>security<span>.</span></span><span>TokenLogoutHandler</span><span>;</span>
-<span>import</span> <span>com<span>.</span>atguigu<span>.</span>serurity<span>.</span>security<span>.</span></span><span>TokenManager</span><span>;</span>
-<span>import</span> <span>com<span>.</span>atguigu<span>.</span>serurity<span>.</span>security<span>.</span></span><span>UnauthorizedEntryPoint</span><span>;</span>
-<span>import</span> <span>org<span>.</span>springframework<span>.</span>beans<span>.</span>factory<span>.</span>annotation<span>.</span></span><span>Autowired</span><span>;</span>
-<span>import</span> <span>org<span>.</span>springframework<span>.</span>context<span>.</span>annotation<span>.</span></span><span>Configuration</span><span>;</span>
-<span>import</span> <span>org<span>.</span>springframework<span>.</span>data<span>.</span>redis<span>.</span>core<span>.</span></span><span>RedisTemplate</span><span>;</span>
-<span>import</span> <span>org<span>.</span>springframework<span>.</span>security<span>.</span>config<span>.</span>annotation<span>.</span>authentication<span>.</span>builders<span>.</span></span><span>AuthenticationManagerBuilder</span><span>;</span>
-<span>import</span> <span>org<span>.</span>springframework<span>.</span>security<span>.</span>config<span>.</span>annotation<span>.</span>method<span>.</span>configuration<span>.</span></span><span>EnableGlobalMethodSecurity</span><span>;</span>
-<span>import</span> <span>org<span>.</span>springframework<span>.</span>security<span>.</span>config<span>.</span>annotation<span>.</span>web<span>.</span>builders<span>.</span></span><span>HttpSecurity</span><span>;</span>
-<span>import</span> <span>org<span>.</span>springframework<span>.</span>security<span>.</span>config<span>.</span>annotation<span>.</span>web<span>.</span>builders<span>.</span></span><span>WebSecurity</span><span>;</span>
-<span>import</span> <span>org<span>.</span>springframework<span>.</span>security<span>.</span>config<span>.</span>annotation<span>.</span>web<span>.</span>configuration<span>.</span></span><span>EnableWebSecurity</span><span>;</span>
-<span>import</span> <span>org<span>.</span>springframework<span>.</span>security<span>.</span>config<span>.</span>annotation<span>.</span>web<span>.</span>configuration<span>.</span></span><span>WebSecurityConfigurerAdapter</span><span>;</span>
-<span>import</span> <span>org<span>.</span>springframework<span>.</span>security<span>.</span>core<span>.</span>userdetails<span>.</span></span><span>UserDetailsService</span><span>;</span>
-<span>/**
- * &lt;p>
- * Security配置类
- * &lt;/p>
- */</span>
-<span>@Configuration</span>
-<span>@EnableWebSecurity</span>
-<span>@EnableGlobalMethodSecurity</span><span>(</span>prePostEnabled <span>=</span> <span>true</span><span>)</span>
-<span>public</span> <span>class</span> <span>TokenWebSecurityConfig</span> <span>extends</span> <span>WebSecurityConfigurerAdapter</span> <span>{</span>
-    <span>private</span> <span>UserDetailsService</span> userDetailsService<span>;</span>
-    <span>private</span> <span>TokenManager</span> tokenManager<span>;</span>
-    <span>private</span> <span>DefaultPasswordEncoder</span> defaultPasswordEncoder<span>;</span>
-    <span>private</span> <span>RedisTemplate</span> redisTemplate<span>;</span>
-    <span>@Autowired</span>
-    <span>public</span> <span>TokenWebSecurityConfig</span><span>(</span><span>UserDetailsService</span> userDetailsService<span>,</span> <span>DefaultPasswordEncoder</span> defaultPasswordEncoder<span>,</span>
-                                  <span>TokenManager</span> tokenManager<span>,</span> <span>RedisTemplate</span> redisTemplate<span>)</span> <span>{</span>
-        <span>this</span><span>.</span>userDetailsService <span>=</span> userDetailsService<span>;</span>
-        <span>this</span><span>.</span>defaultPasswordEncoder <span>=</span> defaultPasswordEncoder<span>;</span>
-        <span>this</span><span>.</span>tokenManager <span>=</span> tokenManager<span>;</span>
-        <span>this</span><span>.</span>redisTemplate <span>=</span> redisTemplate<span>;</span>
-    <span>}</span>
-    <span>/**
-     * 配置设置
-     * @param http
-     * @throws Exception
-     */</span>
-    <span>@Override</span>
-    <span>protected</span> <span>void</span> <span>configure</span><span>(</span><span>HttpSecurity</span> http<span>)</span> <span>throws</span> <span>Exception</span> <span>{</span>
-        http<span>.</span><span>exceptionHandling</span><span>(</span><span>)</span>
-                <span>.</span><span>authenticationEntryPoint</span><span>(</span><span>new</span> <span>UnauthorizedEntryPoint</span><span>(</span><span>)</span><span>)</span>
-                <span>.</span><span>and</span><span>(</span><span>)</span><span>.</span><span>csrf</span><span>(</span><span>)</span><span>.</span><span>disable</span><span>(</span><span>)</span>
-                <span>.</span><span>authorizeRequests</span><span>(</span><span>)</span>
-                <span>.</span><span>anyRequest</span><span>(</span><span>)</span><span>.</span><span>authenticated</span><span>(</span><span>)</span>
-                <span>.</span><span>and</span><span>(</span><span>)</span><span>.</span><span>logout</span><span>(</span><span>)</span><span>.</span><span>logoutUrl</span><span>(</span><span>"/admin/acl/index/logout"</span><span>)</span>
-                <span>.</span><span>addLogoutHandler</span><span>(</span><span>new</span> <span>TokenLogoutHandler</span><span>(</span>tokenManager<span>,</span>redisTemplate<span>)</span><span>)</span><span>.</span><span>and</span><span>(</span><span>)</span>
-                <span>.</span><span>addFilter</span><span>(</span><span>new</span> <span>TokenLoginFilter</span><span>(</span><span>authenticationManager</span><span>(</span><span>)</span><span>,</span> tokenManager<span>,</span> redisTemplate<span>)</span><span>)</span>
-                <span>.</span><span>addFilter</span><span>(</span><span>new</span> <span>TokenAuthenticationFilter</span><span>(</span><span>authenticationManager</span><span>(</span><span>)</span><span>,</span> tokenManager<span>,</span> redisTemplate<span>)</span><span>)</span><span>.</span><span>httpBasic</span><span>(</span><span>)</span><span>;</span>
-    <span>}</span>
-    <span>/**
-     * 密码处理
-     * @param auth
-     * @throws Exception
-     */</span>
-    <span>@Override</span>
-    <span>public</span> <span>void</span> <span>configure</span><span>(</span><span>AuthenticationManagerBuilder</span> auth<span>)</span> <span>throws</span> <span>Exception</span> <span>{</span>
-        auth<span>.</span><span>userDetailsService</span><span>(</span>userDetailsService<span>)</span><span>.</span><span>passwordEncoder</span><span>(</span>defaultPasswordEncoder<span>)</span><span>;</span>
-    <span>}</span>
-    <span>/**
-     * 配置哪些请求不拦截
-     * @param web
-     * @throws Exception
-     */</span>
-    <span>@Override</span>
-    <span>public</span> <span>void</span> <span>configure</span><span>(</span><span>WebSecurity</span> web<span>)</span> <span>throws</span> <span>Exception</span> <span>{</span>
-        web<span>.</span><span>ignoring</span><span>(</span><span>)</span><span>.</span><span>antMatchers</span><span>(</span><span>"/api/**"</span><span>,</span>
-                <span>"/swagger-resources/**"</span><span>,</span> <span>"/webjars/**"</span><span>,</span> <span>"/v2/**"</span><span>,</span> <span>"/swagger-ui.html/**"</span>
-               <span>)</span><span>;</span>
-    <span>}</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br></div></div><p><strong>5、创建认证授权相关的工具类</strong></p>
-<p><img src="Spring%20Security%E6%95%B4%E5%90%88.assets/75ccbeef-10c1-45fd-8f68-b598019832b1.png" alt="img"></p>
-<div><pre><code>（1）DefaultPasswordEncoder：密码处理的方法
-</code></pre>
-<div><span>1</span><br></div></div><div><pre><code>package com.atguigu.serurity.security;
-import com.atguigu.commonutils.utils.MD5;
-import org.springframework.security.crypto.password.PasswordEncoder;
-import org.springframework.stereotype.Component;
-/**
- * &lt;p&gt;
- * 密码的处理方法类型
- * &lt;/p&gt;
- */
-@Component
-public class DefaultPasswordEncoder implements PasswordEncoder {
-    public DefaultPasswordEncoder() {
-        this(-1);
-    }
-    /**
-     * @param strength
-     *            the log rounds to use, between 4 and 31
-     */
-    public DefaultPasswordEncoder(int strength) {
-    }
-    public String encode(CharSequence rawPassword) {
-        return MD5.encrypt(rawPassword.toString());
-    }
-    public boolean matches(CharSequence rawPassword, String encodedPassword) {
-        return encodedPassword.equals(MD5.encrypt(rawPassword.toString()));
-    }
-}
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br></div></div><p><em><em><em>*</em>*（2）********<code>TokenManager：token操作的工具类</code>******</em>*</em>*</p>
-<div><pre><code>import io.jsonwebtoken.CompressionCodecs;
-import io.jsonwebtoken.Jwts;
-import io.jsonwebtoken.SignatureAlgorithm;
-import org.springframework.stereotype.Component;
-import java.util.Date;
-/**
- * &lt;p&gt;
- * token管理
- * &lt;/p&gt;
- */
-@Component
-public class TokenManager {
-    private long tokenExpiration = 24*60*60*1000;
-    private String tokenSignKey = &quot;123456&quot;;
-    public String createToken(String username) {
-        String token = Jwts.builder().setSubject(username)
-                .setExpiration(new Date(System.currentTimeMillis() + tokenExpiration))
-                .signWith(SignatureAlgorithm.HS512, tokenSignKey).compressWith(CompressionCodecs.GZIP).compact();
-        return token;
-    }
-    public String getUserFromToken(String token) {
-        String user = Jwts.parser().setSigningKey(tokenSignKey).parseClaimsJws(token).getBody().getSubject();
-        return user;
-    }
-    public void removeToken(String token) {
-        //jwttoken无需删除，客户端扔掉即可。
-    }
-}
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br></div></div><p><em><em><em>*</em>*（3）**********<code>TokenLogoutHandler：退出实现</code>**********
-**</em>*</em>*</p>
-<div><pre><code>import com.atguigu.commonutils.R;
-import com.atguigu.commonutils.utils.ResponseUtil;
-import org.springframework.data.redis.core.RedisTemplate;
-import org.springframework.security.core.Authentication;
-import org.springframework.security.web.authentication.logout.LogoutHandler;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
-/**
- * &lt;p&gt;
- * 登出业务逻辑类
- * &lt;/p&gt;
- */
-public class TokenLogoutHandler implements LogoutHandler {
-    private TokenManager tokenManager;
-    private RedisTemplate redisTemplate;
-    public TokenLogoutHandler(TokenManager tokenManager, RedisTemplate redisTemplate) {
-        this.tokenManager = tokenManager;
-        this.redisTemplate = redisTemplate;
-    }
-    @Override
-    public void logout(HttpServletRequest request, HttpServletResponse response, Authentication authentication) {
-        String token = request.getHeader(&quot;token&quot;);
-        if (token != null) {
-            tokenManager.removeToken(token);
-            //清空当前用户缓存中的权限数据
-            String userName = tokenManager.getUserFromToken(token);
-            redisTemplate.delete(userName);
-        }
-        ResponseUtil.out(response, R.ok());
-    }
-}
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p><em><strong>*（4）********<code>UnauthorizedEntryPoint：未授权统一处理</code>*********</strong></em></p>
-<div><pre><code>import com.atguigu.commonutils.R;
-import com.atguigu.commonutils.utils.ResponseUtil;
-import org.springframework.security.core.AuthenticationException;
-import org.springframework.security.web.AuthenticationEntryPoint;
-import javax.servlet.ServletException;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
-import java.io.IOException;
-/**
- * &lt;p&gt;
- * 未授权的统一处理方式
- * &lt;/p&gt;
- */
-public class UnauthorizedEntryPoint implements AuthenticationEntryPoint {
-    @Override
-    public void commence(HttpServletRequest request, HttpServletResponse response,
-                         AuthenticationException authException) throws IOException, ServletException {
-        ResponseUtil.out(response, R.error());
-    }
-}
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br></div></div><p><strong><em>*</em>*********6、创建认证授权实体类**********
-****<img src="Spring%20Security%E6%95%B4%E5%90%88.assets/76236594-2238-4d28-a15e-7cf743bb53e2.png" alt="img">（1）SecutityUser*****</strong>*</p>
-<div><pre><code>import lombok.Data;
-import lombok.extern.slf4j.Slf4j;
-import org.springframework.security.core.GrantedAuthority;
-import org.springframework.security.core.authority.SimpleGrantedAuthority;
-import org.springframework.security.core.userdetails.UserDetails;
-import org.springframework.util.StringUtils;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.List;
-/**
- * &lt;p&gt;
- * 安全认证用户详情信息
- * &lt;/p&gt;
- */
-@Data
-@Slf4j
-public class SecurityUser implements UserDetails {
-    //当前登录用户
-    private transient User currentUserInfo;
-    //当前权限
-    private List&lt;String&gt; permissionValueList;
-    public SecurityUser() {
-    }
-    public SecurityUser(User user) {
-        if (user != null) {
-            this.currentUserInfo = user;
-        }
-    }
-    @Override
-    public Collection&lt;? extends GrantedAuthority&gt; getAuthorities() {
-        Collection&lt;GrantedAuthority&gt; authorities = new ArrayList&lt;&gt;();
-        for(String permissionValue : permissionValueList) {
-            if(StringUtils.isEmpty(permissionValue)) continue;
-            SimpleGrantedAuthority authority = new SimpleGrantedAuthority(permissionValue);
-            authorities.add(authority);
-        }
-        return authorities;
-    }
-    @Override
-    public String getPassword() {
-        return currentUserInfo.getPassword();
-    }
-    @Override
-    public String getUsername() {
-        return currentUserInfo.getUsername();
-    }
-    @Override
-    public boolean isAccountNonExpired() {
-        return true;
-    }
-    @Override
-    public boolean isAccountNonLocked() {
-        return true;
-    }
-    @Override
-    public boolean isCredentialsNonExpired() {
-        return true;
-    }
-    @Override
-    public boolean isEnabled() {
-        return true;
-    }
-}
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br></div></div><p><em><em><em>*</em>*****（2）User******</em>*</em>*</p>
-<div><pre><code>import io.swagger.annotations.ApiModel;
-import io.swagger.annotations.ApiModelProperty;
-import lombok.Data;
-import java.io.Serializable;
-/**
- * &lt;p&gt;
- * 用户实体类
- * &lt;/p&gt;
- */
-@Data
-@ApiModel(description = &quot;用户实体类&quot;)
-public class User implements Serializable {
-    private static final long serialVersionUID = 1L;
-    @ApiModelProperty(value = &quot;微信openid&quot;)
-    private String username;
-    @ApiModelProperty(value = &quot;密码&quot;)
-    private String password;
-    @ApiModelProperty(value = &quot;昵称&quot;)
-    private String nickName;
-    @ApiModelProperty(value = &quot;用户头像&quot;)
-    private String salt;
-    @ApiModelProperty(value = &quot;用户签名&quot;)
-    private String token;
-}
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br></div></div><p><strong><em>*</em>*******************7、创建认证和授权的filter**********
-**********<img src="Spring%20Security%E6%95%B4%E5%90%88.assets/bee4d171-befe-4b08-a792-5f1d50a8642b.png" alt="img">
-****（1）TokenLoginFilter：认证的filter*****</strong>*</p>
-<div><pre><code>import com.atguigu.commonutils.R;
-import com.atguigu.commonutils.utils.ResponseUtil;
-import com.atguigu.serurity.entity.SecurityUser;
-import com.atguigu.serurity.entity.User;
-import com.atguigu.serurity.security.TokenManager;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import org.springframework.data.redis.core.RedisTemplate;
-import org.springframework.security.authentication.AuthenticationManager;
-import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
-import org.springframework.security.core.Authentication;
-import org.springframework.security.core.AuthenticationException;
-import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
-import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
-import javax.servlet.FilterChain;
-import javax.servlet.ServletException;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
-import java.io.IOException;
-import java.util.ArrayList;
-/**
- * &lt;p&gt;
- * 登录过滤器，继承UsernamePasswordAuthenticationFilter，对用户名密码进行登录校验
- * &lt;/p&gt;
- */
-public class TokenLoginFilter extends UsernamePasswordAuthenticationFilter {
-    private AuthenticationManager authenticationManager;
-    private TokenManager tokenManager;
-    private RedisTemplate redisTemplate;
-    public TokenLoginFilter(AuthenticationManager authenticationManager, TokenManager tokenManager, RedisTemplate redisTemplate) {
-        this.authenticationManager = authenticationManager;
-        this.tokenManager = tokenManager;
-        this.redisTemplate = redisTemplate;
-        this.setPostOnly(false);
-        this.setRequiresAuthenticationRequestMatcher(new AntPathRequestMatcher(&quot;/admin/acl/login&quot;,&quot;POST&quot;));
-    }
-    @Override
-    public Authentication attemptAuthentication(HttpServletRequest req, HttpServletResponse res)
-            throws AuthenticationException {
-        try {
-            User user = new ObjectMapper().readValue(req.getInputStream(), User.class);
-            return authenticationManager.authenticate(new UsernamePasswordAuthenticationToken(user.getUsername(), user.getPassword(), new ArrayList&lt;&gt;()));
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
-    }
-    /**
-     * 登录成功
-     * @param req
-     * @param res
-     * @param chain
-     * @param auth
-     * @throws IOException
-     * @throws ServletException
-     */
-    @Override
-    protected void successfulAuthentication(HttpServletRequest req, HttpServletResponse res, FilterChain chain,
-                                            Authentication auth) throws IOException, ServletException {
-        SecurityUser user = (SecurityUser) auth.getPrincipal();
-        String token = tokenManager.createToken(user.getCurrentUserInfo().getUsername());
-        redisTemplate.opsForValue().set(user.getCurrentUserInfo().getUsername(), user.getPermissionValueList());
-        ResponseUtil.out(res, R.ok().data(&quot;token&quot;, token));
-    }
-    /**
-     * 登录失败
-     * @param request
-     * @param response
-     * @param e
-     * @throws IOException
-     * @throws ServletException
-     */
-    @Override
-    protected void unsuccessfulAuthentication(HttpServletRequest request, HttpServletResponse response,
-                                              AuthenticationException e) throws IOException, ServletException {
-        ResponseUtil.out(response, R.error());
-    }
-}
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br></div></div><p><strong><em>*</em>*******************************<code>（2）TokenAuthenticationFilter：</code>*********************************</strong>*</p>
-<div><pre><code>授权filter
-</code></pre>
-<div><span>1</span><br></div></div><div><pre><code>package com.atguigu.serurity.filter;
-import com.atguigu.commonutils.R;
-import com.atguigu.commonutils.utils.ResponseUtil;
-import com.atguigu.serurity.security.TokenManager;
-import org.springframework.data.redis.core.RedisTemplate;
-import org.springframework.security.authentication.AuthenticationManager;
-import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
-import org.springframework.security.core.GrantedAuthority;
-import org.springframework.security.core.authority.SimpleGrantedAuthority;
-import org.springframework.security.core.context.SecurityContextHolder;
-import org.springframework.security.web.authentication.www.BasicAuthenticationFilter;
-import org.springframework.util.StringUtils;
-import javax.servlet.FilterChain;
-import javax.servlet.ServletException;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.List;
-/**
- * &lt;p&gt;
- * 访问过滤器
- * &lt;/p&gt;
- */
-public class TokenAuthenticationFilter extends BasicAuthenticationFilter {
-    private TokenManager tokenManager;
-    private RedisTemplate redisTemplate;
-    public TokenAuthenticationFilter(AuthenticationManager authManager, TokenManager tokenManager,RedisTemplate redisTemplate) {
-        super(authManager);
-        this.tokenManager = tokenManager;
-        this.redisTemplate = redisTemplate;
-    }
-    @Override
-    protected void doFilterInternal(HttpServletRequest req, HttpServletResponse res, FilterChain chain)
-            throws IOException, ServletException {
-        logger.info(&quot;=================&quot;+req.getRequestURI());
-        if(req.getRequestURI().indexOf(&quot;admin&quot;) == -1) {
-            chain.doFilter(req, res);
-            return;
-        }
-        UsernamePasswordAuthenticationToken authentication = null;
-        try {
-            authentication = getAuthentication(req);
-        } catch (Exception e) {
-            ResponseUtil.out(res, R.error());
-        }
-        if (authentication != null) {
-            SecurityContextHolder.getContext().setAuthentication(authentication);
-        } else {
-            ResponseUtil.out(res, R.error());
-        }
-        chain.doFilter(req, res);
-    }
-    private UsernamePasswordAuthenticationToken getAuthentication(HttpServletRequest request) {
-        // token置于header里
-        String token = request.getHeader(&quot;token&quot;);
-        if (token != null &amp;&amp; !&quot;&quot;.equals(token.trim())) {
-            String userName = tokenManager.getUserFromToken(token);
-            List&lt;String&gt; permissionValueList = (List&lt;String&gt;) redisTemplate.opsForValue().get(userName);
-            Collection&lt;GrantedAuthority&gt; authorities = new ArrayList&lt;&gt;();
-            for(String permissionValue : permissionValueList) {
-                if(StringUtils.isEmpty(permissionValue)) continue;
-                SimpleGrantedAuthority authority = new SimpleGrantedAuthority(permissionValue);
-                authorities.add(authority);
-            }
-            if (!StringUtils.isEmpty(userName)) {
-                return new UsernamePasswordAuthenticationToken(userName, token, authorities);
-            }
-            return null;
-        }
-        return null;
-    }
-}
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br></div></div>]]></content:encoded>
-    </item>
-    <item>
-      <title>Spring Security介绍</title>
-      <link>http://qiqi.dreamagain.top/program/backend/backframe/Spring%20Security/intro/</link>
-      <guid>http://qiqi.dreamagain.top/program/backend/backframe/Spring%20Security/intro/</guid>
-      <source url="http://qiqi.dreamagain.top/rss.xml">Spring Security介绍</source>
-      <category>后端框架</category>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="spring-security"> Spring Security</h1>
-<h2 id="一、框架介绍"> 一、框架介绍</h2>
-<p>Spring 是一个非常流行和成功的 Java 应用开发框架。Spring Security 基于 Spring 框架，提供了一套 Web 应用安全性的完整解决方案。一般来说，Web 应用的安全性包括**用户认证（Authentication）和用户授权（Authorization）**两个部分。</p>
-<p>（1）用户认证指的是：验证某个用户是否为系统中的合法主体，也就是说用户能否访问该系统。用户认证一般要求用户提供用户名和密码。系统通过校验用户名和密码来完成认证过程。</p>
-<p>（2）用户授权指的是验证某个用户是否有权限执行某个操作。在一个系统中，不同用户所具有的权限是不同的。比如对一个文件来说，有的用户只能进行读取，而有的用户可以进行修改。一般来说，系统会为不同的用户分配不同的角色，而每个角色则对应一系列的权限。</p>
-<p><strong>Spring Security其实就是用filter，对多请求的路径进行过滤。</strong></p>
-<p>（1）如果是基于Session，那么Spring Security会对cookie里的sessionid进行解析，找到服务器存储的sesion信息，然后判断当前用户是否符合请求的要求。</p>
-<p>（2）如果是token，则是解析出token，然后将当前请求加入到Spring Security管理的权限信息中去</p>
-<h2 id="二、认证与授权实现思路"> 二、认证与授权实现思路</h2>
-<p>如果系统的模块众多，每个模块都需要进行授权与认证，可以选择基于token的形式进行授权与认证，用户根据用户名密码认证成功，然后获取当前用户角色的一系列权限值，并以用户名为key，权限列表为value的形式存入redis缓存中，根据用户名相关信息生成token返回，浏览器将token记录到cookie中，每次调用api接口都默认将token携带到header请求头中，Spring Security解析header头获取token信息，解析token获取当前用户名，根据用户名就可以从redis中获取权限列表，这样Spring Security就能够判断当前请求是否有权限访问。</p>
-<p>流程图：</p>
-<p><img src="intro.assets/image-20210202105449950.png" alt="image-20210202105449950"></p>
-<p>代码执行过程：</p>
-<p><img src="intro.assets/image-20210202105704682.png" alt="image-20210202105704682"></p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>ORM相关框架</title>
       <link>http://qiqi.dreamagain.top/program/backend/backframe/orm/</link>
       <guid>http://qiqi.dreamagain.top/program/backend/backframe/orm/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">ORM相关框架</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
     </item>
     <item>
       <title>后端框架</title>
@@ -6089,15 +5576,15 @@ public class TokenAuthenticationFilter extends BasicAuthenticationFilter {
       <guid>http://qiqi.dreamagain.top/program/backend/backframe/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">后端框架</source>
       <description>&amp;lt;blockquote&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-Spring-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt;  &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-SpringMVC-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt;  &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-SpringBoot-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt;  &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-SpringCloud-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-SpringSecurity-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-MyBatis-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt;  &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-MyBatis--Plus-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/框架-Spring-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt;  &amp;lt;img src=&amp;quot;https://img.shields.io/badge/框架-SpringMVC-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt;  &amp;lt;img src=&amp;quot;https://img.shields.io/badge/框架-SpringBoot-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt;  &amp;lt;img src=&amp;quot;https://img.shields.io/badge/框架-SpringCloud-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/框架-SpringSecurity-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/框架-MyBatis-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt;  &amp;lt;img src=&amp;quot;https://img.shields.io/badge/框架-MyBatis--Plus-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/blockquote&amp;gt;
 </description>
       <category>后端框架</category>
       <pubDate>Tue, 10 Sep 2019 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p><img src="https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-Spring-blue.svg" alt="img">  <img src="https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-SpringMVC-blue.svg" alt="img">  <img src="https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-SpringBoot-blue.svg" alt="img">  <img src="https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-SpringCloud-blue.svg" alt="img"> <img src="https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-SpringSecurity-blue.svg" alt="img"></p>
-<p><img src="https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-MyBatis-blue.svg" alt="img">  <img src="https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-MyBatis--Plus-blue.svg" alt="img"></p>
+<p><img src="https://img.shields.io/badge/框架-Spring-blue.svg" alt="img" />  <img src="https://img.shields.io/badge/框架-SpringMVC-blue.svg" alt="img" />  <img src="https://img.shields.io/badge/框架-SpringBoot-blue.svg" alt="img" />  <img src="https://img.shields.io/badge/框架-SpringCloud-blue.svg" alt="img" /> <img src="https://img.shields.io/badge/框架-SpringSecurity-blue.svg" alt="img" /></p>
+<p><img src="https://img.shields.io/badge/框架-MyBatis-blue.svg" alt="img" />  <img src="https://img.shields.io/badge/框架-MyBatis--Plus-blue.svg" alt="img" /></p>
 </blockquote>
 
 ]]></content:encoded>
@@ -6108,7 +5595,7 @@ public class TokenAuthenticationFilter extends BasicAuthenticationFilter {
       <link>http://qiqi.dreamagain.top/program/backend/backframe/spring/</link>
       <guid>http://qiqi.dreamagain.top/program/backend/backframe/spring/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">Spring家族框架体系</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
     </item>
     <item>
       <title>后端框架</title>
@@ -6116,7 +5603,7 @@ public class TokenAuthenticationFilter extends BasicAuthenticationFilter {
       <guid>http://qiqi.dreamagain.top/program/backend/framework/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">后端框架</source>
       <category>框架</category>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="一、spring家族"> 一、Spring家族</h2>
 <h3 id="一-spring-framework"> <a href="">（一）Spring Framework</a></h3>
 <h3 id="二-spring-mvc"> <a href="">（二）Spring MVC</a></h3>
@@ -6135,7 +5622,7 @@ public class TokenAuthenticationFilter extends BasicAuthenticationFilter {
       <guid>http://qiqi.dreamagain.top/program/backend/java/annotation/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">JavaSE-注解</source>
       <category>Java</category>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="一、理解注解"> 一、理解注解</h2>
 <h3 id="一-为什么要引入注解"> （一）为什么要引入注解</h3>
 <p>使用注解之前(甚至在使用之后)，XML被广泛的应用于描述元数据，得到各大框架的青睐，它以松耦合的方式完成了框架中几乎所有的配置，但是随着项目越来越庞大，XML的内容也越来越复杂，一些应用开发人员和架构师发现维护成本变高。他们希望使用一些和代码紧耦合的东西，于是就有人提出来一种标记式高耦合的配置方式注解。方法上可以进行注解，类上也可以注解，字段属性上也可以注解，反正几乎需要配置的地方都可以进行注解。</p>
@@ -6168,7 +5655,7 @@ public class TokenAuthenticationFilter extends BasicAuthenticationFilter {
 <span>}</span>
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div><p>通过在方法上使用@Test注解后，在运行该方法时，测试框架会自动识别该方法并单独调用，@Test实际上是一种标记注解，起标记作用，运行时告诉测试框架该方法为测试方法。而对于<code>@Deprecated</code>和<code>@SuppressWarnings(“uncheck”)</code>，则是Java本身内置的注解，在代码中，可以经常看见它们，但这并不是一件好事，毕竟当方法或是类上面有<code>@Deprecated</code>注解时，说明该方法或是类都已经过期不建议再用，<code>@SuppressWarnings</code> 则表示忽略指定警告，比如<code>@SuppressWarnings(“uncheck”)</code>，这就是注解的最简单的使用方式。</p>
-<div><p>提示</p>
+<div><p>Tips</p>
 <p>解析一个类或者方法的注解往往有两种形式：</p>
 <ul>
 <li>一种是编译期直接的扫描</li>
@@ -6291,7 +5778,7 @@ public class TokenAuthenticationFilter extends BasicAuthenticationFilter {
 <li><code>CLASS</code>：注解在class文件中可用，但会被VM丢弃（该类型的注解信息会保留在源码里和class文件里，在执行的时候，不会加载到虚拟机中），请注意，当注解未定义Retention值时，默认值是CLASS，如Java内置注解，@Override、@Deprecated、@SuppressWarnning等</li>
 <li><code>RUNTIME</code>：注解信息将在运行期(JVM)也保留，因此可以通过反射机制读取注解的信息（源码、class文件和执行的时候都有注解的信息），如SpringMVC中的@Controller、@Autowired、@RequestMapping等。</li>
 </ul>
-<div><p>提示</p>
+<div><p>Tips</p>
 <p>如果<code>@Retention</code>不存在，则该<code>Annotation</code>默认为<code>CLASS</code>。</p>
 <p>因为通常我们自定义的<code>Annotation</code>都是<code>RUNTIME</code>，所以，务必要加上<code>@Retention(RetentionPolicy.RUNTIME)</code>这个元注解</p>
 </div>
@@ -6418,7 +5905,7 @@ father
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br></div></div><p>（二）执行命令 javadoc  DocumentedTest.java</p>
 <p>生成的文档：</p>
-<p><img src="./assets/java-01.png" alt=""></p>
+<p><img src="./assets/java-01.png" alt="" /></p>
 <h2 id="五、注解属性及其数据类型"> 五、注解属性及其数据类型</h2>
 <h3 id="一-注解的属性"> （一）注解的属性</h3>
 <p>注解的属性也叫做成员变量。注解只有成员变量，没有方法。注解的成员变量在注解的定义中以“无形参的方法”形式来声明，其方法名定义了该成员变量的名字，其返回值定义了该成员变量的类型。</p>
@@ -7345,13 +6832,13 @@ father
       <guid>http://qiqi.dreamagain.top/program/backend/java/collection/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">JavaSE-集合</source>
       <description>&amp;lt;blockquote&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/collection-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/List-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/Set-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/Map-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/collection-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/List-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/Set-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/Map-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/blockquote&amp;gt;
 </description>
       <category>Java</category>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p><img src="https://img.shields.io/badge/collection-blue.svg" alt=""> <img src="https://img.shields.io/badge/List-blue.svg" alt=""> <img src="https://img.shields.io/badge/Set-blue.svg" alt=""> <img src="https://img.shields.io/badge/Map-blue.svg" alt="">
+<p><img src="https://img.shields.io/badge/collection-blue.svg" alt="" /> <img src="https://img.shields.io/badge/List-blue.svg" alt="" /> <img src="https://img.shields.io/badge/Set-blue.svg" alt="" /> <img src="https://img.shields.io/badge/Map-blue.svg" alt="" />
 </p>
 </blockquote>
 <h2 id="集合概要"> 集合概要</h2>
@@ -7465,7 +6952,7 @@ father
       <guid>http://qiqi.dreamagain.top/program/backend/java/generics/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">JavaSE-泛型</source>
       <category>Java</category>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="一、前言"> 一、前言</h2>
 <p>Java 泛型（Generic）的引入加强了参数类型的安全性，减少了类型的转换，但有一点需要注意：Java 的泛型在编译器有效，在运行期被删除，也就是说所有泛型参数类型在编译后都会被清除掉，看下面一个列子，代码如下：</p>
 <div><pre><code><span>public</span> <span>class</span> <span>Foo</span> <span>{</span>
@@ -7593,7 +7080,7 @@ father
 <span>public</span> <span>interface</span> <span>Map</span><span><span>&lt;</span><span>K</span><span>,</span><span>V</span><span>></span></span> 
 <span>public</span> <span>interface</span> <span>Iterator</span><span><span>&lt;</span><span>E</span><span>></span></span>    
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><div><p>注意</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><div><p>Note</p>
 <p>因此，我们在使用这些接口及其实现类时，都要使用泛型。</p>
 </div>
 <h2 id="五、自定义泛型"> 五、自定义泛型</h2>
@@ -7645,13 +7132,13 @@ father
       <guid>http://qiqi.dreamagain.top/program/backend/java/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">Java</source>
       <description>&amp;lt;blockquote&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/Java%E7%AE%80%E4%BB%8B-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/Java简介-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/学习教程-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/学习笔记-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/blockquote&amp;gt;
 </description>
       <category>Java</category>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p><img src="https://img.shields.io/badge/Java%E7%AE%80%E4%BB%8B-blue.svg" alt=""> <img src="https://img.shields.io/badge/%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B-blue.svg" alt=""> <img src="https://img.shields.io/badge/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-blue.svg" alt="">
+<p><img src="https://img.shields.io/badge/Java简介-blue.svg" alt="" /> <img src="https://img.shields.io/badge/学习教程-blue.svg" alt="" /> <img src="https://img.shields.io/badge/学习笔记-blue.svg" alt="" />
 </p>
 </blockquote>
 <h2 id="java简介"> Java简介</h2>
@@ -7701,7 +7188,7 @@ father
       <guid>http://qiqi.dreamagain.top/program/backend/java/reflect/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">JavaSE-反射</source>
       <category>Java</category>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="一、什么是反射"> 一、什么是反射：</h2>
 <p>（1）Java反射机制的核心是在程序运行时动态加载类并获取类的详细信息，从而操作类或对象的属性和方法。本质是JVM得到class对象之后，再通过class对象进行反编译，从而获取对象的各种信息。</p>
 <p>（2）Java属于先编译再运行的语言，程序中对象的类型在编译期就确定下来了，而当程序在运行时可能需要动态加载某些类，这些类因为之前用不到，所以没有被加载到JVM。通过反射，可以在运行时动态地创建对象并调用其属性，不需要提前在编译期知道运行的对象是谁。</p>
@@ -7713,7 +7200,7 @@ father
 <h2 id="二、反射的原理"> 二、反射的原理：</h2>
 <p>如图是类的正常加载过程：反射的原理在于class对象。</p>
 <p>加载的时候：Class对象的由来是将class文件读入内存，并为之创建一个Class对象。</p>
-<p><img src="./assets/java-02.png" alt=""></p>
+<p><img src="./assets/java-02.png" alt="" /></p>
 <p>了解<a href="./calssloader.html">类加载机制与双亲委派模型</a></p>
 <h2 id="三、反射的优缺点"> 三、反射的优缺点：</h2>
 <p>1、优点：</p>
@@ -8221,7 +7708,7 @@ method<span>=</span>doService1
       <guid>http://qiqi.dreamagain.top/program/backend/java/regex/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">JavaSE-正则表达式</source>
       <category>Java</category>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="一、概述"> 一、概述</h2>
 <ul>
 <li>用来描述或者匹配一系列符合某个语句规则的字符串</li>
@@ -8406,13 +7893,13 @@ method<span>=</span>doService1
     <span>}</span>
 <span>}</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div><div><p>注意</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div><div><p>Note</p>
 <p>区分三个概念，原串，正则表达式，java字符串</p>
 <p>原串是a&amp;c，那么由于&amp;在正则表达式中属于特殊字符，因此正则表达式中需要转义，即写为a&amp;c</p>
 <p>又因为java字符串中，\也是特殊字符，因此需要转义写成\，综合写就是a\&amp;c</p>
 <p>所以java字符串&quot;a\&amp;c&quot;表示的正则表达式为&quot;a&amp;c&quot;，表示的原串内容为&quot;a&amp;c&quot;</p>
 </div>
-<div><p>相关信息</p>
+<div><p>Info</p>
 <p>正则表达式代码可以使用<code>String.matches()</code>方法，而我们在分组提取的代码中用的是<code>java.util.regex</code>包里面的<code>Pattern</code>类和<code>Matcher</code>类。实际上这两种代码本质上是一样的，因为<code>String.matches()</code>方法内部调用的就是<code>Pattern</code>和<code>Matcher</code>类的方法。</p>
 </div>
 <p>但是反复使用<code>String.matches()</code>对同一个正则表达式进行多次匹配效率较低，因为每次都会创建出一样的<code>Pattern</code>对象。完全可以先创建出一个<code>Pattern</code>对象，然后反复使用，就可以实现编译一次，多次匹配,如下示例：</p>
@@ -8717,7 +8204,7 @@ Found value: ! OK?
 <span>// 运行结果：</span>
 <span>// the quick brown fox jumps &lt;b>over&lt;/b> the &lt;b>lazy&lt;/b> dog.</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><div><p>提示</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><div><p>Tips</p>
 <p>实现替换的关键就在于<code>&quot; &lt;b&gt;$1&lt;/b&gt; &quot;</code>，它用匹配的分组子串<code>([a-z]{4})</code>替换了<code>$1</code></p>
 </div>
 <h3 id="六-练习"> （六）练习</h3>
@@ -8856,7 +8343,7 @@ Found value: ! OK?
       <link>http://qiqi.dreamagain.top/program/backend/java/solution/Java%E5%9F%BA%E7%A1%80/</link>
       <guid>http://qiqi.dreamagain.top/program/backend/java/solution/Java%E5%9F%BA%E7%A1%80/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">Java基础</source>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <h3 id="一、java概述"> 一、Java概述</h3>
 <p>1、何为编程</p>
@@ -9142,7 +8629,7 @@ Java ME 以前称为 J2ME。Java ME 为在移动设备和嵌入式设备（比�
 <blockquote>
 <p>1、Java有哪些数据类型</p>
 </blockquote>
-<p><img src="./assets/02.jpg" alt=""></p>
+<p><img src="./assets/02.jpg" alt="" /></p>
 <blockquote>
 <p>2、switch 是否能作用在 byte 上，是否能作用在 long 上，是否能作用在 String 上</p>
 </blockquote>
@@ -9204,7 +8691,7 @@ Java ME 以前称为 J2ME。Java ME 为在移动设备和嵌入式设备（比�
 <p>protected : 对同一包内的类和所有子类可见。使用对象：变量、方法。 注意：不能修饰类（外部类）。</p>
 <p>public : 对所有类可见。使用对象：类、接口、变量、方法</p>
 <p>访问修饰符图
-<img src="./assets/03.jpg" alt=""></p>
+<img src="./assets/03.jpg" alt="" /></p>
 <h4 id="五-运算符-2"> （五）运算符</h4>
 <blockquote>
 <p>1、&amp;和&amp;&amp;的区别</p>
@@ -10107,7 +9594,7 @@ num1 <span>=</span> <span>10</span>
 num2 <span>=</span> <span>20</span>
 
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br></div></div><p><img src="./assets/04.jpg" alt=""></p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br></div></div><p><img src="./assets/04.jpg" alt="" /></p>
 <p>在swap方法中，a、b的值进行交换，并不会影响到 num1、num2。因为，a、b中的值，只是从 num1、num2 的复制过来的。也就是说，a、b相当于num1、num2 的副本，副本的内容无论怎么修改，都不会影响到原件本身。</p>
 <p>通过上面例子，我们已经知道了一个方法不能修改一个基本数据类型的参数，而 <mark>对象引用作为参数就不一样</mark></p>
 <p>example2 ：</p>
@@ -10125,7 +9612,7 @@ num2 <span>=</span> <span>20</span>
 结果：
     <span>0</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p><img src="./assets/05.jpg" alt=""></p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p><img src="./assets/05.jpg" alt="" /></p>
 <ul>
 <li>
 <p>array 被初始化 arr 的拷贝也就是一个对象的引用，也就是说 array 和 arr 指向的时同一个数组对象。 因此，外部对引用对象的改变会反映到所对应的对象上。</p>
@@ -10166,9 +9653,9 @@ num2 <span>=</span> <span>20</span>
 
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br></div></div><p>交换前：</p>
-<p><img src="./assets/06.jpg" alt=""></p>
+<p><img src="./assets/06.jpg" alt="" /></p>
 <p>交换后：</p>
-<p><img src="./assets/07.jpg" alt=""></p>
+<p><img src="./assets/07.jpg" alt="" /></p>
 <p>通过上面两张图可以很清晰的看出： 方法并没有改变存储在变量 s1 和 s2 中的对象引用。swap方法的参数x和y被初始化为两个对象引用的拷贝，这个方法交换的是这两个拷贝</p>
 <p><strong>总结</strong></p>
 <ol>
@@ -10478,7 +9965,7 @@ stringBuilder<span>.</span> <span>append</span><span>(</span><span>"abcdefg"</sp
       <link>http://qiqi.dreamagain.top/program/backend/java/solution/Java%E8%BF%9B%E9%98%B6/</link>
       <guid>http://qiqi.dreamagain.top/program/backend/java/solution/Java%E8%BF%9B%E9%98%B6/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">Java进阶</source>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="问题"> 问题：</h2>
 <h3 id="一、集合-容器"> 一、集合/容器</h3>
 <h4 id="一-概述"> （一）概述</h4>
@@ -10922,7 +10409,7 @@ stringBuilder<span>.</span> <span>append</span><span>(</span><span>"abcdefg"</sp
 <li>ConcurrentHashMap</li>
 <li>Properties</li>
 </ol>
-<p><img src="./assets/08.jpg" alt=""></p>
+<p><img src="./assets/08.jpg" alt="" /></p>
 <blockquote>
 <p>6、List，Set，Map三者的区别？List、Set、Map 是否继承自 Collection 接口？List、Map、Set 三个接口存取元素时，各有什么特点？</p>
 </blockquote>
@@ -11300,10 +10787,10 @@ queue<span>.</span> <span>offer</span><span>(</span><span>"string"</span><span>)
 <p>在Java中，保存数据有两种比较简单的数据结构：数组和链表。数组的特点是：寻址容易，插入和删除困难；链表的特点是：寻址困难，但插入和删除容易；所以我们将数组和链表结合在一起，发挥两者各自的优势，使用一种叫做<strong>拉链法</strong>的方式可以解决哈希冲突。</p>
 <p><strong>（1）JDK1.8之前</strong></p>
 <p>JDK1.8之前采用的是拉链法。<strong>拉链法</strong>：将链表和数组相结合。也就是说创建一个链表数组，数组中每一格就是一个链表。若遇到哈希冲突，则将冲突的值加到链表中即可。</p>
-<p><img src="./assets/09.png" alt="jdk1.7中HashMap数据结构"></p>
+<p><img src="./assets/09.png" alt="jdk1.7中HashMap数据结构" /></p>
 <p><strong>（2）JDK1.8之后</strong></p>
 <p>相比于之前的版本，jdk1.8在解决哈希冲突时有了较大的变化，当链表长度大于阈值（默认为8）时，将链表转化为红黑树，以减少搜索时间。</p>
-<p><img src="./assets/10.png" alt="jdk1.8中HashMap数据结构"></p>
+<p><img src="./assets/10.png" alt="jdk1.8中HashMap数据结构" /></p>
 <p><strong>（3）JDK1.7 VS JDK1.8</strong></p>
 <p>JDK1.8主要解决或优化了一下问题：</p>
 <ol>
@@ -11357,7 +10844,7 @@ queue<span>.</span> <span>offer</span><span>(</span><span>"string"</span><span>)
 </blockquote>
 <p>当我们put的时候，首先计算 <code>key</code>的<code>hash</code>值，这里调用了 <code>hash</code>方法，<code>hash</code>方法实际是让<code>key.hashCode()</code>与<code>key.hashCode()&gt;&gt;&gt;16</code>进行异或操作，高16bit补0，一个数和0异或不变，所以 hash 函数大概的作用就是：<strong>高16bit不变，低16bit和高16bit做了一个异或，目的是减少碰撞</strong>。按照函数注释，因为bucket数组大小是2的幂，计算下标<code>index = (table.length - 1) &amp; hash</code>，如果不做 hash 处理，相当于散列生效的只有几个低 bit 位，为了减少散列的碰撞，设计者综合考虑了速度、作用、质量之后，使用高16bit和低16bit异或来简单处理减少碰撞，而且JDK8中用了复杂度 O（logn）的树结构来提升碰撞下的性能。</p>
 <p>putVal方法执行流程图</p>
-<p><img src="./assets/11.png" alt="putVal方法执行流程图"></p>
+<p><img src="./assets/11.png" alt="putVal方法执行流程图" /></p>
 <div><pre><code><span>public</span> <span>V</span> <span>put</span><span>(</span><span>K</span> key<span>,</span> <span>V</span> value<span>)</span> <span>{</span>
     <span>return</span> <span>putVal</span><span>(</span><span>hash</span><span>(</span>key<span>)</span><span>,</span> key<span>,</span> value<span>,</span> <span>false</span><span>,</span> <span>true</span><span>)</span><span>;</span>
 <span>}</span>
@@ -11475,8 +10962,8 @@ queue<span>.</span> <span>offer</span><span>(</span><span>"string"</span><span>)
             threshold <span>=</span> <span>Integer</span><span>.</span>MAX_VALUE<span>;</span>
             <span>return</span> oldTab<span>;</span><span>//返回</span>
         <span>}</span><span>//如果当前hash桶数组的长度在扩容后仍然小于最大容量 并且oldCap大于默认值16</span>
-        <span>else</span> <span>if</span> <span>(</span><span>(</span>newCap <span>=</span> oldCap <span>&lt;&lt;</span> <span>1</span><span>)</span> <span><span>&lt;</span> MAXIMUM_CAPACITY <span>&amp;</span><span>&amp;</span>
-                 oldCap <span>></span></span><span>=</span> DEFAULT_INITIAL_CAPACITY<span>)</span>
+        <span>else</span> <span>if</span> <span>(</span><span>(</span>newCap <span>=</span> oldCap <span>&lt;&lt;</span> <span>1</span><span>)</span> <span>&lt;</span> MAXIMUM_CAPACITY <span>&amp;&amp;</span>
+                 oldCap <span>>=</span> DEFAULT_INITIAL_CAPACITY<span>)</span>
             newThr <span>=</span> oldThr <span>&lt;&lt;</span> <span>1</span><span>;</span> <span>// double threshold 双倍扩容阀值threshold</span>
     <span>}</span>
     <span>// 旧的容量为0，但threshold大于零，代表有参构造有cap传入，threshold已经被初始化成最小2的n次幂</span>
@@ -11574,7 +11061,7 @@ queue<span>.</span> <span>offer</span><span>(</span><span>"string"</span><span>)
 <p>当两个不同的输入值，根据同一散列函数计算出相同的散列值的现象，我们就把它叫做碰撞（哈希碰撞）。</p>
 <p><strong>（3）HashMap的数据结构</strong></p>
 <p>HashMap使用一种叫做<strong>链地址法</strong>的方式可以解决哈希冲突：</p>
-<p><img src="./assets/12.png" alt="image-20210115113459601"></p>
+<p><img src="./assets/12.png" alt="image-20210115113459601" /></p>
 <p>这样我们就可以将拥有相同哈希值的对象组织成一个链表放在hash值所对应的bucket下， <strong>但相比于hashCode返回的int类型，我们HashMap初始的容量大小<code>DEFAULT_INITIAL_CAPACITY = 1 &lt;&lt; 4</code>（即2的四次方16）要远小于int类型的范围，所以我们如果只是单纯的用hashCode取余来获取对应的bucket这将会大大增加哈希碰撞的概率，并且最坏情况下还会将HashMap变成一个单链表，所以我们还需要对hashCode作一定的优化</strong></p>
 <p><strong>（4）hash()函数</strong></p>
 <p>上面提到的问题，主要是因为如果使用hashCode取余，那么相当于<strong>参与运算的只有hashCode的低位</strong>，高位是没有起到任何作用的，所以我们的思路就是让hashCode取值出的高位也参与运算，进一步降低hash碰撞的概率，使得数据分布更平均，我们把这样的操作称为<strong>扰动</strong>，在<strong>JDK 1.8</strong>中的hash()函数如下：</p>
@@ -11585,7 +11072,7 @@ queue<span>.</span> <span>offer</span><span>(</span><span>"string"</span><span>)
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这比在<strong>JDK 1.7</strong>中，更为简洁，<strong>相比在1.7中的4次位运算，5次异或运算（9次扰动），在1.8中，只进行了1次位运算和1次异或运算（2次扰动）</strong>；</p>
 <p><strong>（5）JDK1.8新增红黑树</strong></p>
-<p><img src="./assets/13.png" alt="img"></p>
+<p><img src="./assets/13.png" alt="img" /></p>
 <p>通过上面的<strong>链地址法（使用散列表）<strong>和</strong>扰动函数</strong>我们成功让我们的数据分布更平均，哈希碰撞减少，但是当我们的HashMap中存在大量数据时，加入我们某个bucket下对应的链表有n个元素，那么遍历时间复杂度就为O(n)，为了针对这个问题，JDK1.8在HashMap中新增了红黑树的数据结构，进一步使得遍历复杂度降低至O(logn)；</p>
 <p><strong>（4）总结</strong></p>
 <p>简单总结一下HashMap是使用了哪些方法来有效解决哈希冲突的：</p>
@@ -11697,11 +11184,11 @@ queue<span>.</span> <span>offer</span><span>(</span><span>"string"</span><span>)
 </ul>
 <p><strong>两者的对比图</strong>：</p>
 <p>HashTable:</p>
-<p><img src="./assets/14.png" alt="img"></p>
+<p><img src="./assets/14.png" alt="img" /></p>
 <p>JDK1.7的ConcurrentHashMap：</p>
-<p><img src="./assets/15.png" alt="img"></p>
+<p><img src="./assets/15.png" alt="img" /></p>
 <p>JDK1.8的ConcurrentHashMap（TreeBin: 红黑二叉树节点 Node: 链表节点）：</p>
-<p><img src="./assets/16.png" alt="img"></p>
+<p><img src="./assets/16.png" alt="img" /></p>
 <blockquote>
 <p>15、ConcurrentHashMap 底层具体实现知道吗？实现原理是什么？</p>
 </blockquote>
@@ -11713,7 +11200,7 @@ queue<span>.</span> <span>offer</span><span>(</span><span>"string"</span><span>)
 <li>一个 Segment 包含一个 HashEntry 数组，每个 HashEntry 是一个链表结构的元素，每个 Segment 守护着一个HashEntry数组里的元素，</li>
 <li>当对 HashEntry 数组的数据进行修改时，必须首先获得对应的 Segment的锁。</li>
 </ul>
-<p><img src="./assets/17.png" alt="img"></p>
+<p><img src="./assets/17.png" alt="img" /></p>
 <ol>
 <li>该类包含两个<strong>静态内部类</strong> HashEntry 和 Segment ；前者用来封装映射表的键值对，后者用来充当锁的角色；</li>
 <li>Segment 是一种<strong>可重入的锁</strong> ReentrantLock，每个 Segment 守护一个HashEntry 数组里的元素，当对 HashEntry 数组的数据进行修改时，必须首先获得对应的 Segment 锁。</li>
@@ -11721,7 +11208,7 @@ queue<span>.</span> <span>offer</span><span>(</span><span>"string"</span><span>)
 <p><strong>JDK1.8</strong></p>
 <p>在<strong>JDK1.8中，放弃了Segment臃肿的设计，取而代之的是采用Node + CAS + Synchronized来保证并发安全进行实现</strong>，synchronized只锁定当前链表或红黑二叉树的首节点，这样只要hash不冲突，就不会产生并发，效率又提升N倍。</p>
 <p>结构如下：</p>
-<p><img src="./assets/18.png" alt="img"></p>
+<p><img src="./assets/18.png" alt="img" /></p>
 <p><strong>附加源码，有需要的可以看看</strong></p>
 <p>插入元素过程（建议去看看源码）：</p>
 <p>如果相应位置的Node还没有初始化，则调用CAS插入相应的数据；</p>
@@ -12024,9 +11511,9 @@ Java IO流共涉及40多个类，这些类看上去很杂乱，但实际上很�
 </li>
 </ul>
 <p>按操作方式分类结构图：
-<img src="./assets/19.jpg" alt=""></p>
+<img src="./assets/19.jpg" alt="" /></p>
 <p>按操作对象分类结构图：</p>
-<p>​	<img src="./assets/20.jpg" alt=""></p>
+<p>​	<img src="./assets/20.jpg" alt="" /></p>
 <blockquote>
 <p>2、BIO,NIO,AIO 有什么区别?</p>
 </blockquote>
@@ -12140,7 +11627,7 @@ Java IO流共涉及40多个类，这些类看上去很杂乱，但实际上很�
 <p>客户端：兄弟，在吗？</p>
 <p>服务端：在的，老铁</p>
 <p>客户端：回个消息磨磨唧唧，都等你半天了</p>
-<p><img src="./assets/21.png" alt=""></p>
+<p><img src="./assets/21.png" alt="" /></p>
 <ul>
 <li><strong>第一次握手</strong>：客户端要向服务端发起连接请求，首先客户端随机生成一个起始序列号ISN(比如是100)，那客户端向服务端发送的报文段包含SYN标志位(也就是SYN=1)，序列号seq=100。</li>
 <li><strong>第二次握手</strong>：服务端收到客户端发过来的报文后，发现SYN=1，知道这是一个连接请求，于是将客户端的起始序列号100存起来，并且随机生成一个服务端的起始序列号(比如是300)。然后给客户端回复一段报文，回复报文包含SYN和ACK标志(也就是SYN=1,ACK=1)、序列号seq=300、确认号ack=101(客户端发过来的序列号+1)。</li>
@@ -12157,7 +11644,7 @@ Java IO流共涉及40多个类，这些类看上去很杂乱，但实际上很�
 <p>服务端断开连接....</p>
 <p>2MSL后</p>
 <p>客户端断开连接......</p>
-<p><img src="./assets/22.png" alt=""></p>
+<p><img src="./assets/22.png" alt="" /></p>
 <p>比如客户端初始化的序列号ISA=100，服务端初始化的序列号ISA=300。TCP连接成功后客户端总共发送了1000个字节的数据，服务端在客户端发FIN报文前总共回复了2000个字节的数据。</p>
 <ul>
 <li>
@@ -12521,7 +12008,7 @@ Java IO流共涉及40多个类，这些类看上去很杂乱，但实际上很�
       <guid>http://qiqi.dreamagain.top/program/backend/java/time/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">JavaSE-时间与日期</source>
       <category>Java</category>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="一、基本概念"> 一、基本概念</h2>
 <p>在计算机中，我们经常需要处理日期和时间。</p>
 <p>这是日期：</p>
@@ -12538,7 +12025,7 @@ Java IO流共涉及40多个类，这些类看上去很杂乱，但实际上很�
 <p>而时间有两种概念，一种是不带日期的时间，例如，12:30:59。另一种是带日期的时间，例如，2020-1-1 20:21:59，只有这种带日期的时间能唯一确定某个时刻，不带日期的时间是无法确定一个唯一时刻的。</p>
 <h3 id="一-本地时间"> （一）本地时间</h3>
 <p>当我们说当前时刻是2019年11月20日早上8:15的时候，我们说的实际上是本地时间。在国内就是北京时间。在这个时刻，如果地球上不同地方的人们同时看一眼手表，他们各自的本地时间是不同的：</p>
-<p><img src="./assets/java-05.png" alt=""></p>
+<p><img src="./assets/java-05.png" alt="" /></p>
 <p>所以，不同的时区，在同一时刻，本地时间是不同的。全球一共分为24个时区，伦敦所在的时区称为标准时区，其他时区按东／西偏移的小时区分，北京所在的时区是东八区。</p>
 <h3 id="二-时区"> （二）时区</h3>
 <p>因为光靠本地时间还无法唯一确定一个准确的时刻，所以我们还需要给本地时间加上一个时区。时区有好几种表示方式。</p>
@@ -12547,11 +12034,11 @@ Java IO流共涉及40多个类，这些类看上去很杂乱，但实际上很�
 <p>另一种是缩写，例如，<code>CST</code>表示<code>China Standard Time</code>，也就是中国标准时间。但是<code>CST</code>也可以表示美国中部时间<code>Central Standard Time USA</code>，因此，缩写容易产生混淆，我们尽量不要使用缩写。</p>
 <p>最后一种是以洲／城市表示，例如，<code>Asia/Shanghai</code>，表示上海所在地的时区。特别注意城市名称不是任意的城市，而是由国际标准组织规定的城市。</p>
 <p>因为时区的存在，东八区的2019年11月20日早上8:15，和西五区的2019年11月19日晚上19:15，他们的时刻是相同的：</p>
-<p><img src="./assets/java-06.png" alt=""></p>
+<p><img src="./assets/java-06.png" alt="" /></p>
 <p>时刻相同的意思就是，分别在两个时区的两个人，如果在这一刻通电话，他们各自报出自己手表上的时间，虽然本地时间是不同的，但是这两个时间表示的时刻是相同的。</p>
 <h3 id="三-夏令时"> （三）夏令时</h3>
 <p>时区还不是最复杂的，更复杂的是夏令时。所谓夏令时，就是夏天开始的时候，把时间往后拨1小时，夏天结束的时候，再把时间往前拨1小时。我们国家实行过一段时间夏令时，1992年就废除了，但是矫情的美国人到现在还在使用，所以时间换算更加复杂。</p>
-<p><img src="./assets/java-07.png" alt=""></p>
+<p><img src="./assets/java-07.png" alt="" /></p>
 <p>因为涉及到夏令时，相同的时区，如果表示的方式不同，转换出的时间是不同的。我们举个栗子：</p>
 <p>对于2019-11-20和2019-6-20两个日期来说，假设北京人在纽约：</p>
 <ul>
@@ -12671,7 +12158,7 @@ Java IO流共涉及40多个类，这些类看上去很杂乱，但实际上很�
            = 伦敦时间2019-11-20 0:15:00
            = 纽约时间2019-11-19 19:15:00
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p><img src="./assets/java-08.png" alt=""></p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p><img src="./assets/java-08.png" alt="" /></p>
 <p>因此，在计算机中，只需要存储一个整数<code>1574208900</code>表示某一时刻。当需要显示为某一地区的当地时间时，我们就把它格式化为一个字符串：</p>
 <div><pre><code>String displayDateTime(int n, String timezone) { ... }
 </code></pre>
@@ -12768,7 +12255,7 @@ Java IO流共涉及40多个类，这些类看上去很杂乱，但实际上很�
 <li><code>MMM</code>：输出<code>Sep</code></li>
 <li><code>MMMM</code>：输出<code>September</code></li>
 </ul>
-<div><p>注意</p>
+<div><p>Note</p>
 <p><code>Date</code>对象有几个严重的问题：</p>
 <ul>
 <li>它不能转换时区，除了<code>toGMTString()</code>可以按<code>GMT+0:00</code>输出外，Date总是以当前计算机系统的默认时区为基础进行输出。</li>
@@ -12828,7 +12315,7 @@ Java IO流共涉及40多个类，这些类看上去很杂乱，但实际上很�
     <span>}</span>
 <span>}</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br></div></div><div><p>提示</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br></div></div><div><p>Tips</p>
 <p>利用<code>Calendar.getTime()</code>可以将一个<code>Calendar</code>对象转换成<code>Date</code>对象，然后就可以用<code>SimpleDateFormat</code>进行格式化了。</p>
 </div>
 <br/>
@@ -13033,7 +12520,7 @@ Java IO流共涉及40多个类，这些类看上去很杂乱，但实际上很�
     <span>}</span>
 <span>}</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><div><p>提示</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><div><p>Tips</p>
 <p>注意到<code>LocalDateTime</code>无法与时间戳进行转换，因为<code>LocalDateTime</code>没有时区，无法确定某一时刻。</p>
 <p>后面要介绍的<code>ZonedDateTime</code>相当于<code>LocalDateTime</code>加时区的组合，它具有时区，可以与<code>long</code>表示的时间戳进行转换。</p>
 </div>
@@ -13413,10 +12900,10 @@ calendar.setTimeInMillis(zdt.toEpochSecond() * 1000);
       <guid>http://qiqi.dreamagain.top/program/backend/language/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">编程语言</source>
       <category>编程语言</category>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="一、如何快速入门"> 一、如何快速入门</h2>
 <p>一门编程语言的入门学习最好参考网上优质网站教程、视频教程和参考书籍，尤其对于有编程基础的人而言，通过网站教程和参考书是最快的入门方式，虽然没有视频教程来得直观，但是学完后印象会比较深刻。</p>
-<div><p>提示</p>
+<div><p>Tips</p>
 <p>学习一门语言的基本顺序是:</p>
 <ul>
 <li>了解数据结构</li>
@@ -13463,12 +12950,12 @@ calendar.setTimeInMillis(zdt.toEpochSecond() * 1000);
       <guid>http://qiqi.dreamagain.top/program/backend/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">后端指南</source>
       <description>&amp;lt;blockquote&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E5%90%8E%E7%AB%AF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt;   &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E5%90%8E%E7%AB%AF-%E6%A1%86%E6%9E%B6-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/后端-编程语言-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt;   &amp;lt;img src=&amp;quot;https://img.shields.io/badge/后端-框架-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/blockquote&amp;gt;
 </description>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p><img src="https://img.shields.io/badge/%E5%90%8E%E7%AB%AF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-blue.svg" alt="img">   <img src="https://img.shields.io/badge/%E5%90%8E%E7%AB%AF-%E6%A1%86%E6%9E%B6-blue.svg" alt="img"></p>
+<p><img src="https://img.shields.io/badge/后端-编程语言-blue.svg" alt="img" />   <img src="https://img.shields.io/badge/后端-框架-blue.svg" alt="img" /></p>
 </blockquote>
 
 <h2 id="编程语言"> 编程语言</h2>
@@ -13514,7 +13001,7 @@ calendar.setTimeInMillis(zdt.toEpochSecond() * 1000);
 <ul>
 <li><a href="./../language/js/es6/">ES6 教程</a></li>
 </ul>
-<div><p>提示</p>
+<div><p>Tips</p>
 <p>此教程由阮一峰老师书写(<strong>真·大佬</strong>)，建议深刻理解 JavaScript 原理(大概一年左右)之后再看。</p>
 </div>
 <blockquote>
@@ -13528,13 +13015,13 @@ calendar.setTimeInMillis(zdt.toEpochSecond() * 1000);
       <guid>http://qiqi.dreamagain.top/program/frontend/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">前端指南</source>
       <description>&amp;lt;blockquote&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E5%89%8D%E7%AB%AF-HTML-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E5%89%8D%E7%AB%AF-CSSL-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E5%89%8D%E7%AB%AF-JavaScript-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E5%89%8D%E7%AB%AF-jQuery-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt;  &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-Vue-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-React-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-Angular-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/前端-HTML-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/前端-CSSL-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/前端-JavaScript-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/前端-jQuery-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt;  &amp;lt;img src=&amp;quot;https://img.shields.io/badge/框架-Vue-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/框架-React-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/框架-Angular-blue.svg&amp;quot; alt=&amp;quot;img&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/blockquote&amp;gt;
 </description>
       <category>前端</category>
       <pubDate>Sun, 01 Sep 2019 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p><img src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF-HTML-blue.svg" alt="img"> <img src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF-CSSL-blue.svg" alt="img"> <img src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF-JavaScript-blue.svg" alt="img"> <img src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF-jQuery-blue.svg" alt="img">  <img src="https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-Vue-blue.svg" alt="img"> <img src="https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-React-blue.svg" alt="img"> <img src="https://img.shields.io/badge/%E6%A1%86%E6%9E%B6-Angular-blue.svg" alt="img"></p>
+<p><img src="https://img.shields.io/badge/前端-HTML-blue.svg" alt="img" /> <img src="https://img.shields.io/badge/前端-CSSL-blue.svg" alt="img" /> <img src="https://img.shields.io/badge/前端-JavaScript-blue.svg" alt="img" /> <img src="https://img.shields.io/badge/前端-jQuery-blue.svg" alt="img" />  <img src="https://img.shields.io/badge/框架-Vue-blue.svg" alt="img" /> <img src="https://img.shields.io/badge/框架-React-blue.svg" alt="img" /> <img src="https://img.shields.io/badge/框架-Angular-blue.svg" alt="img" /></p>
 </blockquote>
 
 <p>编写前端网页需要掌握三件套: <strong>HTML</strong>、<strong>CSS</strong> 和 <strong>JavaScript</strong>。</p>
@@ -13543,7 +13030,7 @@ calendar.setTimeInMillis(zdt.toEpochSecond() * 1000);
 <li>CSS 描述了网页的样式</li>
 <li>JavaScript 编写网页的行为</li>
 </ol>
-<div><p>提示</p>
+<div><p>Tips</p>
 <p>一个大型的网站，很少是直接使用原生代码写的。</p>
 <p>最新的网站大多数都是用三大框架(、、)搭建，并引入 npm 上的 UI 库编写而成。</p>
 <p>稍微老的网站会使用其他框架作为辅助，比如、等。</p>
@@ -13643,13 +13130,13 @@ calendar.setTimeInMillis(zdt.toEpochSecond() * 1000);
       <guid>http://qiqi.dreamagain.top/program/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">编程开发</source>
       <description>&amp;lt;blockquote&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt;  &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E5%AE%89%E5%8D%93%E5%BC%80%E5%8F%91-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/计算机基础-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/编程语言-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/前端开发-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;  &amp;lt;img src=&amp;quot;https://img.shields.io/badge/后端开发-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/安卓开发-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/小程序开发-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/学习网站-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/blockquote&amp;gt;
 </description>
       <category>编程开发</category>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p><img src="https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80-blue.svg" alt=""> <img src="https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-blue.svg" alt=""> <img src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91-blue.svg" alt="">  <img src="https://img.shields.io/badge/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91-blue.svg" alt=""> <img src="https://img.shields.io/badge/%E5%AE%89%E5%8D%93%E5%BC%80%E5%8F%91-blue.svg" alt=""> <img src="https://img.shields.io/badge/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91-blue.svg" alt=""> <img src="https://img.shields.io/badge/%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99-blue.svg" alt=""></p>
+<p><img src="https://img.shields.io/badge/计算机基础-blue.svg" alt="" /> <img src="https://img.shields.io/badge/编程语言-blue.svg" alt="" /> <img src="https://img.shields.io/badge/前端开发-blue.svg" alt="" />  <img src="https://img.shields.io/badge/后端开发-blue.svg" alt="" /> <img src="https://img.shields.io/badge/安卓开发-blue.svg" alt="" /> <img src="https://img.shields.io/badge/小程序开发-blue.svg" alt="" /> <img src="https://img.shields.io/badge/学习网站-blue.svg" alt="" /></p>
 </blockquote>
  
 <h2 id="目录"> 目录</h2>
@@ -13672,7 +13159,7 @@ calendar.setTimeInMillis(zdt.toEpochSecond() * 1000);
 </li>
 <li>
 <p><a href="https://developer.mozilla.org/zh-CN/" target="_blank" rel="noopener noreferrer">MDN</a></p>
-<div><p>相关信息</p>
+<div><p>Info</p>
 <p>MDN 的中文文档翻译很差，大多都是机翻，十分建议直接阅读英文文档。</p>
 </div>
 </li>
@@ -13693,20 +13180,65 @@ calendar.setTimeInMillis(zdt.toEpochSecond() * 1000);
       <enclosure url="https://img.shields.io/badge/计算机基础-blue.svg" type="image/svg+xml"/>
     </item>
     <item>
-      <title>七七部落 | 主页</title>
+      <title>Tomcat架构</title>
+      <link>http://qiqi.dreamagain.top/reading/Tomcat%E6%9E%B6%E6%9E%84/</link>
+      <guid>http://qiqi.dreamagain.top/reading/Tomcat%E6%9E%B6%E6%9E%84/</guid>
+      <source url="http://qiqi.dreamagain.top/rss.xml">Tomcat架构</source>
+      <category>阅读</category>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>美好的事物往往是整洁而优雅的，但这并不等于简单</p>
+</blockquote>
+<h2 id="一、为什么要学习tomcat-架构设计"> 一、为什么要学习Tomcat 架构设计</h2>
+<p><strong>宏观上看</strong></p>
+<p>Tomcat 作为一个 「<code>Http</code> 服务器 + <code>Servlet</code> 容器」，对我们屏蔽了应用层协议和网络通信细节，给我们的是标准的 <code>Request</code> 和 <code>Response</code> 对象；对于具体的业务逻辑则作为变化点，交给我们来实现。我们使用了<code>SpringMVC</code> 之类的框架，可是却从来不需要考虑 <code>TCP</code> 连接、 <code>Http</code> 协议的数据处理与响应。就是因为 Tomcat 已经为我们做好了这些，我们只需要关注每个请求的具体业务逻辑。</p>
+<p><strong>微观上看</strong></p>
+<p><code>Tomcat</code> 内部也隔离了变化点与不变点，使用了组件化设计，目的就是为了实现「<strong><code>俄罗斯套娃式</code></strong>」的高度定制化（组合模式），而每个组件的生命周期管理又有一些共性的东西，则被提取出来成为接口和抽象类，让具体子类实现变化点，也就是<strong>模板方法设计模式</strong>。</p>
+<p>当今流行的微服务也是这个思路，按照功能将单体应用拆成「<strong><code>微服务</code></strong>」，拆分过程要将共性提取出来，而这些共性就会成为核心的基础服务或者通用库。「<strong><code>中台</code></strong>」思想亦是如此。</p>
+<blockquote>
+<p>设计模式往往就是封装变化的一把利器，合理的运用设计模式能让我们的代码与系统设计变得优雅且整洁。</p>
+</blockquote>
+<p>这就是学习<strong>优秀开源软件</strong>能获得的「内功」，从不会过时，其中的设计思想与哲学才是根本之道。从中借鉴设计经验，合理运用设计模式封装变与不变，更能从它们的源码中汲取经验，提升自己的系统设计能力。</p>
+<p>学习 Tomcat 的原理，我发现 <code>Servlet</code> 技术是 Web 开发的原点，几乎所有的 Java Web 框架（比如 Spring）都是基于 <code>Servlet</code> 的封装，Spring 应用本身就是一个 <code>Servlet</code>（DispatchSevlet），而 Tomcat 和 Jetty 这样的 Web 容器，负责加载和运行 <code>Servlet</code>。如图所示：</p>
+<p>学习 Tomcat ，我还发现用到不少 Java 高级技术，比如 Java 多线程并发编程、Socket 网络编程以及反射等</p>
+<p>还有就是系统设计能力，比如面向接口编程、组件化组合模式、骨架抽象类、一键式启停、对象池技术以及各种设计模式，比如模板方法、观察者模式、责任链模式等，之后我也开始模仿它们并把这些设计思想运用到实际的工作中。</p>
+<h2 id="三、tomcat整体架构设计"> 三、Tomcat整体架构设计</h2>
+<p>Tomcat 启动流程：</p>
+<blockquote>
+<p><code>startup.sh -&gt; catalina.sh start -&gt;java -jar org.apache.catalina.startup.Bootstrap.main()</code></p>
+</blockquote>
+<p>Tomcat 实现的 2 个核心功能：</p>
+<ul>
+<li>处理 <code>Socket</code> 连接，负责网络字节流与 <code>Request</code> 和 <code>Response</code> 对象的转化。</li>
+<li>加载并管理 <code>Servlet</code> ，以及处理具体的 <code>Request</code> 请求。</li>
+</ul>
+<p><strong>所以 Tomcat 设计了两个核心组件连接器（Connector）和容器（Container）。连接器负责对外交流，容器负责内部 处理</strong></p>
+<p><code>Tomcat</code>为了实现支持多种 <code>I/O</code> 模型和应用层协议，一个容器可能对接多个连接器，就好比一个房间有多个门。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>阅览室</title>
+      <link>http://qiqi.dreamagain.top/reading/</link>
+      <guid>http://qiqi.dreamagain.top/reading/</guid>
+      <source url="http://qiqi.dreamagain.top/rss.xml">阅览室</source>
+      <category>电子书</category>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>柒柒博客 | 主页</title>
       <link>http://qiqi.dreamagain.top/</link>
       <guid>http://qiqi.dreamagain.top/</guid>
-      <source url="http://qiqi.dreamagain.top/rss.xml">七七部落 | 主页</source>
-      <pubDate>Tue, 16 Feb 2021 17:39:43 GMT</pubDate>
+      <source url="http://qiqi.dreamagain.top/rss.xml">柒柒博客 | 主页</source>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
     </item>
     <item>
       <title>非关系型数据库</title>
       <link>http://qiqi.dreamagain.top/software/database/NoSQL/</link>
       <guid>http://qiqi.dreamagain.top/software/database/NoSQL/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">非关系型数据库</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="一、redis"> 一、Redis</h2>
-<p><img src="./assets/image-20210316153254142.png" alt="image-20210316153254142"></p>
+<p><img src="./assets/image-20210316153254142.png" alt="image-20210316153254142" /></p>
 <h3 id="一-redis是什么"> （一）redis是什么?</h3>
 <ul>
 <li>
@@ -13762,7 +13294,7 @@ calendar.setTimeInMillis(zdt.toEpochSecond() * 1000);
       <guid>http://qiqi.dreamagain.top/software/database/NoSQL/Redis/redis-advance/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">Redis 进阶</source>
       <category>数据库</category>
-      <pubDate>Wed, 31 Mar 2021 05:51:25 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="redis-数据备份与恢复"> Redis 数据备份与恢复</h2>
 <h3 id="一-数据备份"> （一）数据备份</h3>
 <p>Redis <strong>SAVE</strong> 命令用于创建当前数据库的备份。</p>
@@ -14180,7 +13712,7 @@ with pipelining 0.250783 seconds
       <guid>http://qiqi.dreamagain.top/software/database/NoSQL/Redis/redis-base/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">Redis 基础</source>
       <category>数据库</category>
-      <pubDate>Wed, 31 Mar 2021 05:51:25 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="一、redis-简介"> 一、Redis 简介</h2>
 <h3 id="一-redis-简介"> （一）Redis 简介</h3>
 <p>Redis 是完全开源免费的，遵守BSD协议，是一个高性能的key-value数据库。</p>
@@ -14600,7 +14132,7 @@ OK
       <guid>http://qiqi.dreamagain.top/software/database/NoSQL/Redis/redis-cmd/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">Redis 命令</source>
       <category>数据库</category>
-      <pubDate>Wed, 31 Mar 2021 05:51:25 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="一、redis-命令"> 一、Redis 命令</h2>
 <p>Redis 命令用于在 redis 服务上执行操作。</p>
 <p>要在 redis 服务上执行命令需要一个 redis 客户端。Redis 客户端在我们之前下载的的 redis 的安装包中。</p>
@@ -15266,9 +14798,9 @@ OK
 <p>Redis 发布订阅(pub/sub)是一种消息通信模式：发送者(pub)发送消息，订阅者(sub)接收消息。</p>
 <p>Redis 客户端可以订阅任意数量的频道。</p>
 <p>下图展示了频道 channel1 ， 以及订阅这个频道的三个客户端 —— client2 、 client5 和 client1 之间的关系：</p>
-<p><img src="./assets/subscribe.png" alt=""></p>
+<p><img src="./assets/subscribe.png" alt="" /></p>
 <p>当有新消息通过 PUBLISH 命令发送给频道 channel1 时， 这个消息就会被发送给订阅它的三个客户端：</p>
-<p><img src="./assets/publish.png" alt="publish"></p>
+<p><img src="./assets/publish.png" alt="publish" /></p>
 <p><strong>实例</strong></p>
 <p>以下实例演示了发布订阅是如何工作的。在我们实例中我们创建了订阅频道名为 <strong>redisChat</strong>:</p>
 <div><pre><code><span>127.0</span>.0.1:637<span><span>9</span>></span> SUBSCRIBE redisChat
@@ -15725,13 +15257,13 @@ db3:keys<span>=</span><span>1</span>,expires<span>=</span><span>0</span>,avg_ttl
       <guid>http://qiqi.dreamagain.top/software/database/SQL/MySQL/MySQL-DDL/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">MySQL-DDL</source>
       <description>&amp;lt;blockquote&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/DDL-Data_Definition_Language-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/DDL-Data_Definition_Language-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/blockquote&amp;gt;
 </description>
       <category>数据库</category>
-      <pubDate>Wed, 31 Mar 2021 05:51:25 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p><img src="https://img.shields.io/badge/DDL-Data_Definition_Language-blue.svg" alt=""></p>
+<p><img src="https://img.shields.io/badge/DDL-Data_Definition_Language-blue.svg" alt="" /></p>
 </blockquote>
 
 <h2 style="color:#ab4642" align="center">DDL语言</h2>
@@ -16348,13 +15880,13 @@ alter table 表 modify column 字段名 字段类型 约束;
       <guid>http://qiqi.dreamagain.top/software/database/SQL/MySQL/MySQL-DML/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">MySQL-DML</source>
       <description>&amp;lt;blockquote&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/DML-Data_Manipulation_Language-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/DML-Data_Manipulation_Language-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/blockquote&amp;gt;
 </description>
       <category>数据库</category>
-      <pubDate>Wed, 31 Mar 2021 05:51:25 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p><img src="https://img.shields.io/badge/DML-Data_Manipulation_Language-blue.svg" alt=""></p>
+<p><img src="https://img.shields.io/badge/DML-Data_Manipulation_Language-blue.svg" alt="" /></p>
 </blockquote>
 
 <h2 style="color:#ab4642" align="center">DML语言</h2>
@@ -16552,13 +16084,13 @@ sql99语法：
       <guid>http://qiqi.dreamagain.top/software/database/SQL/MySQL/MySQL-DQL/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">MySQL-DQL</source>
       <description>&amp;lt;blockquote&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/DQL-Data_Query_Language-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/DQL-Data_Query_Language-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/blockquote&amp;gt;
 </description>
       <category>数据库</category>
-      <pubDate>Wed, 31 Mar 2021 05:51:25 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p><img src="https://img.shields.io/badge/DQL-Data_Query_Language-blue.svg" alt=""></p>
+<p><img src="https://img.shields.io/badge/DQL-Data_Query_Language-blue.svg" alt="" /></p>
 </blockquote>
 
 <h2 style="color:#ab4642" align="center">DQL语言</h2>
@@ -17182,7 +16714,7 @@ InnoDB存储引擎，count(*)和count(1)效率>count(字段)
 </tr>
 </tbody>
 </table>
-<div><p>提示</p>
+<div><p>Tips</p>
 <p>如果就是要统计NULL行，可以利用<code>if</code>求和解决：<code>sum(if(column is null, 1, 0))</code></p>
 <p>效率上：</p>
 <ul>
@@ -18163,13 +17695,13 @@ page
       <guid>http://qiqi.dreamagain.top/software/database/SQL/MySQL/MySQL-TCL/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">MySQL-TCL</source>
       <description>&amp;lt;blockquote&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/TCL-Transaction_Control_Language-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/TCL-Transaction_Control_Language-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/blockquote&amp;gt;
 </description>
       <category>数据库</category>
-      <pubDate>Wed, 31 Mar 2021 05:51:25 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p><img src="https://img.shields.io/badge/TCL-Transaction_Control_Language-blue.svg" alt=""></p>
+<p><img src="https://img.shields.io/badge/TCL-Transaction_Control_Language-blue.svg" alt="" /></p>
 </blockquote>
 
 <h2 style="color:#ab4642" align="center">TCL语言</h2>
@@ -18329,13 +17861,13 @@ SELECT * FROM account;
       <guid>http://qiqi.dreamagain.top/software/database/SQL/MySQL/MySQL-index/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">MySQL-Index</source>
       <description>&amp;lt;blockquote&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/MySQL-%E7%B4%A2%E5%BC%95-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/MySQL-索引-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/blockquote&amp;gt;
 </description>
       <category>数据库</category>
-      <pubDate>Wed, 31 Mar 2021 05:51:25 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p><img src="https://img.shields.io/badge/MySQL-%E7%B4%A2%E5%BC%95-blue.svg" alt=""></p>
+<p><img src="https://img.shields.io/badge/MySQL-索引-blue.svg" alt="" /></p>
 </blockquote>
 
 <h2 id="一、mysql索引实现"> 一、MySQL索引实现</h2>
@@ -18378,7 +17910,7 @@ SELECT * FROM account;
 <p>表数据存储在独立的地方，这两颗B+树的叶子节点都使用一个地址指向真正的表数据，对于表数据来说，这两个键没有任何差别。</p>
 <p>由于索引树是独立的，通过辅助键检索无需访问主键的索引树。</p>
 <p>下图更形象说明这两种索引的区别，这边假设了一个存储4行数据的表。Id为主键索引，Name作为辅助索引，图中清晰的体现了聚簇索引和非聚簇索引的差异。</p>
-<p><img src="assets/6f5c3f7b8d8eddd178d89842ceff1f7b.jpg" alt="6f5c3f7b8d8eddd178d89842ceff1f7b"></p>
+<p><img src="./assets/6f5c3f7b8d8eddd178d89842ceff1f7b.jpg" alt="6f5c3f7b8d8eddd178d89842ceff1f7b" /></p>
 <p>我们来分析一下图中数据检索过程：</p>
 <h3 id="三-innodb数据检索过程"> （三）InnoDB数据检索过程</h3>
 <p>上面的表中有2个索引：id作为主键索引，name作为辅助索引。</p>
@@ -18462,7 +17994,7 @@ SELECT * FROM account;
  <span>3</span> <span>rows</span> <span>in</span> <span>set</span>
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></div></div><p>我们在没有做索引的字段上做一下查询看看，在500W数据中查询一个名叫LsHfFJA的员工，消耗 2.239S</p>
-<p><img src="assets/3557625c81d7d637a3cd26b85751f6db.png" alt="MySQL全面剖析：MySQL索引实现和使用"></p>
+<p><img src="./assets/3557625c81d7d637a3cd26b85751f6db.png" alt="MySQL全面剖析：MySQL索引实现和使用" /></p>
 <p>再看看他的执行过程，扫描了4952492 条数据才找到该行数据：</p>
 <div><pre><code>mysql<span>></span> <span>explain</span> <span>select</span> <span>*</span> <span>from</span> emp <span>where</span> empname<span>=</span><span>'LsHfFJA'</span><span>;</span>
 <span>+</span><span>----+-------------+-------+------+---------------+------+---------+------+---------+-------------+</span>
@@ -18489,7 +18021,7 @@ mysql<span>></span> <span>show</span> <span>index</span> <span>from</span> emp<s
 <span>4</span> <span>rows</span> <span>in</span> <span>set</span> 
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div><p>再看一下这个执行效率，就会发现有质的飞跃：0.001S，就是这么神奇，学过之前那篇的B+ Tree就知道，它不用从头开始扫表核对，而是很少次数的io读取</p>
-<p><img src="assets/78a1065b5f021542fcf1e0f5191e4dcd.png" alt="MySQL全面剖析：MySQL索引实现和使用"></p>
+<p><img src="./assets/78a1065b5f021542fcf1e0f5191e4dcd.png" alt="MySQL全面剖析：MySQL索引实现和使用" /></p>
 <p>再看看他的执行过程，一次定位到该条数据：</p>
 <div><pre><code>mysql<span>></span> <span>explain</span> <span>select</span> <span>*</span> <span>from</span> emp <span>where</span> empname<span>=</span><span>'LsHfFJA'</span><span>;</span>
 <span>+</span><span>----+-------------+-------+------+-----------------+-----------------+---------+-------+------+-----------------------+</span>
@@ -18551,13 +18083,13 @@ mysql<span>></span> <span>select</span> <span>count</span><span>(</span><span>di
       <guid>http://qiqi.dreamagain.top/software/database/SQL/MySQL/MySQL-intro/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">MySQL-intro</source>
       <description>&amp;lt;blockquote&amp;gt;
-&amp;lt;p&amp;gt;​	&amp;lt;img src=&amp;quot;https://img.shields.io/badge/MySQL-%E7%AE%80%E4%BB%8B-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;​	&amp;lt;img src=&amp;quot;https://img.shields.io/badge/MySQL-简介-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/blockquote&amp;gt;
 </description>
       <category>数据库</category>
-      <pubDate>Wed, 31 Mar 2021 05:51:25 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p>​	<img src="https://img.shields.io/badge/MySQL-%E7%AE%80%E4%BB%8B-blue.svg" alt=""></p>
+<p>​	<img src="https://img.shields.io/badge/MySQL-简介-blue.svg" alt="" /></p>
 </blockquote>
 
 <h2 id="一、概述"> 一、概述</h2>
@@ -18583,7 +18115,7 @@ mysql<span>></span> <span>select</span> <span>count</span><span>(</span><span>di
 </li>
 <li>DBA、DBS、DBMS、SQL、DB之间的关系</li>
 </ul>
-<p><img src="https://gitee.com/small-universe/blog_data/raw/images/%20database/MySQL/%E5%85%B3%E7%B3%BB.jpg" alt="关系"></p>
+<p><img src="https://gitee.com/small-universe/blog_data/raw/images/ database/MySQL/关系.jpg" alt="关系" /></p>
 <h3 id="三-数据库存储数据的特点"> （三）数据库存储数据的特点</h3>
 <ul>
 <li>1、将数据放到表中，表再放到库中</li>
@@ -18761,7 +18293,7 @@ alter user &#39;root&#39;@&#39;localhost&#39; identified by &#39;xzx123456&#39;;
 </li>
 </ul>
 <h2 id="二、sql语言的分类"> 二、SQL语言的分类</h2>
-<div><p>相关信息</p>
+<div><p>Info</p>
 <p>对于这个，网上有三种、四种、五种、六种很多，但综合来说，是5种！！</p>
 <p>因为大部分用到的是DQL和DML，偶尔会用到DDL，一般的开发人员很少会用到DCL</p>
 </div>
@@ -18781,13 +18313,13 @@ alter user &#39;root&#39;@&#39;localhost&#39; identified by &#39;xzx123456&#39;;
       <guid>http://qiqi.dreamagain.top/software/database/SQL/MySQL/MySQL-other/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">MySQL-other</source>
       <description>&amp;lt;blockquote&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/MySQL%E5%9F%BA%E7%A1%80-%E5%85%B6%E4%BB%96-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/MySQL基础-其他-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/blockquote&amp;gt;
 </description>
       <category>数据库</category>
-      <pubDate>Wed, 31 Mar 2021 05:51:25 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p><img src="https://img.shields.io/badge/MySQL%E5%9F%BA%E7%A1%80-%E5%85%B6%E4%BB%96-blue.svg" alt=""></p>
+<p><img src="https://img.shields.io/badge/MySQL基础-其他-blue.svg" alt="" /></p>
 </blockquote>
 
 <h2 style="color:#ab4642" align="center">MySQL基础-其他</h2>
@@ -19605,7 +19137,7 @@ until 结束条件
 <p><strong>循环控制语句</strong></p>
 <p><mark>leave</mark>：类似于break，用于跳出所在的循环</p>
 <p><mark>iterate</mark>：类似于continue，用于结束本次循环，继续下一次</p>
-<div><p>注意</p>
+<div><p>Note</p>
 <p>循环中添加了循环控制语句（leave或iterate）则必须添加名称</p>
 </div>
 </li>
@@ -19697,7 +19229,7 @@ while(i&lt;=insertCount){
       <link>http://qiqi.dreamagain.top/software/database/SQL/</link>
       <guid>http://qiqi.dreamagain.top/software/database/SQL/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">常用关系型数据库</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="常用关系型数据库"> 常用关系型数据库</h1>
 <h2 id="一、mysql"> 一、MySQL</h2>
 <h2 id="二、oracle"> 二、Oracle</h2>
@@ -19710,7 +19242,7 @@ while(i&lt;=insertCount){
       <link>http://qiqi.dreamagain.top/software/database/</link>
       <guid>http://qiqi.dreamagain.top/software/database/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">数据库</source>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="数据库"> 数据库</h1>
 <h2 id="一、关系型数据库与非关系型数据库的区别"> 一、关系型数据库与非关系型数据库的区别</h2>
 <h2 id="二、关系型数据库"> 二、关系型数据库</h2>
@@ -19722,11 +19254,11 @@ while(i&lt;=insertCount){
       <link>http://qiqi.dreamagain.top/software/nvm/</link>
       <guid>http://qiqi.dreamagain.top/software/nvm/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">windows下安装多版本Node</source>
-      <description>&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/nvm-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt;  &amp;lt;img src=&amp;quot;https://img.shields.io/badge/Node.js-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt; ![](https://img.shields.io/badge/npm -blue.svg)  &amp;lt;img src=&amp;quot;https://img.shields.io/badge/yarn-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+      <description>&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/nvm-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;  &amp;lt;img src=&amp;quot;https://img.shields.io/badge/Node.js-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt; ![](https://img.shields.io/badge/npm -blue.svg)  &amp;lt;img src=&amp;quot;https://img.shields.io/badge/yarn-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 </description>
       <category>软件使用</category>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p><img src="https://img.shields.io/badge/nvm-blue.svg" alt="">  <img src="https://img.shields.io/badge/Node.js-blue.svg" alt=""> ![](https://img.shields.io/badge/npm -blue.svg)  <img src="https://img.shields.io/badge/yarn-blue.svg" alt=""></p>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://img.shields.io/badge/nvm-blue.svg" alt="" />  <img src="https://img.shields.io/badge/Node.js-blue.svg" alt="" /> ![](https://img.shields.io/badge/npm -blue.svg)  <img src="https://img.shields.io/badge/yarn-blue.svg" alt="" /></p>
 
 <p>对于Node.js的爱好者来说，必然希望能够在同一台机器上安装多个版本的Node.js(至少两个：稳定版和最新版)。稳定版用来在实际生产项目中使用，最新版本用来研究Node.js的新特性、踩坑。</p>
 <p>以下将介绍在windows系统中如何通过nvm进行node多版本管理以及一些常用命令</p>
@@ -19746,7 +19278,7 @@ while(i&lt;=insertCount){
 </div>
 <h3 id="一-安装包下载"> （一）安装包下载</h3>
 <p>可以看到nvm已经很久没有更新了，目前最新版本也是2018年发布的，这也是长期支持的版本，可以选择安装版<code>nvm-setup.zip</code>和免安装版<code>nvm-noinstall.zip</code>，这里我选择的是<code>nvm-setup.zip</code></p>
-<p><img src="./assets/nvm01.png" alt=""></p>
+<p><img src="./assets/nvm01.png" alt="" /></p>
 <h3 id="二-安装环境"> （二）安装环境</h3>
 <p>Win10系统，64位</p>
 <h3 id="三-安装"> （三）安装</h3>
@@ -19796,7 +19328,7 @@ while(i&lt;=insertCount){
 <div><span>1</span><br></div></div><p>以下也只是给我们列出部分较新的版本，根据环境需要找合适的版本安装。</p>
 <p>比较贴心的告诉我们，要查看完整的系列版本访问 ：https://Node.js.org/download/release</p>
 <p><code>LTS</code> 指最新稳定版本，<code>CURRENT</code> 指最新版本，一般安装 <code>LTS</code></p>
-<p><img src="./assets/nvm05.png" alt=""></p>
+<p><img src="./assets/nvm05.png" alt="" /></p>
 <p><strong>2、安装指定版本的 Node.js</strong></p>
 <div><pre><code>nvm <span>install</span> <span>10.16</span>.3
 </code></pre>
@@ -19809,7 +19341,7 @@ while(i&lt;=insertCount){
 </code></pre>
 <div><span>1</span><br></div></div><p>版本查看：</p>
 <img src="./assets/nvm07.png" style="zoom:120%;" />
-<div><p>提示</p>
+<div><p>Tips</p>
 <p>通过以上步骤安装的Node.js和单独安装Node.js没有太大的区别，所以可以和单独安装的Node.js一样放心的使用npm进行cordova、ionic、vue等等的安装</p>
 <p>npm是Node.js自带的包管理工具，类似于Java开发中经常使用的maven</p>
 </div>
@@ -19995,7 +19527,7 @@ while(i&lt;=insertCount){
       <guid>http://qiqi.dreamagain.top/software/tool/online/common/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">常用工具</source>
       <category>在线工具</category>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="一、搜索类在线工具"> 一、搜索类在线工具</h2>
 <ol>
 <li><a href="https://searchcode.com/" target="_blank" rel="noopener noreferrer">SearchCode</a> 是一个源码搜索引擎，目前支持从 Github、Bitbucket、Google Code、CodePlex、SourceForge 和 Fedora Project 平台搜索公开的源码。</li>
@@ -20074,9 +19606,9 @@ while(i&lt;=insertCount){
       <guid>http://qiqi.dreamagain.top/software/tool/online/website/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">在线工具网站整理</source>
       <category>在线工具</category>
-      <pubDate>Thu, 18 Feb 2021 01:11:00 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p><img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7-blue.svg" alt=""> <img src="https://img.shields.io/badge/%E6%95%B4%E7%90%86%E7%AF%87-blue.svg" alt=""></p>
+<p><img src="https://img.shields.io/badge/在线工具-blue.svg" alt="" /> <img src="https://img.shields.io/badge/整理篇-blue.svg" alt="" /></p>
 </blockquote>
 
 <p>在学习一些技术的时候不免要安装一些必要的软件，值得高兴的是有很多网站提供了在线工具，有一些工具还是比较实用的，比如在线编译工具。我们可以打开浏览器直接在网页上运行代码，查看效果。</p>
@@ -20101,13 +19633,13 @@ while(i&lt;=insertCount){
       <guid>http://qiqi.dreamagain.top/software/tool/vpn/</guid>
       <source url="http://qiqi.dreamagain.top/rss.xml">VPN</source>
       <description>&amp;lt;blockquote&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%A2%AF%E5%AD%90-blue.svg&amp;quot; alt=&amp;quot;&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;https://img.shields.io/badge/科学上网梯子-blue.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/blockquote&amp;gt;
 </description>
       <category>软件使用</category>
-      <pubDate>Wed, 31 Mar 2021 05:51:25 GMT</pubDate>
+      <pubDate>Wed, 18 Aug 2021 04:26:46 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p><img src="https://img.shields.io/badge/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%A2%AF%E5%AD%90-blue.svg" alt=""></p>
+<p><img src="https://img.shields.io/badge/科学上网梯子-blue.svg" alt="" /></p>
 </blockquote>
 
 <table>
