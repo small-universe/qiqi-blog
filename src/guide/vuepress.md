@@ -5,12 +5,9 @@ sticky: 999
 tags:
   - vuepress
 ---
-
-> ![](https://img.shields.io/badge/vuepress-blue.svg) ![](https://img.shields.io/badge/vuepress--theme--reco-blue.svg) 
->
-> 没有问题演示的教程都不是好教程
-
+   
 <!-- more -->
+
 
 在利用vuepress搭建个人博客的过程中参考过很多教程，最权威的教程是[vuepress官网](https://v1.vuepress.vuejs.org/zh/)，其他不懂的细节再通过百度基本能解决，不过不得不说如果要自定义主题、编写自己的组件或者开发一下插件的时候，这方面的教程很少，即使是仅有的教程也没有达到我所期望的质效果。
 
