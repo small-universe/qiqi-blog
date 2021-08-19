@@ -1,0 +1,57 @@
+module.exports = [
+  "",
+  "intro",
+  "install",
+  "interpreter",
+  {
+    title: "基础教程",
+    path: "guide/",
+    collapsable: false,
+    prefix: "guide/",
+    children: [
+      "write",
+      "io",
+      "basic",
+      "string",
+      "list-and-tuple",
+      "condition",
+      "loop",
+      "dict-and-set",
+    ],
+  },
+  {
+    title: "函数",
+    path: "function/",
+    collapsable: false,
+    prefix: "function/",
+    children: ["intro", "define", "call", "argument", "recursive"],
+  },
+  {
+    title: "高级语法",
+    path: "advance/",
+    collapsable: false,
+    prefix: "advance/",
+    children: [
+      "slice",
+      "iteration",
+      "list-comprehensions",
+      "generator",
+      "iterator",
+    ],
+  },
+  {
+    title: "函数式编程",
+    collapsable: false,
+    prefix: "functional-programming/",
+    children: [
+      "",
+      {
+        title: "高阶函数",
+        path: "high-order-function/",
+        collapsable: false,
+        prefix: "high-order-function/",
+        children: ["intro", "map-and-reduce", "filter", "sorted"],
+      },
+    ],
+  },
+];

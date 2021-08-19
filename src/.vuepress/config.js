@@ -1,9 +1,9 @@
 // 使用的主题
 const { config } = require("vuepress-theme-hope");
 // 导航栏
-const navbar = require("./config/navbar");
+const navbar = require("./configs/navbar");
 // 侧边栏
-const sidebar = require("./config/sidebar");
+const sidebar = require("./configs/sidebar");
 const common_plugin = require("./common-plugin")
 
 module.exports = config({
