@@ -22,9 +22,9 @@ module.exports = config({
 
   themeConfig: {
     logo: "/favicon-2.png",
-    author: "羽子柒",
+    author: "南辞",
     hostname: "http://qiqi.dreamagain.top",
-    backToTop: false, // 回到顶部（用小喵代替）
+    backToTop: true, // 回到顶部（可用小喵插件代替）
     editLinks: false, // 显示编辑本页链接（全局不显示）
     nav: navbar,
     sidebar: sidebar,
@@ -294,7 +294,7 @@ module.exports = config({
       },
     ],
     // 悬挂小猫返回顶部
-    ['go-top',true],
+    // ['go-top',true],
     // Meting 音乐播放插件
     [
       'meting',

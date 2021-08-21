@@ -1,6 +1,6 @@
 ---
 sticky: true
-title: Java
+title: Java简介
 category: Java
 tags:
   - Java

@@ -55,7 +55,3 @@ Java基础重点掌握面向对象、泛型、集合、IO流、反射、异常�
 
 - [Java基础](java/solution/Java基础.md)
 - [Java进阶](java/solution/Java进阶.md)
-
-
-
-## 三、Python

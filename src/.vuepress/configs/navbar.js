@@ -1,14 +1,6 @@
 module.exports = [
     { text: "主页", link: "/", icon: "home" },
-    { text: "指南", link: "/guide/", icon: "guide" },
-    {
-      text: "后端",
-      icon:'backend',
-      prefix: "/backend/",
-      items: [
-        { text: "Java", link: "Java/", icon: "java" },
-      ],
-    },
+    { text: "导航", link: "/outline", icon: "outline" },
     { text: "算法", link: "/algorithm/", icon: "algorithm" },
     { text: "文档", link: "/docs/", icon: "docs" },
     {
