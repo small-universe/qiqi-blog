@@ -6,7 +6,7 @@
   <author>
     <name>南辞</name>
   </author>
-  <updated>2021-08-22T04:50:57.214Z</updated>
+  <updated>2021-08-22T06:03:35.467Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="http://qiqi.dreamagain.top/atom.xml"/>
   <link rel="alternate" href="http://qiqi.dreamagain.top/"/>
@@ -32,7 +32,7 @@
     <title type="html">关于我</title>
     <id>http://qiqi.dreamagain.top/about/intro/</id>
     <link href="http://qiqi.dreamagain.top/about/intro/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="自我介绍"> 自我介绍</h2>
 <ul>
 <li>笔名: 南辞</li>
@@ -52,14 +52,14 @@
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">关于本站</title>
     <id>http://qiqi.dreamagain.top/about/site/</id>
     <link href="http://qiqi.dreamagain.top/about/site/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="网站介绍"> 网站介绍</h2>
 <p>网站使用 <a href="https://v1.vuepress.vuejs.org/zh/guide/" target="_blank" rel="noopener noreferrer">VuePress</a> 建站工具构建，主题使用 <a href="https://github.com/Mister-Hope/vuepress-theme-hope/" target="_blank" rel="noopener noreferrer">vuepress-theme-hope</a></p>
 <h2 id="文件结构"> 文件结构</h2>
@@ -133,14 +133,14 @@
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">JavaSE-注解</title>
     <id>http://qiqi.dreamagain.top/backend/Java/annotation/</id>
     <link href="http://qiqi.dreamagain.top/backend/Java/annotation/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[
 <h2 id="一、理解注解"> 一、理解注解</h2>
 <h3 id="一-为什么要引入注解"> （一）为什么要引入注解</h3>
@@ -1338,11 +1338,11 @@ father
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br></div></div><p>这里主要说明一下TYPE_USE，类型注解用来支持在Java的程序中做强类型检查，配合第三方插件工具（如Checker Framework），可以在编译期检测出runtime error（如UnsupportedOperationException、NullPointerException异常），避免异常延续到运行期才发现，从而提高代码质量，这就是类型注解的主要作用。</p>
 <p>总之Java 8 新增加了两个注解的元素类型ElementType.TYPE_USE 和ElementType.TYPE_PARAMETER ，通过它们，我们可以把注解应用到各种新场合中。</p>
-<div><p>参考</p>
+<p>::: right 参考</p>
 <p><a href="https://www.liaoxuefeng.com/wiki/1252599548343744/1255945389098144" target="_blank" rel="noopener noreferrer">廖雪峰Java教程 - 注解</a></p>
 <p><a href="https://www.runoob.com/w3cnote/java-annotation.html" target="_blank" rel="noopener noreferrer">菜鸟教程 - 注解</a></p>
 <p><a href="https://blog.csdn.net/javazejian/article/details/71860633?ops_request_misc=%25257B%252522request%25255Fid%252522%25253A%252522161283974716780262542169%252522%25252C%252522scm%252522%25253A%25252220140713.130102334..%252522%25257D&amp;request_id=161283974716780262542169&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-4-71860633.pc_search_result_no_baidu_js&amp;utm_term=java%25E6%25B3%25A8%25E8%25A7%25A3" target="_blank" rel="noopener noreferrer">zejian的博客</a></p>
-</div>
+<p>:::</p>
 ]]></content>
     <author>
       <name>南辞</name>
@@ -1351,14 +1351,14 @@ father
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">JavaSE-集合</title>
     <id>http://qiqi.dreamagain.top/backend/Java/collection/</id>
     <link href="http://qiqi.dreamagain.top/backend/Java/collection/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[
 <h2 id="集合概要"> 集合概要</h2>
 <p>Java的<code>java.util</code>包主要提供了以下三种类型的集合（也可以叫作容器，用来存储对象）</p>
@@ -1470,14 +1470,14 @@ father
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">JavaSE-泛型</title>
     <id>http://qiqi.dreamagain.top/backend/Java/generics/</id>
     <link href="http://qiqi.dreamagain.top/backend/Java/generics/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[
 <h2 id="一、前言"> 一、前言</h2>
 <p>Java 泛型（Generic）的引入加强了参数类型的安全性，减少了类型的转换，但有一点需要注意：Java 的泛型在编译器有效，在运行期被删除，也就是说所有泛型参数类型在编译后都会被清除掉，看下面一个列子，代码如下：</p>
@@ -1658,14 +1658,14 @@ father
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">Java简介</title>
     <id>http://qiqi.dreamagain.top/backend/Java/intro/</id>
     <link href="http://qiqi.dreamagain.top/backend/Java/intro/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[
 <h2 id="java简介"> Java简介</h2>
 <h3 id="java语言的诞生"> Java语言的诞生</h3>
@@ -1713,14 +1713,14 @@ father
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">JavaSE-反射</title>
     <id>http://qiqi.dreamagain.top/backend/Java/reflect/</id>
     <link href="http://qiqi.dreamagain.top/backend/Java/reflect/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[
 <h2 id="一、什么是反射"> 一、什么是反射：</h2>
 <p>（1）Java反射机制的核心是在程序运行时动态加载类并获取类的详细信息，从而操作类或对象的属性和方法。本质是JVM得到class对象之后，再通过class对象进行反编译，从而获取对象的各种信息。</p>
@@ -2229,10 +2229,9 @@ method<span>=</span>doService1
 <span>}</span>
 
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><div><p>参考</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>::: right 参考</p>
 <p><a href="https://www.liaoxuefeng.com/wiki/1252599548343744/1255945389098144" target="_blank" rel="noopener noreferrer">廖雪峰Java教程 - 反射</a></p>
 <p><a href="https://blog.csdn.net/lililuni/article/details/83449088?ops_request_misc=%25257B%252522request%25255Fid%252522%25253A%252522161284956016780274151023%252522%25252C%252522scm%252522%25253A%25252220140713.130102334..%252522%25257D&amp;request_id=161284956016780274151023&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-7-83449088.pc_search_result_no_baidu_js&amp;utm_term=java%25E5%258F%258D%25E5%25B0%2584" target="_blank" rel="noopener noreferrer">皮卡卡西- Java 反射</a></p>
-</div>
 ]]></content>
     <author>
       <name>南辞</name>
@@ -2241,14 +2240,14 @@ method<span>=</span>doService1
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">JavaSE-正则表达式</title>
     <id>http://qiqi.dreamagain.top/backend/Java/regex/</id>
     <link href="http://qiqi.dreamagain.top/backend/Java/regex/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[
 <h2 id="一、概述"> 一、概述</h2>
 <ul>
@@ -2873,10 +2872,10 @@ Found value: ! OK?
 <li>匹配Email地址的正则表达式：<code>w+([-+.]w+)*@w+([-.]w+)*.w+([-.]w+)*</code></li>
 <li>匹配网址URL的正则表达式：<code>http://([w-]+.)+[w-]+(/[w- ./?%&amp;=]*)?</code></li>
 </ul>
-<div><p>参考</p>
+<p>::: right 参考</p>
 <p><a href="https://www.liaoxuefeng.com/wiki/1252599548343744/1255945288020320" target="_blank" rel="noopener noreferrer">廖雪峰Java教程 - 正则表达式</a></p>
 <p><a href="https://www.runoob.com/java/java-regular-expressions.html" target="_blank" rel="noopener noreferrer">菜鸟教程 - 正则表达式</a></p>
-</div>
+<p>:::</p>
 ]]></content>
     <author>
       <name>南辞</name>
@@ -2885,14 +2884,14 @@ Found value: ! OK?
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">Java基础</title>
     <id>http://qiqi.dreamagain.top/backend/Java/solution/Java%E5%9F%BA%E7%A1%80/</id>
     <link href="http://qiqi.dreamagain.top/backend/Java/solution/Java%E5%9F%BA%E7%A1%80/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <h3 id="一、java概述"> 一、Java概述</h3>
 <p>1、何为编程</p>
@@ -4514,14 +4513,14 @@ stringBuilder<span>.</span> <span>append</span><span>(</span><span>"abcdefg"</sp
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">Java进阶</title>
     <id>http://qiqi.dreamagain.top/backend/Java/solution/Java%E8%BF%9B%E9%98%B6/</id>
     <link href="http://qiqi.dreamagain.top/backend/Java/solution/Java%E8%BF%9B%E9%98%B6/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <h3 id="一、集合-容器"> 一、集合/容器</h3>
 <h4 id="一-概述"> （一）概述</h4>
@@ -6563,14 +6562,14 @@ Java IO流共涉及40多个类，这些类看上去很杂乱，但实际上很�
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">JavaSE-时间与日期</title>
     <id>http://qiqi.dreamagain.top/backend/Java/time/</id>
     <link href="http://qiqi.dreamagain.top/backend/Java/time/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[
 <h2 id="一、基本概念"> 一、基本概念</h2>
 <p>在计算机中，我们经常需要处理日期和时间。</p>
@@ -7452,9 +7451,9 @@ calendar.setTimeInMillis(zdt.toEpochSecond() * 1000);
 <span>}</span>
 
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br></div></div><div><p>整理自</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br></div></div><p>::: right 整理自</p>
 <p><a href="https://www.liaoxuefeng.com/wiki/1252599548343744/1255943660631584" target="_blank" rel="noopener noreferrer">Java教程 - 日期与时间</a></p>
-</div>
+<p>:::</p>
 ]]></content>
     <author>
       <name>南辞</name>
@@ -7463,14 +7462,14 @@ calendar.setTimeInMillis(zdt.toEpochSecond() * 1000);
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">编程语言</title>
     <id>http://qiqi.dreamagain.top/backend/</id>
     <link href="http://qiqi.dreamagain.top/backend/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[
 <h2 id="一、如何快速入门"> 一、如何快速入门</h2>
 <p>一门编程语言的入门学习最好参考网上优质网站教程、视频教程和参考书籍，尤其对于有编程基础的人而言，通过网站教程和参考书是最快的入门方式，虽然没有视频教程来得直观，但是学完后印象会比较深刻。</p>
@@ -7520,14 +7519,14 @@ calendar.setTimeInMillis(zdt.toEpochSecond() * 1000);
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">MySQL-DDL</title>
     <id>http://qiqi.dreamagain.top/database/MySQL/MySQL-DDL/</id>
     <link href="http://qiqi.dreamagain.top/database/MySQL/MySQL-DDL/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p><img src="https://img.shields.io/badge/DDL-Data_Definition_Language-blue.svg" alt="" /></p>
 </blockquote>
@@ -8149,14 +8148,14 @@ alter table 表 modify column 字段名 字段类型 约束;
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">MySQL-DML</title>
     <id>http://qiqi.dreamagain.top/database/MySQL/MySQL-DML/</id>
     <link href="http://qiqi.dreamagain.top/database/MySQL/MySQL-DML/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p><img src="https://img.shields.io/badge/DML-Data_Manipulation_Language-blue.svg" alt="" /></p>
 </blockquote>
@@ -8359,14 +8358,14 @@ sql99语法：
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">MySQL-DQL</title>
     <id>http://qiqi.dreamagain.top/database/MySQL/MySQL-DQL/</id>
     <link href="http://qiqi.dreamagain.top/database/MySQL/MySQL-DQL/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p><img src="https://img.shields.io/badge/DQL-Data_Query_Language-blue.svg" alt="" /></p>
 </blockquote>
@@ -9976,14 +9975,14 @@ page
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">MySQL-TCL</title>
     <id>http://qiqi.dreamagain.top/database/MySQL/MySQL-TCL/</id>
     <link href="http://qiqi.dreamagain.top/database/MySQL/MySQL-TCL/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p><img src="https://img.shields.io/badge/TCL-Transaction_Control_Language-blue.svg" alt="" /></p>
 </blockquote>
@@ -10148,14 +10147,14 @@ SELECT * FROM account;
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">MySQL-Index</title>
     <id>http://qiqi.dreamagain.top/database/MySQL/MySQL-index/</id>
     <link href="http://qiqi.dreamagain.top/database/MySQL/MySQL-index/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p><img src="https://img.shields.io/badge/MySQL-索引-blue.svg" alt="" /></p>
 </blockquote>
@@ -10376,14 +10375,14 @@ mysql<span>></span> <span>select</span> <span>count</span><span>(</span><span>di
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">MySQL-intro</title>
     <id>http://qiqi.dreamagain.top/database/MySQL/MySQL-intro/</id>
     <link href="http://qiqi.dreamagain.top/database/MySQL/MySQL-intro/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>​	<img src="https://img.shields.io/badge/MySQL-简介-blue.svg" alt="" /></p>
 </blockquote>
@@ -10612,14 +10611,14 @@ alter user &#39;root&#39;@&#39;localhost&#39; identified by &#39;xzx123456&#39;;
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">MySQL-other</title>
     <id>http://qiqi.dreamagain.top/database/MySQL/MySQL-other/</id>
     <link href="http://qiqi.dreamagain.top/database/MySQL/MySQL-other/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p><img src="https://img.shields.io/badge/MySQL基础-其他-blue.svg" alt="" /></p>
 </blockquote>
@@ -11535,14 +11534,14 @@ while(i&lt;=insertCount){
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">Redis 进阶</title>
     <id>http://qiqi.dreamagain.top/database/Redis/redis-advance/</id>
     <link href="http://qiqi.dreamagain.top/database/Redis/redis-advance/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="redis-数据备份与恢复"> Redis 数据备份与恢复</h2>
 <h3 id="一-数据备份"> （一）数据备份</h3>
 <p>Redis <strong>SAVE</strong> 命令用于创建当前数据库的备份。</p>
@@ -11960,14 +11959,14 @@ with pipelining 0.250783 seconds
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">Redis 基础</title>
     <id>http://qiqi.dreamagain.top/database/Redis/redis-base/</id>
     <link href="http://qiqi.dreamagain.top/database/Redis/redis-base/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="一、redis-简介"> 一、Redis 简介</h2>
 <h3 id="一-redis-简介"> （一）Redis 简介</h3>
 <p>Redis 是完全开源免费的，遵守BSD协议，是一个高性能的key-value数据库。</p>
@@ -12318,7 +12317,7 @@ OK
 <span>4</span><span>)</span> <span>"200"</span>
 
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p>以上实例中 <code>hash</code> 数据类型存储了包含用户脚本信息的用户对象。实例中我们使用了 Redis的 <strong><code>HMSET, HGETALL</code></strong> 命令，<strong><code>user:1</code></strong> 为键值。每个 <code>hash</code> 可以存储 2<sup>32</sup> - 1个键值对（40多亿）。</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p>以上实例中 <code>hash</code> 数据类型存储了包含用户脚本信息的用户对象。实例中我们使用了 Redis的 <strong><code>HMSET, HGETALL</code></strong> 命令，<strong><code>user:1</code></strong> 为键值。每个 <code>hash</code> 可以存储 2^32^ - 1个键值对（40多亿）。</p>
 <h3 id="三-list-列表"> （三）List（列表）</h3>
 <p>Redis列表是简单的字符串列表，按照插入顺序排序。你可以添加一个元素到列表的头部（左边）或者尾部（右边）。</p>
 <p><strong>实例</strong></p>
@@ -12334,7 +12333,7 @@ OK
 <span>3</span><span>)</span> <span>"redis"</span>
 
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p>列表最多可存储 2<sup>32</sup> - 1 元素 (4294967295, 每个列表可存储40多亿)。</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p>列表最多可存储 2^32^ - 1 元素 (4294967295, 每个列表可存储40多亿)。</p>
 <h3 id="四-set-集合"> （四）Set（集合）</h3>
 <p>Redis的 <code>Set</code>是 <code>string</code> 类型的无序集合。</p>
 <p><strong>sadd 命令</strong></p>
@@ -12357,7 +12356,7 @@ OK
 
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>**注意：**以上实例中 <code>rabitmq</code> 添加了两次，但根据集合内元素的唯一性，第二次插入的元素将被忽略。</p>
-<p>集合中最大的成员数为 2<sup>32</sup>- 1 (4294967295, 每个集合可存储40多亿个成员)。</p>
+<p>集合中最大的成员数为 2^32^- 1 (4294967295, 每个集合可存储40多亿个成员)。</p>
 <h3 id="五-zset-sorted-set-有序集合"> （五）zset(sorted set：有序集合)</h3>
 <p><code>Redis zset</code> 和<code>set</code> 一样也是 <code>string</code> 类型元素的集合,且不允许重复的成员。</p>
 <p>不同的是每个元素都会关联一个 <code>double</code> 类型的分数。redis`正是通过分数来为集合中的成员进行从小到大的排序。</p>
@@ -12387,14 +12386,14 @@ OK
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">Redis 命令</title>
     <id>http://qiqi.dreamagain.top/database/Redis/redis-cmd/</id>
     <link href="http://qiqi.dreamagain.top/database/Redis/redis-cmd/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="一、redis-命令"> 一、Redis 命令</h2>
 <p>Redis 命令用于在 redis 服务上执行操作。</p>
 <p>要在 redis 服务上执行命令需要一个 redis 客户端。Redis 客户端在我们之前下载的的 redis 的安装包中。</p>
@@ -12621,7 +12620,7 @@ OK
 </table>
 <h2 id="四、redis-哈希-hash"> 四、Redis 哈希(Hash)</h2>
 <p>Redis hash 是一个string类型的field和value的映射表，hash特别适合用于存储对象。</p>
-<p>Redis 中每个 hash 可以存储 2<sup>32</sup> - 1 键值对（40多亿）。</p>
+<p>Redis 中每个 hash 可以存储 2^32^ - 1 键值对（40多亿）。</p>
 <p><strong>实例</strong></p>
 <div><pre><code><span>127.0</span>.0.1:637<span><span>9</span>></span> HMSET key_redis name <span>"redis tutorial"</span> description <span>"redis basic commands for caching"</span> likes <span>20</span> visitors <span>23000</span>
 OK
@@ -12708,7 +12707,7 @@ OK
 </table>
 <h2 id="五、redis-列表-list"> 五、Redis 列表(List)</h2>
 <p>Redis列表是简单的字符串列表，按照插入顺序排序。你可以添加一个元素导列表的头部（左边）或者尾部（右边）</p>
-<p>一个列表最多可以包含 2<sup>32</sup> - 1 个元素 (4294967295, 每个列表超过40亿个元素)。</p>
+<p>一个列表最多可以包含 2^32^ - 1 个元素 (4294967295, 每个列表超过40亿个元素)。</p>
 <p><strong>实例</strong></p>
 <div><pre><code><span>127.0</span>.0.1:637<span><span>9</span>></span> LPUSH list_1 redis
 <span>(</span>integer<span>)</span> <span>1</span>
@@ -12806,7 +12805,7 @@ OK
 <h2 id="六、redis-集合-set"> 六、Redis 集合(Set)</h2>
 <p>Redis的Set是string类型的无序集合。集合成员是唯一的，这就意味着集合中不能出现重复的数据。</p>
 <p>Redis 中集合是通过哈希表实现的，所以添加，删除，查找的复杂度都是O(1)。</p>
-<p>集合中最大的成员数为 2<sup>32</sup> - 1 (4294967295, 每个集合可存储40多亿个成员)。</p>
+<p>集合中最大的成员数为 2^32^ - 1 (4294967295, 每个集合可存储40多亿个成员)。</p>
 <p><strong>实例</strong></p>
 <div><pre><code><span>127.0</span>.0.1:637<span><span>9</span>></span> SADD set_1 redis
 <span>(</span>integer<span>)</span> <span>1</span>
@@ -12899,7 +12898,7 @@ OK
 <p>Redis 有序集合和集合一样也是string类型元素的集合,且不允许重复的成员。</p>
 <p>不同的是每个元素都会关联一个double类型的分数。redis正是通过分数来为集合中的成员进行从小到大的排序。</p>
 <p>有序集合的成员是唯一的,但分数(score)却可以重复。</p>
-<p>集合是通过哈希表实现的，所以添加，删除，查找的复杂度都是O(1)。 集合中最大的成员数为 2<sup>32</sup> - 1 (4294967295, 每个集合可存储40多亿个成员)。</p>
+<p>集合是通过哈希表实现的，所以添加，删除，查找的复杂度都是O(1)。 集合中最大的成员数为 2^32^ - 1 (4294967295, 每个集合可存储40多亿个成员)。</p>
 <p><strong>实例</strong></p>
 <div><pre><code><span>127.0</span>.0.1:637<span><span>9</span>></span> ZADD zset_1 <span>1</span> redis
 <span>(</span>integer<span>)</span> <span>1</span>
@@ -13519,14 +13518,14 @@ db3:keys<span>=</span><span>1</span>,expires<span>=</span><span>0</span>,avg_ttl
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">文档</title>
     <id>http://qiqi.dreamagain.top/docs/</id>
     <link href="http://qiqi.dreamagain.top/docs/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<ol>
 <li>Layx 文档<a href="./layx/index.html">Layx 文档</a></li>
 </ol>
@@ -13538,14 +13537,14 @@ db3:keys<span>=</span><span>1</span>,expires<span>=</span><span>0</span>,avg_ttl
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">element-ui插件使用文档</title>
     <id>http://qiqi.dreamagain.top/guide/element-ui-plugin/</id>
     <link href="http://qiqi.dreamagain.top/guide/element-ui-plugin/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <summary type="html"><![CDATA[<p><a href="https://www.npmjs.com/package/vuepress-plugin-element-ui" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/npm/v/vuepress-plugin-element-ui.svg" alt="Version" /></a> <a href="https://www.npmjs.com/package/vuepress-plugin-element-ui" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/npm/l/vuepress-plugin-element-ui.svg" alt="License" /></a> <img src="https://img.shields.io/badge/thanks-element-brightgreen.svg" alt="img" /></p>
 <p>Vuepress plugin - extend <a href="https://github.com/ElemeFE/element" target="_blank" rel="noopener noreferrer">Element UI</a> base on markdown-it-container</p>
 ]]></summary>
@@ -13722,14 +13721,14 @@ module.exports <span>=</span> <span>{</span>
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">指南</title>
     <id>http://qiqi.dreamagain.top/guide/</id>
     <link href="http://qiqi.dreamagain.top/guide/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="目录"> 目录</h2>
 <ul>
 <li><a href="./vuepress.html">vuepress快速上手</a></li>
@@ -13744,14 +13743,14 @@ module.exports <span>=</span> <span>{</span>
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">Markdown指南</title>
     <id>http://qiqi.dreamagain.top/guide/markdown/</id>
     <link href="http://qiqi.dreamagain.top/guide/markdown/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-md-enhance.mrhope.site" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-md-enhance.mrhope.site" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
@@ -13767,7 +13766,7 @@ module.exports <span>=</span> <span>{</span>
 <span>}</span><span>;</span>
 </code></pre><div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><h2 id="新增的更多语法"> 新增的更多语法</h2>
 <h3 id="上下角标"> 上下角标</h3>
-<p>19<sup>th</sup> H<sub>2</sub>O</p>
+<p>19^th^ H~2~O</p>
 <details><summary>代码</summary>
 <div><pre><code>19^th^ H<span><span>~</span><span>2</span><span>~</span></span>O
 </code></pre>
@@ -13776,12 +13775,12 @@ module.exports <span>=</span> <span>{</span>
 <li><a href="https://vuepress-theme.mrhope.site/zh/guide/feature/markdown/sup-sub/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
 </ul>
 <h3 id="自定义对齐"> 自定义对齐</h3>
-<div>
-<p>我是居中的</p>
-</div>
-<div>
-<p>我在右对齐</p>
-</div>
+<p>::: center
+我是居中的
+:::</p>
+<p>::: right
+我在右对齐
+:::</p>
 <details><summary>代码</summary>
 <div><pre><code>::: center
 我是居中的
@@ -13796,7 +13795,7 @@ module.exports <span>=</span> <span>{</span>
 <li><a href="https://vuepress-theme.mrhope.site/zh/guide/feature/markdown/align/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
 </ul>
 <h3 id="脚注"> 脚注</h3>
-<p>此文字有脚注<sup></sup>.</p>
+<p>此文字有脚注<a href="%E8%BF%99%E6%98%AF%E8%84%9A%E6%B3%A8%E5%86%85%E5%AE%B9">^first</a>.</p>
 <details><summary>代码</summary>
 <div><pre><code>此文字有脚注[^first].
 
@@ -13838,7 +13837,10 @@ cond(no)->e
 <li><a href="https://vuepress-theme.mrhope.site/zh/guide/feature/markdown/flowchart/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
 </ul>
 <h3 id="tex-语法"> Tex 语法</h3>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:2.40003em;vertical-align:-0.95003em;"></span><span><span></span><span><span><span><span style="height:1.37144em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.05556em;">∂</span><span><span style="margin-right:0.03588em;">ω</span><span><span><span><span style="height:0.590392em;"><span style="top:-2.9890000000000003em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.05556em;">∂</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span style="top:0em;"><span>(</span></span><span><span></span><span><span><span><span style="height:1.341392em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>)</span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:3.027669em;vertical-align:-1.277669em;"></span><span><span style="top:0em;"><span>(</span></span><span><span></span><span><span><span><span style="height:1.341392em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>)</span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span style="top:0em;"><span>{</span></span><span>(</span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">y</span><span><span>)</span><span><span><span><span style="height:0.7143919999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span></span><span><span><span><span style="height:1.5016639999999999em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">ω</span><span><span><span><span style="height:0.750664em;"><span style="top:-2.9890000000000003em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span>(</span><span>−</span><span>1</span><span><span>)</span><span><span><span><span style="height:0.824664em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.16666666666666666em;"></span><span>⋯</span><span style="margin-right:0.16666666666666666em;"></span><span>(</span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span><span>i</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span>1</span><span>)</span><span>(</span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">y</span><span><span>)</span><span><span><span><span style="height:0.824664em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.02778em;">r</span><span>−</span><span>i</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>}</span></span></span></span></span></span></span></p>
+<p>$$
+\frac {\partial^r} {\partial \omega^r} \left(\frac {y^{\omega}} {\omega}\right)
+= \left(\frac {y^{\omega}} {\omega}\right) \left{(\log y)^r + \sum_{i=1}^r \frac {(-1)^i r \cdots (r-i+1) (\log y)^{r-i}} {\omega^i} \right}
+$$</p>
 <details><summary>代码</summary>
 <div><pre><code>$$
 \frac {\partial^r} {\partial \omega^r} \left(\frac {y^{\omega}} {\omega}\right)
@@ -13850,20 +13852,7 @@ $$
 <li><a href="https://vuepress-theme.mrhope.site/zh/guide/feature/markdown/tex/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
 </ul>
 <h3 id="代码案例"> 代码案例</h3>
-
-          <div
-            id="code-demo-40b08364"
-           
-  
- data-title="%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%20Demo"
-
-            data-code="%7B%22html%22%3A%22%3Ch1%3EMr.Hope%3C%2Fh1%3E%5Cn%3Cp%3E%3Cspan%20id%3D%5C%22very%5C%22%3E%E5%8D%81%E5%88%86%3C%2Fspan%3E%20%E5%B8%85%3C%2Fp%3E%5Cn%22%2C%22js%22%3A%22document.querySelector(%5C%22%23very%5C%22).addEventListener(%5C%22click%5C%22%2C%20()%20%3D%3E%20%7B%5Cn%20%20%20%20alert(%5C%22%E5%8D%81%E5%88%86%E5%B8%85%5C%22)%3B%5Cn%7D)%3B%5Cn%22%2C%22css%22%3A%22span%20%7B%5Cn%20%20%20%20color%3A%20red%3B%5Cn%7D%5Cn%22%7D"
-          >
-              <div>
-                
-              </div>
-              <div>
-                <div>
+<p>::: demo 一个普通 Demo</p>
 <div><pre><code><span><span><span>&lt;</span>h1</span><span>></span></span>Mr.Hope<span><span><span>&lt;/</span>h1</span><span>></span></span>
 <span><span><span>&lt;</span>p</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>id</span><span><span>=</span><span>"</span>very<span>"</span></span><span>></span></span>十分<span><span><span>&lt;/</span>span</span><span>></span></span> 帅<span><span><span>&lt;/</span>p</span><span>></span></span>
 </code></pre>
@@ -13875,11 +13864,7 @@ $$
     <span>color</span><span>:</span> red<span>;</span>
 <span>}</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div>
-            </div>
-          </div>
-          
-        </div>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>:::</p>
 <details><summary>代码</summary>
 <div><pre><code>::: demo 一个普通 Demo
 
@@ -13937,20 +13922,7 @@ export default class App extends React.Component {
 
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br></div></div></details>
-
-          <div
-            id="code-demo-a8b6364c"
-           
-  data-type="vue"
- data-title="%E4%B8%80%E4%B8%AA%20Vue%20Demo"
-
-            data-code="%7B%22%22%3A%22%5Cn%22%7D"
-          >
-              <div>
-                
-              </div>
-              <div>
-                <div>
+<p>::: demo [vue] 一个 Vue Demo</p>
 <p>​```vue
 <template>
 <div>
@@ -13968,102 +13940,90 @@ color: red;
 }
 </style></p>
 <div><pre><code>
-</code></pre>
-<div><span>1</span><br></div></div>
-            </div>
-          </div>
-          
-        </div>
-<details><summary>代码</summary>
-<div><pre><code>::: demo [vue] 一个 Vue Demo
+:::
+
+:::: details 代码
+
+````md
+::: demo [vue] 一个 Vue Demo
 
 ​```vue
-<span><span><span>&lt;</span>template</span><span>></span></span>
-  <span><span><span>&lt;</span>div</span> <span>class</span><span><span>=</span><span>"</span>box-vue<span>"</span></span><span>></span></span>
-    Mr.Hope <span><span><span>&lt;</span>span</span><span>></span></span>{{ message }}<span><span><span>&lt;/</span>span</span><span>></span></span>
-  <span><span><span>&lt;/</span>div</span><span>></span></span>
-<span><span><span>&lt;/</span>template</span><span>></span></span>
-<span><span><span>&lt;</span>script</span><span>></span></span><span><span>
-<span>export</span> <span>default</span> <span>{</span>
-  <span>data</span><span>:</span> <span>(</span><span>)</span> <span>=></span> <span>(</span><span>{</span> message<span>:</span> <span>"十分帅"</span> <span>}</span><span>)</span><span>,</span>
-<span>}</span><span>;</span>
-</span></span><span><span><span>&lt;/</span>script</span><span>></span></span>
-<span><span><span>&lt;</span>style</span><span>></span></span><span><span>
-<span>.box-vue span</span> <span>{</span>
-  <span>color</span><span>:</span> red<span>;</span>
-<span>}</span>
-</span></span><span><span><span>&lt;/</span>style</span><span>></span></span>
+&lt;template&gt;
+  &lt;div class=&quot;box-vue&quot;&gt;
+    Mr.Hope &lt;span&gt;{{ message }}&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/template&gt;
+&lt;script&gt;
+export default {
+  data: () =&gt; ({ message: &quot;十分帅&quot; }),
+};
+&lt;/script&gt;
+&lt;style&gt;
+.box-vue span {
+  color: red;
+}
+&lt;/style&gt;
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br></div></div><p>:::</p>
+<div><pre><code>::::
+
+::: demo 一个普通 Demo
+
+​```md
+# 标题
+
+十分帅
+```
+
+```ts
+const message: string = &quot;Mr.Hope&quot;;
+
+document.querySelector(&quot;h1&quot;).innerHTML = message;
+```
+
+```scss
+h1 {
+  font-style: italic;
+
+  + p {
+    color: red;
+  }
+}
+```
+
+:::
+
+:::: details 代码
+
+````md
+::: demo 一个普通 Demo
+
+​```md
+# 标题
+
+十分帅
+```
+
+```ts
+const message: string = &quot;Mr.Hope&quot;;
+
+document.querySelector(&quot;h1&quot;).innerHTML = message;
+```
+
+```scss
+h1 {
+  font-style: italic;
+
+  + p {
+    color: red;
+  }
+}
 ```
 
 :::
 
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br></div></div></details>
-
-          <div
-            id="code-demo-4ad68778"
-           
-  
- data-title="%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%20Demo"
-
-            data-code="%7B%22%22%3A%22%5Cn%60%60%60ts%5Cnconst%20message%3A%20string%20%3D%20%5C%22Mr.Hope%5C%22%3B%5Cn%5Cndocument.querySelector(%5C%22h1%5C%22).innerHTML%20%3D%20message%3B%5Cn%22%2C%22scss%22%3A%22h1%20%7B%5Cn%20%20font-style%3A%20italic%3B%5Cn%5Cn%20%20%2B%20p%20%7B%5Cn%20%20%20%20color%3A%20red%3B%5Cn%20%20%7D%5Cn%7D%5Cn%22%7D"
-          >
-              <div>
-                
-              </div>
-              <div>
-                <div>
-<p>​```md</p>
-<h1 id="标题"> 标题</h1>
-<p>十分帅</p>
-<div><pre><code>
-```ts
-const message: string = &quot;Mr.Hope&quot;;
-
-document.querySelector(&quot;h1&quot;).innerHTML = message;
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><div><pre><code><span>h1 </span><span>{</span>
-  <span>font-style</span><span>:</span> italic<span>;</span>
-
-  <span>+ p </span><span>{</span>
-    <span>color</span><span>:</span> red<span>;</span>
-  <span>}</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div>
-            </div>
-          </div>
-          
-        </div>
-<details><summary>代码</summary>
-<div><pre><code>::: demo 一个普通 Demo
-
-​```md
-<span><span>#</span> 标题</span>
-
-十分帅
-<span><span>```</span>
-<span>
-```ts
-const message: string = "Mr.Hope";
-
-document.querySelector("h1").innerHTML = message;</span>
-<span>```</span></span>
-
-<span><span>```</span><span>scss</span>
-<span><span>h1 </span><span>{</span>
-  <span>font-style</span><span>:</span> italic<span>;</span>
-
-  <span>+ p </span><span>{</span>
-    <span>color</span><span>:</span> red<span>;</span>
-  <span>}</span>
-<span>}</span></span>
-<span>```</span></span>
-
-:::
-
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br></div></div></details>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br></div></div><p>::::</p>
 <ul>
 <li><a href="https://vuepress-theme.mrhope.site/zh/guide/feature/markdown/demo/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
 </ul>
@@ -14141,13 +14101,6 @@ $$
 <div><pre><code>
 </code></pre>
 <div><span>1</span><br></div></div></details>
-<hr>
-<section>
-<ol>
-<li id="footnote1"><p>这是脚注内容 </p>
-</li>
-</ol>
-</section>
 ]]></content>
     <author>
       <name>𝓜𝓻. 𝓗𝓸𝓹𝓮</name>
@@ -14156,14 +14109,14 @@ $$
     <contributor>
       <name>𝓜𝓻. 𝓗𝓸𝓹𝓮</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 𝓜𝓻. 𝓗𝓸𝓹𝓮</rights>
   </entry>
   <entry>
     <title type="html">页面配置模板</title>
     <id>http://qiqi.dreamagain.top/guide/template/</id>
     <link href="http://qiqi.dreamagain.top/guide/template/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <summary type="html"><![CDATA[模板]]></summary>
     <content type="html"><![CDATA[<blockquote>
 <div><pre><code><span><span>---</span>
@@ -14236,7 +14189,7 @@ pageInfo<span>:</span><span>[</span><span>'author'</span><span>,</span> <span>'v
     <title type="html">VuePresss入坑指南</title>
     <id>http://qiqi.dreamagain.top/guide/vuepress/</id>
     <link href="http://qiqi.dreamagain.top/guide/vuepress/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[
 <p>在利用vuepress搭建个人博客的过程中参考过很多教程，最权威的教程是<a href="https://v1.vuepress.vuejs.org/zh/" target="_blank" rel="noopener noreferrer">vuepress官网</a>，其他不懂的细节再通过百度基本能解决，不过不得不说如果要自定义主题、编写自己的组件或者开发一下插件的时候，这方面的教程很少，即使是仅有的教程也没有达到我所期望的质效果。</p>
 <h2 id="一、vuepresss简介"> 一、VuePresss简介</h2>
@@ -14602,9 +14555,9 @@ ncu --upgrade --upgradeAll <span>&amp;&amp;</span> <span>yarn</span> upgrade
 <div><pre><code><span>yarn</span> upgrade package@version
 // yarn.lock和package.json都会更新，但是会进行版本锁定 <span>"echarts"</span><span>:</span> <span>"4.2.0-rc.2"</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><div><p>参考</p>
+<div><span>1</span><br><span>2</span><br></div></div><p>::: right 参考</p>
 <p><a href="https://blog.csdn.net/qq_37939251/article/details/107832805" target="_blank" rel="noopener noreferrer">多纤果冻</a></p>
-</div>
+<p>:::</p>
 <div><p>Tips</p>
 <ul>
 <li>yarn upgrade  依赖包小版本升级</li>
@@ -14902,9 +14855,8 @@ ncu --upgrade --upgradeAll <span>&amp;&amp;</span> <span>yarn</span> upgrade
 <div><pre><code>npx vuepress info
 </code></pre>
 <div><span>1</span><br></div></div><p>查看vue包的版本，有助于查看版本是否对应</p>
-<div><p>感谢</p>
+<p>::: right 感谢</p>
 <p><a href="https://blog.csdn.net/qq_32855007/article/details/108726430" target="_blank" rel="noopener noreferrer">无休止的bug</a></p>
-</div>
 </div>
 <p>再次运行，页面可以正常显示</p>
 <p>点击文章Element-UI Test，显示的效果如下</p>
@@ -15622,14 +15574,14 @@ http <span>{</span>
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">Java必备208道面试题</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <summary type="html"><![CDATA[<div><p>声明</p>
 <p>此份面试题来自知乎<a href="https://www.zhihu.com/question/27858692/answer/787505434" target="_blank" rel="noopener noreferrer">java经验总结</a> ，原文参考答案比较浅显且部分有误，目前已对部分参考答案进行订正、补充。</p>
 <p>提示：此份面试题在学完相关基础后食用效果最佳，可以快速查缺补漏，加深对知识的理解。切忌死记硬背，编程重在理解思想和代码编写</p>
@@ -15672,9 +15624,9 @@ http <span>{</span>
 <p>15.java中IO流分为几种?</p>
 <p>16.BIO、NIO、AIO有什么区别</p>
 <p>17.Files的常用方法有哪些？</p>
-<div>
+<p>::: right</p>
 <p><a href="./模块01—Java基础.html">参考答案</a></p>
-</div>
+<p>:::</p>
 <hr>
 <div><p>（二）、容器</p>
 <br/>
@@ -15696,9 +15648,9 @@ http <span>{</span>
 <p>32.lterator怎么使用?有什么特点?</p>
 <p>33.lterator和Listlterator有什么区别?</p>
 <p>34.怎么确保一个集合不能被修改？</p>
-<div>
+<p>::: right</p>
 <p><a href="./模块02—Java集合.html">参考答案</a></p>
-</div>
+<p>:::</p>
 <hr>
 <div><p>（三）、多线程</p>
 <br/>
@@ -15946,14 +15898,14 @@ http <span>{</span>
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块01-Java基础</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9701%E2%80%94Java%E5%9F%BA%E7%A1%80/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9701%E2%80%94Java%E5%9F%BA%E7%A1%80/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>1.JDK和JRE有什么区别?</p>
 <p>2.==和equals的区别是什么?</p>
@@ -16292,14 +16244,14 @@ stringBuilder<span>.</span><span>append</span><span>(</span><span>"abcdefg"</spa
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块02-Java集合（容器）</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9702%E2%80%94Java%E9%9B%86%E5%90%88/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9702%E2%80%94Java%E9%9B%86%E5%90%88/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>18.java容器都有哪些?</p>
 <p>19.Collection和Collections有什么区别?</p>
@@ -16441,14 +16393,14 @@ unmlist<span>.</span> <span>add</span><span>(</span><span>"B"</span><span>)</spa
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块03-Java多线程</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9703%E2%80%94%E5%A4%9A%E7%BA%BF%E7%A8%8B/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9703%E2%80%94%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>35.并行和并发有什么区别?</p>
 <p>36.线程和进程的区别?</p>
@@ -16654,14 +16606,14 @@ unmlist<span>.</span> <span>add</span><span>(</span><span>"B"</span><span>)</spa
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块04-Java反射</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9704%E2%80%94%E5%8F%8D%E5%B0%84/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9704%E2%80%94%E5%8F%8D%E5%B0%84/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>57.什么是反射?</p>
 <p>58.什么是java序列化?什么情况下需要序列化?</p>
@@ -16717,14 +16669,14 @@ unmlist<span>.</span> <span>add</span><span>(</span><span>"B"</span><span>)</spa
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块05-Java对象拷贝</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9705%E2%80%94%E5%AF%B9%E8%B1%A1%E6%8B%B7%E8%B4%9D/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9705%E2%80%94%E5%AF%B9%E8%B1%A1%E6%8B%B7%E8%B4%9D/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>61.为什么要使用克隆?</p>
 <p>62.如何实现对象克隆?</p>
@@ -16899,14 +16851,14 @@ unmlist<span>.</span> <span>add</span><span>(</span><span>"B"</span><span>)</spa
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块06—Java Web</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9706%E2%80%94Java%20Web/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9706%E2%80%94Java%20Web/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>64.jsp和servlet有什么区别?</p>
 <p>65.jsp有哪些内置对象?作用分别是什么?</p>
@@ -17042,14 +16994,14 @@ unmlist<span>.</span> <span>add</span><span>(</span><span>"B"</span><span>)</spa
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块07—Java异常</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9707%E2%80%94%E5%BC%82%E5%B8%B8/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9707%E2%80%94%E5%BC%82%E5%B8%B8/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>74.throw和throws 的区别?</p>
 <p>75.final、finally、finalize有什么区别?</p>
@@ -17164,14 +17116,14 @@ unmlist<span>.</span> <span>add</span><span>(</span><span>"B"</span><span>)</spa
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块08—网络</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9708%E2%80%94%E7%BD%91%E7%BB%9C/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9708%E2%80%94%E7%BD%91%E7%BB%9C/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>79.http响应码301和302代表的是什么?有什么区别?</p>
 <p>80.forward和redirect的区别?</p>
@@ -17419,14 +17371,14 @@ Access-Control-Max-Age: 86400
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块09—设计模式</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9709%E2%80%94%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9709%E2%80%94%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>88.说一下你熟悉的设计模式?</p>
 <p>89.简单工厂和抽象工厂有什么区别?</p>
@@ -17948,14 +17900,14 @@ Access-Control-Max-Age: 86400
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块10—Spring/Spring MVC</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9710%E2%80%94SpringSpring%20MVC/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9710%E2%80%94SpringSpring%20MVC/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>90.为什么要使用Spring?</p>
 <p>91.解释一下什么是AOP?</p>
@@ -18172,14 +18124,14 @@ Access-Control-Max-Age: 86400
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块11—Spring Boot/Spring Cloud</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9711%E2%80%94Spring%20BootSpring%20Cloud/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9711%E2%80%94Spring%20BootSpring%20Cloud/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>104.什么是Spring Boot?</p>
 <p>105.为什么要用Spring Boot?</p>
@@ -18302,14 +18254,14 @@ Access-Control-Max-Age: 86400
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块12—Hibernate</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9712%E2%80%94Hibernate/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9712%E2%80%94Hibernate/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>113.为什么要使用Hibernate?</p>
 <p>114.什么是 ORM框架?</p>
@@ -18446,14 +18398,14 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块13—MyBatis</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9713%E2%80%94MyBatis/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9713%E2%80%94MyBatis/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>125.MyBatis 中#{和$0的区别是什么?</p>
 <p>126.MyBatis有几种分页方式?</p>
@@ -18470,7 +18422,7 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
 <ul>
 <li>#{}是预编译处理，${}是字符串替换；</li>
 <li>MyBatis在处理#{}时，会将sql中的#{}替换为?号，调用PreparedStatement的set方法来赋值；</li>
-<li>MyBatis在处理<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span></span><span>时，就是把</span></span></span></span>{}替换成变量的值；</li>
+<li>MyBatis在处理${}时，就是把${}替换成变量的值；</li>
 <li>使用**#{}可以有效的防止SQL注入**，提高系统安全性。</li>
 </ul>
 <h3 id="_126-mybatis有几种分页方式"> 126.MyBatis有几种分页方式?</h3>
@@ -18579,14 +18531,14 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块14—RabbitMQ</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9714%E2%80%94RabbitMQ/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9714%E2%80%94RabbitMQ/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>135.RabbitMQ的使用场景有哪些?</p>
 <p>136.RabbitMQ有哪些重要的角色?</p>
@@ -18628,14 +18580,14 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块15—Kafka</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9715%E2%80%94Kafka/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9715%E2%80%94Kafka/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>152.kafka可以脱离zookeeper单独使用吗?为什么?</p>
 <p>153.kafka有几种数据保留的策略?</p>
@@ -18655,14 +18607,14 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块16—Zookeeper</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9716%E2%80%94Zookeeper/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9716%E2%80%94Zookeeper/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>157.zookeeper是什么?</p>
 <p>158.zookeeper都有哪些功能?</p>
@@ -18686,14 +18638,14 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块17—MySQL</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9717%E2%80%94MySQL/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9717%E2%80%94MySQL/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="_1、数据库的三范式是什么"> 1、数据库的三范式是什么?</h2>
 <ul>
 <li>第一范式：强调的是列的原子性，即数据库表的每一列都是不可分割的原子数据项。</li>
@@ -18818,14 +18770,14 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块18—Redis</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9718%E2%80%94Redis/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9718%E2%80%94Redis/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>179.redis是什么?都有哪些使用场景?</p>
 <p>180.redis有哪些功能?</p>
@@ -18933,14 +18885,14 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">模块19—JVM</title>
     <id>http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9719%E2%80%94JVM/</id>
     <link href="http://qiqi.dreamagain.top/interview/Java208/%E6%A8%A1%E5%9D%9719%E2%80%94JVM/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题：</h2>
 <p>194.说一下 jvm的主要组成部分?及其作用?</p>
 <p>195.说一下 jvm运行时数据区?</p>
@@ -19095,14 +19047,14 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">面试准备</title>
     <id>http://qiqi.dreamagain.top/interview/</id>
     <link href="http://qiqi.dreamagain.top/interview/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p><img src="https://img.shields.io/badge/面经-blue.svg" alt="img" /></p>
 </blockquote>
@@ -19121,14 +19073,14 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">目录导航</title>
     <id>http://qiqi.dreamagain.top/outline/</id>
     <link href="http://qiqi.dreamagain.top/outline/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="关于"> 关于</h2>
 <ul>
 <li><a href="/about/intro.html">关于我</a></li>
@@ -19146,14 +19098,14 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">Tomcat架构</title>
     <id>http://qiqi.dreamagain.top/reading/Tomcat%E6%9E%B6%E6%9E%84/</id>
     <link href="http://qiqi.dreamagain.top/reading/Tomcat%E6%9E%B6%E6%9E%84/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <summary type="html"><![CDATA[<p>美好的事物往往是整洁而优雅的，但这并不等于简单</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>美好的事物往往是整洁而优雅的，但这并不等于简单</p>
@@ -19191,14 +19143,14 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">阅览室</title>
     <id>http://qiqi.dreamagain.top/reading/</id>
     <link href="http://qiqi.dreamagain.top/reading/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<ol>
 <li><a href="./Tomcat架构.html">Tomcat架构</a></li>
 </ol>
@@ -19210,14 +19162,14 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">推荐</title>
     <id>http://qiqi.dreamagain.top/suggest/</id>
     <link href="http://qiqi.dreamagain.top/suggest/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[ 
 <h2 id="编程学习网站"> 编程学习网站</h2>
 <h3 id="优质网站"> 优质网站</h3>
@@ -19255,14 +19207,14 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">windows下安装多版本Node</title>
     <id>http://qiqi.dreamagain.top/tool/nvm/</id>
     <link href="http://qiqi.dreamagain.top/tool/nvm/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <summary type="html"><![CDATA[<p><img src="https://img.shields.io/badge/nvm-blue.svg" alt="" />  <img src="https://img.shields.io/badge/Node.js-blue.svg" alt="" /> ![](https://img.shields.io/badge/npm -blue.svg)  <img src="https://img.shields.io/badge/yarn-blue.svg" alt="" /></p>
 ]]></summary>
     <content type="html"><![CDATA[<p><img src="https://img.shields.io/badge/nvm-blue.svg" alt="" />  <img src="https://img.shields.io/badge/Node.js-blue.svg" alt="" /> ![](https://img.shields.io/badge/npm -blue.svg)  <img src="https://img.shields.io/badge/yarn-blue.svg" alt="" /></p>
@@ -19533,14 +19485,14 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">常用工具</title>
     <id>http://qiqi.dreamagain.top/tool/online/common/</id>
     <link href="http://qiqi.dreamagain.top/tool/online/common/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<h2 id="一、搜索类在线工具"> 一、搜索类在线工具</h2>
 <ol>
 <li><a href="https://searchcode.com/" target="_blank" rel="noopener noreferrer">SearchCode</a> 是一个源码搜索引擎，目前支持从 Github、Bitbucket、Google Code、CodePlex、SourceForge 和 Fedora Project 平台搜索公开的源码。</li>
@@ -19608,9 +19560,9 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
 </ul>
 <h2 id="七、一个实用小插件"> 七、一个实用小插件</h2>
 <p>最后，再给大家推荐一个chrome插件<code>FeHelper</code> ，这个插件中囊括了很多上面介绍的在线工具的功能，如JSON格式化、时间戳转换、Markdown工具、编码解码、加密解密、正则验证等。</p>
-<div><p>转载</p>
+<p>::: right 转载</p>
 <p><a href="https://www.hollischuang.com/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7" target="_blank" rel="noopener noreferrer">Holis</a></p>
-</div>
+<p>:::</p>
 ]]></content>
     <author>
       <name>南辞</name>
@@ -19619,14 +19571,14 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">在线工具网站整理</title>
     <id>http://qiqi.dreamagain.top/tool/online/website/</id>
     <link href="http://qiqi.dreamagain.top/tool/online/website/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p><img src="https://img.shields.io/badge/在线工具-blue.svg" alt="" /> <img src="https://img.shields.io/badge/整理篇-blue.svg" alt="" /></p>
 </blockquote>
@@ -19652,14 +19604,14 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
   <entry>
     <title type="html">VPN</title>
     <id>http://qiqi.dreamagain.top/tool/vpn/</id>
     <link href="http://qiqi.dreamagain.top/tool/vpn/"/>
-    <updated>2021-08-22T04:49:15.000Z</updated>
+    <updated>2021-08-22T06:02:00.000Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p><img src="https://img.shields.io/badge/科学上网梯子-blue.svg" alt="" /></p>
 </blockquote>
@@ -19798,9 +19750,9 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
 <li>写邮件给 support@surfshark.com</li>
 </ol>
 <hr>
-<div><p>转载</p>
+<p>:::  right 转载</p>
 <p><a href="https://github.com/shenqianzou" target="_blank" rel="noopener noreferrer">shenqianzou</a>/<strong><a href="https://github.com/shenqianzou/tizi" target="_blank" rel="noopener noreferrer">tizi</a></strong></p>
-</div>
+<p>:::</p>
 ]]></content>
     <author>
       <name>南辞</name>
@@ -19809,7 +19761,7 @@ HQL是面向对象查询操作的，SQL是结构化查询语言 是面向数据�
     <contributor>
       <name>南辞</name>
     </contributor>
-    <published>2021-08-22T04:49:15.000Z</published>
+    <published>2021-08-22T06:02:00.000Z</published>
     <rights>Copyright by 南辞</rights>
   </entry>
 </feed>
