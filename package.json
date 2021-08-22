@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vuepress dev src --open --host localhost",
     "build": "vuepress build src --dest dist",
+    "export": "vuepress eject-hope src",
     "super:build": "node --max_old_space_size=8192 ./node_modules/vuepress/cli.js build src",
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "deploy.sh"
@@ -27,7 +28,6 @@
     "vuepress-plugin-cursor-effects": "^1.0.0",
     "vuepress-plugin-element-ui": "^1.1.0",
     "vuepress-plugin-meting": "^0.2.1",
-    "vuepress-plugin-reading-progress": "^1.0.10",
-    "vuepress-plugin-ribbon-animation": "^1.1.3"
+    "vuepress-plugin-reading-progress": "^1.0.10"
   }
 }

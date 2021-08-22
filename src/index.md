@@ -1,8 +1,9 @@
 ---
 blog: true
 # home: true
+showTitle: false
 bgImage: /images/1.jpg
-heroFullScreen: true
+# heroFullScreen: true
 project: 
   - name: 后端开发
     type: project

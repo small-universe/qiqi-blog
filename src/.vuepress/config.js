@@ -44,7 +44,7 @@ module.exports = config({
      
       intro: "/about/intro.html", //个人介绍地址
       sidebarDisplay: "mobile",
-      name: "羽子柒",  // 博客名
+      name: "南辞",  // 博客名
       avatar: "/avatar.jpg",  //头像
       links: {
         Zhihu: "https://zhihu.com/people/qiqiblog",
